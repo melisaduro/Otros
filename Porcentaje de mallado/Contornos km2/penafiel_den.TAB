@@ -1,0 +1,10 @@
+!table
+!version 1000
+!charset WindowsLatin1
+
+Definition Table
+  File "penafiel_den.xlsx"
+  Type XLS Titles Range "Hoja1!A2:B23"
+  Fields 2
+    LONGITUD Char (16) ;
+    LATITUD Char (16) ;

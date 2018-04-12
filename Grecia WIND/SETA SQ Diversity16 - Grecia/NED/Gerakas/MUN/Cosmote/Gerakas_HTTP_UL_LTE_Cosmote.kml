@@ -1,0 +1,2072 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoAwful3G">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoVeryBad3G">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoBad3G">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoSoSo3G">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoGood3G">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoVeryGood3G">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>Muestras 4G</name>
+<Folder>
+<name>352632087061440</name>
+<Placemark>
+<name> Testid: 795</name>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 6.56Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:31:06.018</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:31:07.762</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -110.7</font></p>
+ <p><font color="Black"> RSRQ: -9.6</font></p>
+ <p><font color="Black"> SINR: 8.6</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 96.4%</font></p>
+ <p><font color="Black"> % 16QAM: 3.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 40</font></p>
+ <p><font color="Black"> RBs When Allocated: 80</font></p>
+ <p><font color="Black"> % MIMO: 14.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848428,38.002075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 805</name>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 4.34Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:33:17.065</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:33:19.157</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -115.4</font></p>
+ <p><font color="Black"> RSRQ: -11.3</font></p>
+ <p><font color="Black"> SINR: 5.1</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 95%</font></p>
+ <p><font color="Black"> % 16QAM: 5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 38</font></p>
+ <p><font color="Black"> RBs When Allocated: 77</font></p>
+ <p><font color="Black"> % MIMO: 56.4%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848428,38.002075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 815</name>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 6.26Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:35:28.127</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:35:30.027</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -111.4</font></p>
+ <p><font color="Black"> RSRQ: -8.9</font></p>
+ <p><font color="Black"> SINR: 9.3</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 98.4%</font></p>
+ <p><font color="Black"> % 16QAM: 1.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 42</font></p>
+ <p><font color="Black"> RBs When Allocated: 85</font></p>
+ <p><font color="Black"> % MIMO: 99.8%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848428,38.002075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 825</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 12.30Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:37:39.559</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:37:41.103</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -103.8</font></p>
+ <p><font color="Black"> RSRQ: -8.1</font></p>
+ <p><font color="Black"> SINR: 12.9</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 3.7%</font></p>
+ <p><font color="Black"> % 16QAM: 96.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 40</font></p>
+ <p><font color="Black"> RBs When Allocated: 81</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 404</font></p>
+ <p><font color="Black"> PCI final: 404</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.846203,38.006417</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 835</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 11.31Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:39:49.352</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:39:50.963</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -109.4</font></p>
+ <p><font color="Black"> RSRQ: -8.1</font></p>
+ <p><font color="Black"> SINR: 11.4</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 51.9%</font></p>
+ <p><font color="Black"> % 16QAM: 48.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 37</font></p>
+ <p><font color="Black"> RBs When Allocated: 74</font></p>
+ <p><font color="Black"> % MIMO: 87.3%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 403</font></p>
+ <p><font color="Black"> PCI final: 403</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.843538,38.01248</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 845</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 21.74Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:42:00.504</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:42:01.871</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.7</font></p>
+ <p><font color="Black"> RSRQ: -8.1</font></p>
+ <p><font color="Black"> SINR: 17.3</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 33</font></p>
+ <p><font color="Black"> RBs When Allocated: 66</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 270</font></p>
+ <p><font color="Black"> PCI final: 270</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.845177,38.017645</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 875</name>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 8.07Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:48:38.910</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:48:40.738</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -102.4</font></p>
+ <p><font color="Black"> RSRQ: -11.2</font></p>
+ <p><font color="Black"> SINR: 2.3</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 69%</font></p>
+ <p><font color="Black"> % 16QAM: 31%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> RBs When Allocated: 77</font></p>
+ <p><font color="Black"> % MIMO: 64.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 402</font></p>
+ <p><font color="Black"> PCI final: 402</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.855565,38.023977</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 885</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 10.63Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:50:49.526</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:50:51.180</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -104</font></p>
+ <p><font color="Black"> RSRQ: -7.1</font></p>
+ <p><font color="Black"> SINR: 14.1</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 41.6%</font></p>
+ <p><font color="Black"> % 16QAM: 58.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> RBs When Allocated: 78</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 402</font></p>
+ <p><font color="Black"> PCI final: 402</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.857527,38.011103</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 895</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 16.82Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:53:04.802</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:53:06.352</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -84.7</font></p>
+ <p><font color="Black"> RSRQ: -10.8</font></p>
+ <p><font color="Black"> SINR: 9.9</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 6</font></p>
+ <p><font color="Black"> RBs When Allocated: 13</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 404</font></p>
+ <p><font color="Black"> PCI final: 403</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848252,38.009953</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 905</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 21.79Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:55:16.456</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:55:17.802</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -86.6</font></p>
+ <p><font color="Black"> RSRQ: -13.1</font></p>
+ <p><font color="Black"> SINR: 2.7</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 36</font></p>
+ <p><font color="Black"> RBs When Allocated: 73</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 404</font></p>
+ <p><font color="Black"> PCI final: 402</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849814,38.009467</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 915</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 10.70Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:57:28.151</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:57:29.792</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.7</font></p>
+ <p><font color="Black"> RSRQ: -8.6</font></p>
+ <p><font color="Black"> SINR: 10.7</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 61.2%</font></p>
+ <p><font color="Black"> % 16QAM: 38.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 37</font></p>
+ <p><font color="Black"> RBs When Allocated: 74</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.850945,37.998413</coordinates>
+</Point>
+</Placemark>
+<name>352632087061440</name>
+</Folder>
+<Folder>
+<name>352632087061671</name>
+<Placemark>
+<name> Testid: 353</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 0.53Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:31:22.894</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:31:39.333</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -116.5</font></p>
+ <p><font color="Black"> RSRQ: -10.3</font></p>
+ <p><font color="Black"> SINR: 4.9</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 100%</font></p>
+ <p><font color="Black"> % 16QAM: 0%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 10</font></p>
+ <p><font color="Black"> RBs When Allocated: 20</font></p>
+ <p><font color="Black"> % MIMO: 21.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848387,38.002108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 363</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 0.54Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:33:51.177</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:34:07.649</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -118.2</font></p>
+ <p><font color="Black"> RSRQ: -10.3</font></p>
+ <p><font color="Black"> SINR: 3.9</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 99.8%</font></p>
+ <p><font color="Black"> % 16QAM: 0.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 8</font></p>
+ <p><font color="Black"> RBs When Allocated: 17</font></p>
+ <p><font color="Black"> % MIMO: 59.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848387,38.002108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 373</name>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 7.20Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:36:15.455</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:36:17.072</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -103.6</font></p>
+ <p><font color="Black"> RSRQ: -9</font></p>
+ <p><font color="Black"> SINR: 13.2</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 33.5%</font></p>
+ <p><font color="Black"> % 16QAM: 66.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 32</font></p>
+ <p><font color="Black"> RBs When Allocated: 64</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848392,38.002162</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 383</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 15.04Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:38:25.849</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:38:27.276</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -100.7</font></p>
+ <p><font color="Black"> RSRQ: -7.5</font></p>
+ <p><font color="Black"> SINR: 18.2</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 10.4%</font></p>
+ <p><font color="Black"> % 16QAM: 89.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 34</font></p>
+ <p><font color="Black"> RBs When Allocated: 67</font></p>
+ <p><font color="Black"> % MIMO: 98.6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.847897,38.00196</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 403</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 21.19Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:42:43.926</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:42:45.303</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -91.2</font></p>
+ <p><font color="Black"> RSRQ: -9.5</font></p>
+ <p><font color="Black"> SINR: 8.5</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 37</font></p>
+ <p><font color="Black"> RBs When Allocated: 74</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 270</font></p>
+ <p><font color="Black"> PCI final: 270</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.844675,38.0168</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 413</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 23.11Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:44:53.707</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:44:55.043</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92.3</font></p>
+ <p><font color="Black"> RSRQ: -9.6</font></p>
+ <p><font color="Black"> SINR: 9.6</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 28</font></p>
+ <p><font color="Black"> RBs When Allocated: 56</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 449</font></p>
+ <p><font color="Black"> PCI final: 449</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849738,38.025528</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 423</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 22.49Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:47:05.379</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:47:06.837</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95.4</font></p>
+ <p><font color="Black"> RSRQ: -9.7</font></p>
+ <p><font color="Black"> SINR: 11</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 25</font></p>
+ <p><font color="Black"> RBs When Allocated: 49</font></p>
+ <p><font color="Black"> % MIMO: 45.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 449</font></p>
+ <p><font color="Black"> PCI final: 449</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849823,38.025783</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 433</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 21.24Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:49:16.952</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:49:18.405</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -83.8</font></p>
+ <p><font color="Black"> RSRQ: -11.8</font></p>
+ <p><font color="Black"> SINR: 12.6</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 20</font></p>
+ <p><font color="Black"> RBs When Allocated: 40</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 68</font></p>
+ <p><font color="Black"> PCI final: 68</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.855173,38.020985</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 443</name>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 9.49Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:51:26.881</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:51:28.628</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -108.5</font></p>
+ <p><font color="Black"> RSRQ: -9.2</font></p>
+ <p><font color="Black"> SINR: 10.3</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 75.7%</font></p>
+ <p><font color="Black"> % 16QAM: 24.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 41</font></p>
+ <p><font color="Black"> RBs When Allocated: 82</font></p>
+ <p><font color="Black"> % MIMO: 95.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 402</font></p>
+ <p><font color="Black"> PCI final: 402</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.857287,38.009805</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 453</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 28.54Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:53:37.411</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:53:38.761</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -83</font></p>
+ <p><font color="Black"> RSRQ: -7</font></p>
+ <p><font color="Black"> SINR: 21</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 24</font></p>
+ <p><font color="Black"> RBs When Allocated: 49</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 403</font></p>
+ <p><font color="Black"> PCI final: 403</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.844867,38.010502</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 463</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 18.69Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:55:47.322</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:55:48.816</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -86</font></p>
+ <p><font color="Black"> RSRQ: -10.5</font></p>
+ <p><font color="Black"> SINR: 11.2</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 37</font></p>
+ <p><font color="Black"> RBs When Allocated: 74</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 402</font></p>
+ <p><font color="Black"> PCI final: 402</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.853112,38.008902</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 473</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 15.01Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:58:00.150</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:58:01.665</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -101.9</font></p>
+ <p><font color="Black"> RSRQ: -7.8</font></p>
+ <p><font color="Black"> SINR: 17</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 3.2%</font></p>
+ <p><font color="Black"> % 16QAM: 96.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> RBs When Allocated: 79</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.850262,37.997793</coordinates>
+</Point>
+</Placemark>
+<name>352632087061671</name>
+</Folder>
+<name>Muestras 4G</name>
+</Folder>
+<Folder>
+<name>Muestras 3G</name>
+<name>Muestras 3G</name>
+</Folder>
+<Folder>
+<name>Muestras Mixtas</name>
+<Folder>
+<name>352632087061440</name>
+<Placemark>
+<name>Testid: 855</name>
+<styleUrl>#IconoVeryGood3G</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 22.14Mbps</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:44:12.940</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:44:14.409</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso HSPA DC: 0%</font></p>
+ <p><font color="Black"> Uso HSPA+ DC: 0%</font></p>
+ <p><font color="Black"> Uso HSPA: 0%</font></p>
+ <p><font color="Black"> Uso HSPA+: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP: 0</font></p>
+ <p><font color="Black"> EcIo: 0</font></p>
+ <p><font color="Black"> RSRP: -90.8</font></p>
+ <p><font color="Black"> RSRQ: -8</font></p>
+ <p><font color="Black"> SINR: 13.6</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 449</font></p>
+ <p><font color="Black"> PCI final: 449</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN Final: 1700</font></p>
+ <p><font color="Black"> SC inicial: </font></p>
+ <p><font color="Black"> SC final: </font></p>
+ <p><font color="Black"> UARFCN inicial: </font></p>
+ <p><font color="Black"> UARFCN Final: </font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849838,38.025603</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 865</name>
+<styleUrl>#IconoVeryGood3G</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 24.18Mbps</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:46:25.849</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:46:27.289</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso HSPA DC: 0%</font></p>
+ <p><font color="Black"> Uso HSPA+ DC: 0%</font></p>
+ <p><font color="Black"> Uso HSPA: 0%</font></p>
+ <p><font color="Black"> Uso HSPA+: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP: 0</font></p>
+ <p><font color="Black"> EcIo: 0</font></p>
+ <p><font color="Black"> RSRP: -85.1</font></p>
+ <p><font color="Black"> RSRQ: -7.9</font></p>
+ <p><font color="Black"> SINR: 11.8</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 449</font></p>
+ <p><font color="Black"> PCI final: 449</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN Final: 1700</font></p>
+ <p><font color="Black"> SC inicial: </font></p>
+ <p><font color="Black"> SC final: </font></p>
+ <p><font color="Black"> UARFCN inicial: </font></p>
+ <p><font color="Black"> UARFCN Final: </font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849958,38.025683</coordinates>
+</Point>
+</Placemark>
+<name>352632087061440</name>
+</Folder>
+<Folder>
+<name>352632087061671</name>
+<Placemark>
+<name>Testid: 393</name>
+<styleUrl>#IconoVeryGood3G</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Customer Experience</font></p>
+ <p><font color="Black"> Throughput: 23.57Mbps</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:40:34.692</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:40:36.015</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso HSPA DC: 0%</font></p>
+ <p><font color="Black"> Uso HSPA+ DC: 0%</font></p>
+ <p><font color="Black"> Uso HSPA: 0%</font></p>
+ <p><font color="Black"> Uso HSPA+: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP: 0</font></p>
+ <p><font color="Black"> EcIo: 0</font></p>
+ <p><font color="Black"> RSRP: -93.1</font></p>
+ <p><font color="Black"> RSRQ: -7.6</font></p>
+ <p><font color="Black"> SINR: 22.5</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 403</font></p>
+ <p><font color="Black"> PCI final: 403</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN Final: 3050</font></p>
+ <p><font color="Black"> SC inicial: </font></p>
+ <p><font color="Black"> SC final: </font></p>
+ <p><font color="Black"> UARFCN inicial: </font></p>
+ <p><font color="Black"> UARFCN Final: </font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.84406,38.010198</coordinates>
+</Point>
+</Placemark>
+<name>352632087061671</name>
+</Folder>
+<name>Muestras Mixtas</name>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>Muestras 4G</name>
+<Folder>
+<name>352632087061440</name>
+<Placemark>
+<name> Testid: 802</name>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 3.66Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:32:11.904</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:32:22.929</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -114.4</font></p>
+ <p><font color="Black"> RSRQ: -10.3</font></p>
+ <p><font color="Black"> SINR: 4.5</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 100%</font></p>
+ <p><font color="Black"> % 16QAM: 0%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 37</font></p>
+ <p><font color="Black"> RBs When Allocated: 74</font></p>
+ <p><font color="Black"> % MIMO: 52.3%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848428,38.002075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 812</name>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 3.70Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:34:23.188</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:34:34.218</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -113</font></p>
+ <p><font color="Black"> RSRQ: -8.9</font></p>
+ <p><font color="Black"> SINR: 7.8</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 99.9%</font></p>
+ <p><font color="Black"> % 16QAM: 0.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 40</font></p>
+ <p><font color="Black"> RBs When Allocated: 81</font></p>
+ <p><font color="Black"> % MIMO: 99.9%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848428,38.002075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 822</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 12.34Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:36:34.519</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:36:45.854</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -107.7</font></p>
+ <p><font color="Black"> RSRQ: -9.2</font></p>
+ <p><font color="Black"> SINR: 12.4</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 60.1%</font></p>
+ <p><font color="Black"> % 16QAM: 39.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 41</font></p>
+ <p><font color="Black"> RBs When Allocated: 81</font></p>
+ <p><font color="Black"> % MIMO: 82.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.84778,38.000285</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 832</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 24.12Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:38:45.369</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:38:55.790</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -93.2</font></p>
+ <p><font color="Black"> RSRQ: -7.3</font></p>
+ <p><font color="Black"> SINR: 19.8</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 37.5%</font></p>
+ <p><font color="Black"> % 16QAM: 62.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 42</font></p>
+ <p><font color="Black"> RBs When Allocated: 85</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 403</font></p>
+ <p><font color="Black"> PCI final: 403</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.843643,38.011793</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 842</name>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 6.75Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:40:54.596</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:41:06.234</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -111.9</font></p>
+ <p><font color="Black"> RSRQ: -7.9</font></p>
+ <p><font color="Black"> SINR: 9.4</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 99.5%</font></p>
+ <p><font color="Black"> % 16QAM: 0.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 44</font></p>
+ <p><font color="Black"> RBs When Allocated: 87</font></p>
+ <p><font color="Black"> % MIMO: 67.6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 403</font></p>
+ <p><font color="Black"> PCI final: 403</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.843584,38.013006</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 852</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 33.14Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:43:06.899</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:43:18.035</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -84.8</font></p>
+ <p><font color="Black"> RSRQ: -9.3</font></p>
+ <p><font color="Black"> SINR: 12</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 99.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 43</font></p>
+ <p><font color="Black"> RBs When Allocated: 85</font></p>
+ <p><font color="Black"> % MIMO: 95.2%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 68</font></p>
+ <p><font color="Black"> PCI final: 358</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.84813,38.022148</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 862</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 37.41Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:45:20.545</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:45:31.675</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -86.2</font></p>
+ <p><font color="Black"> RSRQ: -8.2</font></p>
+ <p><font color="Black"> SINR: 11</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 43</font></p>
+ <p><font color="Black"> RBs When Allocated: 87</font></p>
+ <p><font color="Black"> % MIMO: 99.6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 449</font></p>
+ <p><font color="Black"> PCI final: 449</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849957,38.025703</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 872</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 31.11Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:47:33.748</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:47:44.888</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92.2</font></p>
+ <p><font color="Black"> RSRQ: -9</font></p>
+ <p><font color="Black"> SINR: 10.7</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 99.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 43</font></p>
+ <p><font color="Black"> RBs When Allocated: 86</font></p>
+ <p><font color="Black"> % MIMO: 91.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 449</font></p>
+ <p><font color="Black"> PCI final: 449</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.850272,38.026208</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 882</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 18.57Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:49:45.075</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:49:55.296</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -98.6</font></p>
+ <p><font color="Black"> RSRQ: -8.6</font></p>
+ <p><font color="Black"> SINR: 10.8</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 7.7%</font></p>
+ <p><font color="Black"> % 16QAM: 92.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 43</font></p>
+ <p><font color="Black"> RBs When Allocated: 86</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 402</font></p>
+ <p><font color="Black"> PCI final: 402</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.854498,38.01538</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 892</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 31.99Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:51:59.587</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:52:10.725</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -87.6</font></p>
+ <p><font color="Black"> RSRQ: -11</font></p>
+ <p><font color="Black"> SINR: 11.3</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 41</font></p>
+ <p><font color="Black"> RBs When Allocated: 82</font></p>
+ <p><font color="Black"> % MIMO: 86.9%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 404</font></p>
+ <p><font color="Black"> PCI final: 404</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.854418,38.008768</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 902</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 39.94Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:54:11.095</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:54:22.238</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -89</font></p>
+ <p><font color="Black"> RSRQ: -8.2</font></p>
+ <p><font color="Black"> SINR: 24.9</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 41</font></p>
+ <p><font color="Black"> RBs When Allocated: 83</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 403</font></p>
+ <p><font color="Black"> PCI final: 403</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.844332,38.010535</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 912</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 17.64Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:56:22.496</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:56:33.733</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -101.3</font></p>
+ <p><font color="Black"> RSRQ: -7.2</font></p>
+ <p><font color="Black"> SINR: 14.4</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 11.8%</font></p>
+ <p><font color="Black"> % 16QAM: 88.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 42</font></p>
+ <p><font color="Black"> RBs When Allocated: 83</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 404</font></p>
+ <p><font color="Black"> PCI final: 404</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.854447,38.003568</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 922</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 33.51Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:58:34.790</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:58:45.924</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061440</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -88.6</font></p>
+ <p><font color="Black"> RSRQ: -7.7</font></p>
+ <p><font color="Black"> SINR: 14.6</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 43</font></p>
+ <p><font color="Black"> RBs When Allocated: 86</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849676,37.993092</coordinates>
+</Point>
+</Placemark>
+<name>352632087061440</name>
+</Folder>
+<Folder>
+<name>352632087061671</name>
+<Placemark>
+<name> Testid: 360</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 0.37Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:32:45.765</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:32:56.287</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -117.4</font></p>
+ <p><font color="Black"> RSRQ: -10.8</font></p>
+ <p><font color="Black"> SINR: 4.3</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 100%</font></p>
+ <p><font color="Black"> % 16QAM: 0%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 7</font></p>
+ <p><font color="Black"> RBs When Allocated: 13</font></p>
+ <p><font color="Black"> % MIMO: 86.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848387,38.002108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 370</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 16.13Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:35:11.379</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:35:21.500</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -102.9</font></p>
+ <p><font color="Black"> RSRQ: -8.3</font></p>
+ <p><font color="Black"> SINR: 12.7</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 11.7%</font></p>
+ <p><font color="Black"> % 16QAM: 88.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 43</font></p>
+ <p><font color="Black"> RBs When Allocated: 87</font></p>
+ <p><font color="Black"> % MIMO: 23.3%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848423,38.002112</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 380</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 22.00Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:37:21.076</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:37:32.217</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -94.7</font></p>
+ <p><font color="Black"> RSRQ: -8.3</font></p>
+ <p><font color="Black"> SINR: 15.4</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 5%</font></p>
+ <p><font color="Black"> % 16QAM: 95%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 41</font></p>
+ <p><font color="Black"> RBs When Allocated: 83</font></p>
+ <p><font color="Black"> % MIMO: 81.8%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.847982,38.001803</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 390</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 17.05Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:39:30.975</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:39:41.107</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -101.1</font></p>
+ <p><font color="Black"> RSRQ: -7.6</font></p>
+ <p><font color="Black"> SINR: 15</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 39.6%</font></p>
+ <p><font color="Black"> % 16QAM: 60.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 43</font></p>
+ <p><font color="Black"> RBs When Allocated: 87</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 403</font></p>
+ <p><font color="Black"> PCI final: 403</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.844543,38.009192</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 400</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 19.04Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:41:39.496</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:41:49.819</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -96</font></p>
+ <p><font color="Black"> RSRQ: -8</font></p>
+ <p><font color="Black"> SINR: 17.2</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 47.5%</font></p>
+ <p><font color="Black"> % 16QAM: 52.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 42</font></p>
+ <p><font color="Black"> RBs When Allocated: 85</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 403</font></p>
+ <p><font color="Black"> PCI final: 403</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.843534,38.012193</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 410</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 26.41Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:43:49.537</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:43:59.769</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -93.8</font></p>
+ <p><font color="Black"> RSRQ: -11.6</font></p>
+ <p><font color="Black"> SINR: 3</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 99.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 44</font></p>
+ <p><font color="Black"> RBs When Allocated: 87</font></p>
+ <p><font color="Black"> % MIMO: 4.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 358</font></p>
+ <p><font color="Black"> PCI final: 449</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848545,38.023478</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 420</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 35.52Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:46:00.098</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:46:11.233</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -94.7</font></p>
+ <p><font color="Black"> RSRQ: -9.6</font></p>
+ <p><font color="Black"> SINR: 9.5</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 43</font></p>
+ <p><font color="Black"> RBs When Allocated: 87</font></p>
+ <p><font color="Black"> % MIMO: 73.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 449</font></p>
+ <p><font color="Black"> PCI final: 449</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849877,38.025815</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 430</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 14.16Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:48:11.769</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:48:22.998</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -104.3</font></p>
+ <p><font color="Black"> RSRQ: -11</font></p>
+ <p><font color="Black"> SINR: 4</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 46.5%</font></p>
+ <p><font color="Black"> % 16QAM: 53.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 44</font></p>
+ <p><font color="Black"> RBs When Allocated: 88</font></p>
+ <p><font color="Black"> % MIMO: 89.9%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 449</font></p>
+ <p><font color="Black"> PCI final: 449</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.853355,38.025234</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 440</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 16.75Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:50:21.637</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:50:32.769</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -97.3</font></p>
+ <p><font color="Black"> RSRQ: -8</font></p>
+ <p><font color="Black"> SINR: 12.2</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 15%</font></p>
+ <p><font color="Black"> % 16QAM: 85%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 42</font></p>
+ <p><font color="Black"> RBs When Allocated: 83</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 402</font></p>
+ <p><font color="Black"> PCI final: 402</font></p>
+ <p><font color="Black"> EARFCN inicial: 1700</font></p>
+ <p><font color="Black"> EARFCN final: 1700</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.857188,38.012918</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 450</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 35.28Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:52:32.714</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:52:43.856</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -86.5</font></p>
+ <p><font color="Black"> RSRQ: -11.6</font></p>
+ <p><font color="Black"> SINR: 10.8</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 41</font></p>
+ <p><font color="Black"> RBs When Allocated: 81</font></p>
+ <p><font color="Black"> % MIMO: 98.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 404</font></p>
+ <p><font color="Black"> PCI final: 404</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.85348,38.009</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 460</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 37.20Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:54:42.007</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:54:53.138</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -83.8</font></p>
+ <p><font color="Black"> RSRQ: -8</font></p>
+ <p><font color="Black"> SINR: 24.5</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 40</font></p>
+ <p><font color="Black"> RBs When Allocated: 80</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 403</font></p>
+ <p><font color="Black"> PCI final: 403</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.843972,38.010497</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 470</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 10.84Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:56:55.590</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:57:06.719</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.5</font></p>
+ <p><font color="Black"> RSRQ: -8</font></p>
+ <p><font color="Black"> SINR: 9.2</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 81.5%</font></p>
+ <p><font color="Black"> % 16QAM: 18.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 42</font></p>
+ <p><font color="Black"> RBs When Allocated: 84</font></p>
+ <p><font color="Black"> % MIMO: 97.3%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 404</font></p>
+ <p><font color="Black"> PCI final: 404</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.85465,38.000454</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Testid: 480</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Network Capability</font></p>
+ <p><font color="Black"> Throughput: 32.32Mbps</font></p>
+ <p><font color="Black"> Fecha: 2018-03-16 15:59:04.794</font></p>
+ <p><font color="Black"> Hora: 2018-03-16 15:59:15.825</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061671</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92.4</font></p>
+ <p><font color="Black"> RSRQ: -7.6</font></p>
+ <p><font color="Black"> SINR: 13.3</font></p>
+ <p><font color="Black"> % BPSK: 0%</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 100%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 41</font></p>
+ <p><font color="Black"> RBs When Allocated: 83</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 289</font></p>
+ <p><font color="Black"> PCI final: 289</font></p>
+ <p><font color="Black"> EARFCN inicial: 3050</font></p>
+ <p><font color="Black"> EARFCN final: 3050</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848212,37.994232</coordinates>
+</Point>
+</Placemark>
+<name>352632087061671</name>
+</Folder>
+<name>Muestras 4G</name>
+</Folder>
+<Folder>
+<name>Muestras 3G</name>
+<name>Muestras 3G</name>
+</Folder>
+<Folder>
+<name>Muestras Mixtas</name>
+<Folder>
+<name>352632087061440</name>
+<name>352632087061440</name>
+</Folder>
+<Folder>
+<name>352632087061671</name>
+<name>352632087061671</name>
+</Folder>
+<name>Muestras Mixtas</name>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_FTP_UL_2x2_LTE.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

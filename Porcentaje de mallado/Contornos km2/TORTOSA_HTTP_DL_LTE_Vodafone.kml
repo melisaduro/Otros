@@ -1,0 +1,2412 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwful3G">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad3G">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad3G">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo3G">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood3G">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood3G">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>muestras 4G</name>
+<Folder>
+<name>354201062974478</name>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50529</font></p>
+ <p><font color="Black"> Throughput: 45544Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:02:44.514</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:02:44.514</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -98.3</font></p>
+ <p><font color="Black"> RSRQ: -6.8</font></p>
+ <p><font color="Black"> SINR: 19.1</font></p>
+ <p><font color="Black"> % QPSK: 12.6%</font></p>
+ <p><font color="Black"> % 16QAM: 11.6%</font></p>
+ <p><font color="Black"> % 64QAM: 75.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 56</font></p>
+ <p><font color="Black"> Resource Blocks Max: 56</font></p>
+ <p><font color="Black"> Resource Blocks Min: 56</font></p>
+ <p><font color="Black"> RBs When Allocated: 91</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.6%</font></p>
+ <p><font color="Black"> CQI: 11.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110158595</font></p>
+ <p><font color="Black"> Celda final: 110158595</font></p>
+ <p><font color="Black"> PCI inicial: 473</font></p>
+ <p><font color="Black"> PCI final: 473</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.517636666666667,40.8044816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50547</font></p>
+ <p><font color="Black"> Throughput: 46494Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:06:07.144</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:06:07.144</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -98.9</font></p>
+ <p><font color="Black"> RSRQ: -7.6</font></p>
+ <p><font color="Black"> SINR: 17.8</font></p>
+ <p><font color="Black"> % QPSK: 2.7%</font></p>
+ <p><font color="Black"> % 16QAM: 19.2%</font></p>
+ <p><font color="Black"> % 64QAM: 78.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 80</font></p>
+ <p><font color="Black"> Resource Blocks Max: 80</font></p>
+ <p><font color="Black"> Resource Blocks Min: 80</font></p>
+ <p><font color="Black"> RBs When Allocated: 98</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.8%</font></p>
+ <p><font color="Black"> CQI: 13.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 77.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 22.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 22.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110158595</font></p>
+ <p><font color="Black"> Celda final: 110158595</font></p>
+ <p><font color="Black"> PCI inicial: 473</font></p>
+ <p><font color="Black"> PCI final: 473</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.519301666666667,40.80532</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50569</font></p>
+ <p><font color="Black"> Throughput: 20844Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:10:19.637</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:10:19.637</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -104.6</font></p>
+ <p><font color="Black"> RSRQ: -9.6</font></p>
+ <p><font color="Black"> SINR: 11.7</font></p>
+ <p><font color="Black"> % QPSK: 22%</font></p>
+ <p><font color="Black"> % 16QAM: 49.1%</font></p>
+ <p><font color="Black"> % 64QAM: 28.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 36</font></p>
+ <p><font color="Black"> Resource Blocks Max: 50</font></p>
+ <p><font color="Black"> Resource Blocks Min: 13</font></p>
+ <p><font color="Black"> RBs When Allocated: 99</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 11</font></p>
+ <p><font color="Black"> Rank Indicator 1: 60.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 39.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 39.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110158595</font></p>
+ <p><font color="Black"> Celda final: 110158595</font></p>
+ <p><font color="Black"> PCI inicial: 473</font></p>
+ <p><font color="Black"> PCI final: 473</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.5192,40.80599</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50587</font></p>
+ <p><font color="Black"> Throughput: 58526Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:13:40.578</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:13:40.578</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -80.7</font></p>
+ <p><font color="Black"> RSRQ: -6.7</font></p>
+ <p><font color="Black"> SINR: 24.1</font></p>
+ <p><font color="Black"> % QPSK: 6%</font></p>
+ <p><font color="Black"> % 16QAM: 2.3%</font></p>
+ <p><font color="Black"> % 64QAM: 91.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 54</font></p>
+ <p><font color="Black"> Resource Blocks Max: 54</font></p>
+ <p><font color="Black"> Resource Blocks Min: 54</font></p>
+ <p><font color="Black"> RBs When Allocated: 96</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 14.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110158595</font></p>
+ <p><font color="Black"> Celda final: 110158595</font></p>
+ <p><font color="Black"> PCI inicial: 473</font></p>
+ <p><font color="Black"> PCI final: 473</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.519306666666667,40.803825</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50649</font></p>
+ <p><font color="Black"> Throughput: 57590Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:25:32.779</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:25:32.779</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95.2</font></p>
+ <p><font color="Black"> RSRQ: -6.7</font></p>
+ <p><font color="Black"> SINR: 22</font></p>
+ <p><font color="Black"> % QPSK: 8.1%</font></p>
+ <p><font color="Black"> % 16QAM: 2.3%</font></p>
+ <p><font color="Black"> % 64QAM: 89.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 44</font></p>
+ <p><font color="Black"> Resource Blocks Max: 44</font></p>
+ <p><font color="Black"> Resource Blocks Min: 44</font></p>
+ <p><font color="Black"> RBs When Allocated: 95</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 13.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362886</font></p>
+ <p><font color="Black"> Celda final: 110362886</font></p>
+ <p><font color="Black"> PCI inicial: 467</font></p>
+ <p><font color="Black"> PCI final: 467</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.52069,40.811405</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50667</font></p>
+ <p><font color="Black"> Throughput: 40046Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:28:53.346</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:28:53.346</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -91.5</font></p>
+ <p><font color="Black"> RSRQ: -8.8</font></p>
+ <p><font color="Black"> SINR: 21.5</font></p>
+ <p><font color="Black"> % QPSK: 6%</font></p>
+ <p><font color="Black"> % 16QAM: 2.7%</font></p>
+ <p><font color="Black"> % 64QAM: 91.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 73</font></p>
+ <p><font color="Black"> Resource Blocks Max: 73</font></p>
+ <p><font color="Black"> Resource Blocks Min: 73</font></p>
+ <p><font color="Black"> RBs When Allocated: 97</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.7%</font></p>
+ <p><font color="Black"> CQI: 14.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362884</font></p>
+ <p><font color="Black"> Celda final: 110362884</font></p>
+ <p><font color="Black"> PCI inicial: 465</font></p>
+ <p><font color="Black"> PCI final: 465</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.521403333333333,40.81045</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50689</font></p>
+ <p><font color="Black"> Throughput: 55381Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:33:05.780</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:33:05.780</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -90</font></p>
+ <p><font color="Black"> RSRQ: -6.7</font></p>
+ <p><font color="Black"> SINR: 24.4</font></p>
+ <p><font color="Black"> % QPSK: 4.1%</font></p>
+ <p><font color="Black"> % 16QAM: 2.9%</font></p>
+ <p><font color="Black"> % 64QAM: 93%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 53</font></p>
+ <p><font color="Black"> Resource Blocks Max: 53</font></p>
+ <p><font color="Black"> Resource Blocks Min: 53</font></p>
+ <p><font color="Black"> RBs When Allocated: 97</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 13.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362885</font></p>
+ <p><font color="Black"> Celda final: 110362885</font></p>
+ <p><font color="Black"> PCI inicial: 466</font></p>
+ <p><font color="Black"> PCI final: 466</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.519971666666667,40.810295</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50707</font></p>
+ <p><font color="Black"> Throughput: 40488Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:36:25.721</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:36:25.721</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -102.1</font></p>
+ <p><font color="Black"> RSRQ: -8.5</font></p>
+ <p><font color="Black"> SINR: 16.2</font></p>
+ <p><font color="Black"> % QPSK: 3.2%</font></p>
+ <p><font color="Black"> % 16QAM: 38.5%</font></p>
+ <p><font color="Black"> % 64QAM: 58.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 79</font></p>
+ <p><font color="Black"> Resource Blocks Max: 79</font></p>
+ <p><font color="Black"> Resource Blocks Min: 79</font></p>
+ <p><font color="Black"> RBs When Allocated: 98</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.8%</font></p>
+ <p><font color="Black"> CQI: 10.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 33.8%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 66.2%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 66.2%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362881</font></p>
+ <p><font color="Black"> Celda final: 110362881</font></p>
+ <p><font color="Black"> PCI inicial: 465</font></p>
+ <p><font color="Black"> PCI final: 465</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.521841666666667,40.8095066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50729</font></p>
+ <p><font color="Black"> Throughput: 29115Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:40:38.112</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:40:38.112</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -83.8</font></p>
+ <p><font color="Black"> RSRQ: -7</font></p>
+ <p><font color="Black"> SINR: 25.8</font></p>
+ <p><font color="Black"> % QPSK: 1.2%</font></p>
+ <p><font color="Black"> % 16QAM: 10.4%</font></p>
+ <p><font color="Black"> % 64QAM: 88.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 32</font></p>
+ <p><font color="Black"> Resource Blocks Max: 37</font></p>
+ <p><font color="Black"> Resource Blocks Min: 26</font></p>
+ <p><font color="Black"> RBs When Allocated: 48</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 14.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110160392</font></p>
+ <p><font color="Black"> Celda final: 110160392</font></p>
+ <p><font color="Black"> PCI inicial: 85</font></p>
+ <p><font color="Black"> PCI final: 85</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.522746666666667,40.810005</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50747</font></p>
+ <p><font color="Black"> Throughput: 57133Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:44:00.717</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:44:00.717</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -78.3</font></p>
+ <p><font color="Black"> RSRQ: -7.2</font></p>
+ <p><font color="Black"> SINR: 24.7</font></p>
+ <p><font color="Black"> % QPSK: 7.2%</font></p>
+ <p><font color="Black"> % 16QAM: 3.1%</font></p>
+ <p><font color="Black"> % 64QAM: 89.7%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 54</font></p>
+ <p><font color="Black"> Resource Blocks Max: 54</font></p>
+ <p><font color="Black"> Resource Blocks Min: 54</font></p>
+ <p><font color="Black"> RBs When Allocated: 95</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 14</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362882</font></p>
+ <p><font color="Black"> Celda final: 110362882</font></p>
+ <p><font color="Black"> PCI inicial: 466</font></p>
+ <p><font color="Black"> PCI final: 466</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.519375,40.8105583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50769</font></p>
+ <p><font color="Black"> Throughput: 58435Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:48:11.718</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:48:11.718</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -91.8</font></p>
+ <p><font color="Black"> RSRQ: -6.8</font></p>
+ <p><font color="Black"> SINR: 26.9</font></p>
+ <p><font color="Black"> % QPSK: 11.2%</font></p>
+ <p><font color="Black"> % 16QAM: 4%</font></p>
+ <p><font color="Black"> % 64QAM: 84.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 45</font></p>
+ <p><font color="Black"> Resource Blocks Max: 45</font></p>
+ <p><font color="Black"> Resource Blocks Min: 45</font></p>
+ <p><font color="Black"> RBs When Allocated: 92</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 15</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362885</font></p>
+ <p><font color="Black"> Celda final: 110362885</font></p>
+ <p><font color="Black"> PCI inicial: 466</font></p>
+ <p><font color="Black"> PCI final: 466</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.519541666666667,40.8109083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50787</font></p>
+ <p><font color="Black"> Throughput: 9883Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:51:37.456</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:51:37.456</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -112.6</font></p>
+ <p><font color="Black"> RSRQ: -10.8</font></p>
+ <p><font color="Black"> SINR: 4.9</font></p>
+ <p><font color="Black"> % QPSK: 27.6%</font></p>
+ <p><font color="Black"> % 16QAM: 40.8%</font></p>
+ <p><font color="Black"> % 64QAM: 31.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 24</font></p>
+ <p><font color="Black"> Resource Blocks Max: 30</font></p>
+ <p><font color="Black"> Resource Blocks Min: 19</font></p>
+ <p><font color="Black"> RBs When Allocated: 49</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 7.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 55.7%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 44.3%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 44.3%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110135047</font></p>
+ <p><font color="Black"> Celda final: 110135047</font></p>
+ <p><font color="Black"> PCI inicial: 468</font></p>
+ <p><font color="Black"> PCI final: 468</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.525021666666667,40.8192333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50827</font></p>
+ <p><font color="Black"> Throughput: 32245Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:59:21.627</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:59:21.627</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92</font></p>
+ <p><font color="Black"> RSRQ: -6.8</font></p>
+ <p><font color="Black"> SINR: 23.1</font></p>
+ <p><font color="Black"> % QPSK: 1.3%</font></p>
+ <p><font color="Black"> % 16QAM: 5.2%</font></p>
+ <p><font color="Black"> % 64QAM: 93.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 28</font></p>
+ <p><font color="Black"> Resource Blocks Max: 42</font></p>
+ <p><font color="Black"> Resource Blocks Min: 13</font></p>
+ <p><font color="Black"> RBs When Allocated: 48</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 13</font></p>
+ <p><font color="Black"> Rank Indicator 1: 28.7%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 71.3%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 71.3%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110160391</font></p>
+ <p><font color="Black"> Celda final: 110160391</font></p>
+ <p><font color="Black"> PCI inicial: 84</font></p>
+ <p><font color="Black"> PCI final: 84</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.52583,40.8146316666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50849</font></p>
+ <p><font color="Black"> Throughput: 27194Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:03:34.141</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:03:34.141</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -88.7</font></p>
+ <p><font color="Black"> RSRQ: -6.9</font></p>
+ <p><font color="Black"> SINR: 20.5</font></p>
+ <p><font color="Black"> % QPSK: 1.5%</font></p>
+ <p><font color="Black"> % 16QAM: 4.5%</font></p>
+ <p><font color="Black"> % 64QAM: 94%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 26</font></p>
+ <p><font color="Black"> Resource Blocks Max: 27</font></p>
+ <p><font color="Black"> Resource Blocks Min: 26</font></p>
+ <p><font color="Black"> RBs When Allocated: 48</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 12.6</font></p>
+ <p><font color="Black"> Rank Indicator 1: 70.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 29.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 29.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110160391</font></p>
+ <p><font color="Black"> Celda final: 110160391</font></p>
+ <p><font color="Black"> PCI inicial: 84</font></p>
+ <p><font color="Black"> PCI final: 84</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.52489,40.8142</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50867</font></p>
+ <p><font color="Black"> Throughput: 14626Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:06:57.277</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:06:57.277</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -100.9</font></p>
+ <p><font color="Black"> RSRQ: -9.8</font></p>
+ <p><font color="Black"> SINR: 8.9</font></p>
+ <p><font color="Black"> % QPSK: 31.5%</font></p>
+ <p><font color="Black"> % 16QAM: 61.1%</font></p>
+ <p><font color="Black"> % 64QAM: 7.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 36</font></p>
+ <p><font color="Black"> Resource Blocks Max: 47</font></p>
+ <p><font color="Black"> Resource Blocks Min: 19</font></p>
+ <p><font color="Black"> RBs When Allocated: 49</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 9.6</font></p>
+ <p><font color="Black"> Rank Indicator 1: 50.6%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 49.4%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 49.4%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 238362889</font></p>
+ <p><font color="Black"> Celda final: 238362889</font></p>
+ <p><font color="Black"> PCI inicial: 467</font></p>
+ <p><font color="Black"> PCI final: 467</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.52171,40.81672</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50889</font></p>
+ <p><font color="Black"> Throughput: 30966Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:11:09.445</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:11:09.445</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -111.4</font></p>
+ <p><font color="Black"> RSRQ: -8.3</font></p>
+ <p><font color="Black"> SINR: 9.9</font></p>
+ <p><font color="Black"> % QPSK: 1.3%</font></p>
+ <p><font color="Black"> % 16QAM: 29.5%</font></p>
+ <p><font color="Black"> % 64QAM: 69.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> Resource Blocks Max: 49</font></p>
+ <p><font color="Black"> Resource Blocks Min: 29</font></p>
+ <p><font color="Black"> RBs When Allocated: 98</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 10</font></p>
+ <p><font color="Black"> Rank Indicator 1: 77.6%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 22.4%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 22.4%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362883</font></p>
+ <p><font color="Black"> Celda final: 110362883</font></p>
+ <p><font color="Black"> PCI inicial: 467</font></p>
+ <p><font color="Black"> PCI final: 467</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.519493333333333,40.814965</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50929</font></p>
+ <p><font color="Black"> Throughput: 33248Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:18:53.186</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:18:53.186</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.8</font></p>
+ <p><font color="Black"> RSRQ: -7.9</font></p>
+ <p><font color="Black"> SINR: 15.2</font></p>
+ <p><font color="Black"> % QPSK: 1.7%</font></p>
+ <p><font color="Black"> % 16QAM: 0.5%</font></p>
+ <p><font color="Black"> % 64QAM: 97.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 26</font></p>
+ <p><font color="Black"> Resource Blocks Max: 41</font></p>
+ <p><font color="Black"> Resource Blocks Min: 11</font></p>
+ <p><font color="Black"> RBs When Allocated: 98</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 13.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362882</font></p>
+ <p><font color="Black"> Celda final: 110362882</font></p>
+ <p><font color="Black"> PCI inicial: 466</font></p>
+ <p><font color="Black"> PCI final: 466</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.516116666666667,40.8120583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50947</font></p>
+ <p><font color="Black"> Throughput: 40070Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:22:14.267</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:22:14.267</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -89.5</font></p>
+ <p><font color="Black"> RSRQ: -8.1</font></p>
+ <p><font color="Black"> SINR: 17.9</font></p>
+ <p><font color="Black"> % QPSK: 3.8%</font></p>
+ <p><font color="Black"> % 16QAM: 1.5%</font></p>
+ <p><font color="Black"> % 64QAM: 94.7%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 74</font></p>
+ <p><font color="Black"> Resource Blocks Max: 74</font></p>
+ <p><font color="Black"> Resource Blocks Min: 74</font></p>
+ <p><font color="Black"> RBs When Allocated: 98</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.7%</font></p>
+ <p><font color="Black"> CQI: 13.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362885</font></p>
+ <p><font color="Black"> Celda final: 110362885</font></p>
+ <p><font color="Black"> PCI inicial: 466</font></p>
+ <p><font color="Black"> PCI final: 466</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.517763333333333,40.81195</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50969</font></p>
+ <p><font color="Black"> Throughput: 29928Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:26:26.725</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:26:26.725</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -111.9</font></p>
+ <p><font color="Black"> RSRQ: -9.1</font></p>
+ <p><font color="Black"> SINR: 8.8</font></p>
+ <p><font color="Black"> % QPSK: 3.4%</font></p>
+ <p><font color="Black"> % 16QAM: 9.4%</font></p>
+ <p><font color="Black"> % 64QAM: 87.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 28</font></p>
+ <p><font color="Black"> Resource Blocks Max: 35</font></p>
+ <p><font color="Black"> Resource Blocks Min: 22</font></p>
+ <p><font color="Black"> RBs When Allocated: 97</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 10.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110415362</font></p>
+ <p><font color="Black"> Celda final: 110415362</font></p>
+ <p><font color="Black"> PCI inicial: 475</font></p>
+ <p><font color="Black"> PCI final: 475</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.51694,40.8161016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 50987</font></p>
+ <p><font color="Black"> Throughput: 38449Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:29:49.623</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:29:49.623</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.1</font></p>
+ <p><font color="Black"> RSRQ: -6.8</font></p>
+ <p><font color="Black"> SINR: 21.5</font></p>
+ <p><font color="Black"> % QPSK: 2.4%</font></p>
+ <p><font color="Black"> % 16QAM: 0.7%</font></p>
+ <p><font color="Black"> % 64QAM: 96.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 24</font></p>
+ <p><font color="Black"> Resource Blocks Max: 41</font></p>
+ <p><font color="Black"> Resource Blocks Min: 7</font></p>
+ <p><font color="Black"> RBs When Allocated: 46</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 14.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110832136</font></p>
+ <p><font color="Black"> Celda final: 110832136</font></p>
+ <p><font color="Black"> PCI inicial: 340</font></p>
+ <p><font color="Black"> PCI final: 340</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.513378333333333,40.8161766666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 51009</font></p>
+ <p><font color="Black"> Throughput: 20653Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:34:04.427</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:34:04.427</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -104.1</font></p>
+ <p><font color="Black"> RSRQ: -7.7</font></p>
+ <p><font color="Black"> SINR: 11.7</font></p>
+ <p><font color="Black"> % QPSK: 0.9%</font></p>
+ <p><font color="Black"> % 16QAM: 0.7%</font></p>
+ <p><font color="Black"> % 64QAM: 98.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 18</font></p>
+ <p><font color="Black"> Resource Blocks Max: 28</font></p>
+ <p><font color="Black"> Resource Blocks Min: 7</font></p>
+ <p><font color="Black"> RBs When Allocated: 48</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 11.6</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110832136</font></p>
+ <p><font color="Black"> Celda final: 110832136</font></p>
+ <p><font color="Black"> PCI inicial: 340</font></p>
+ <p><font color="Black"> PCI final: 340</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.515778333333333,40.8145166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 48548</font></p>
+ <p><font color="Black"> Throughput: 34047Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 11:19:18.517</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 11:19:18.517</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -86.2</font></p>
+ <p><font color="Black"> RSRQ: -8.3</font></p>
+ <p><font color="Black"> SINR: 27.1</font></p>
+ <p><font color="Black"> % QPSK: 2.3%</font></p>
+ <p><font color="Black"> % 16QAM: 1.8%</font></p>
+ <p><font color="Black"> % 64QAM: 95.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 19</font></p>
+ <p><font color="Black"> Resource Blocks Max: 24</font></p>
+ <p><font color="Black"> Resource Blocks Min: 14</font></p>
+ <p><font color="Black"> RBs When Allocated: 39</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 14.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110160392</font></p>
+ <p><font color="Black"> Celda final: 110160392</font></p>
+ <p><font color="Black"> PCI inicial: 85</font></p>
+ <p><font color="Black"> PCI final: 85</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.52488,40.80989</coordinates>
+</Point>
+</Placemark>
+<name>354201062974478</name>
+</Folder>
+<name>muestras 4G</name>
+</Folder>
+<Folder>
+<name>muestras 3G</name>
+<Folder>
+<name>354201062974478</name>
+<Placemark>
+<styleUrl>#IconoAwful3G</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 48508</font></p>
+ <p><font color="Black"> Throughput: 1746Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 11:11:41.944</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 11:11:41.944</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.7</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> % DTX DSCH: 52%</font></p>
+ <p><font color="Black"> % BLER: 27.5%</font></p>
+ <p><font color="Black"> % NACKs: 13%</font></p>
+ <p><font color="Black"> % SCCH: 47.9%</font></p>
+ <p><font color="Black"> % QPSK: 30.3%</font></p>
+ <p><font color="Black"> % 16QAM: 67.9%</font></p>
+ <p><font color="Black"> % 64QAM: 1.8%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.4823361628968</font></p>
+ <p><font color="Black"> EcIo AVG: -10.2234402570836</font></p>
+ <p><font color="Black"> CellId inicial: 1501</font></p>
+ <p><font color="Black"> CellId final: 1501</font></p>
+ <p><font color="Black"> SC inicial: 107</font></p>
+ <p><font color="Black"> SC final: 107</font></p>
+ <p><font color="Black"> LAC inicial: 29103</font></p>
+ <p><font color="Black"> LAC final: 29103</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.524333333333333,40.801855</coordinates>
+</Point>
+</Placemark>
+<name>354201062974478</name>
+</Folder>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>muestras 4G</name>
+<Folder>
+<name>354201062974478</name>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50516</font></p>
+ <p><font color="Black"> Throughput: 36908Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 07:59:49.386</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 07:59:49.386</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -107.7</font></p>
+ <p><font color="Black"> RSRQ: -11.1</font></p>
+ <p><font color="Black"> SINR: 11.3</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 0%</font></p>
+ <p><font color="Black"> % 64QAM: 99.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 47</font></p>
+ <p><font color="Black"> Resource Blocks Max: 51</font></p>
+ <p><font color="Black"> Resource Blocks Min: 40</font></p>
+ <p><font color="Black"> RBs When Allocated: 99</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 11.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110158595</font></p>
+ <p><font color="Black"> Celda final: 110158595</font></p>
+ <p><font color="Black"> PCI inicial: 473</font></p>
+ <p><font color="Black"> PCI final: 473</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.515778333333333,40.80461</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50538</font></p>
+ <p><font color="Black"> Throughput: 56982Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:03:59.612</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:03:59.612</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -94.1</font></p>
+ <p><font color="Black"> RSRQ: -10.6</font></p>
+ <p><font color="Black"> SINR: 20</font></p>
+ <p><font color="Black"> % QPSK: 0.9%</font></p>
+ <p><font color="Black"> % 16QAM: 14.5%</font></p>
+ <p><font color="Black"> % 64QAM: 84.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 91</font></p>
+ <p><font color="Black"> Resource Blocks Max: 100</font></p>
+ <p><font color="Black"> Resource Blocks Min: 55</font></p>
+ <p><font color="Black"> RBs When Allocated: 99</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.9%</font></p>
+ <p><font color="Black"> CQI: 11.2</font></p>
+ <p><font color="Black"> Rank Indicator 1: 35.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 64.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 64.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110158593</font></p>
+ <p><font color="Black"> Celda final: 110158593</font></p>
+ <p><font color="Black"> PCI inicial: 471</font></p>
+ <p><font color="Black"> PCI final: 471</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.520398333333333,40.8060233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50556</font></p>
+ <p><font color="Black"> Throughput: 73586Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:07:24.028</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:07:24.028</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -100.3</font></p>
+ <p><font color="Black"> RSRQ: -9.9</font></p>
+ <p><font color="Black"> SINR: 18.6</font></p>
+ <p><font color="Black"> % QPSK: 1.3%</font></p>
+ <p><font color="Black"> % 16QAM: 1.5%</font></p>
+ <p><font color="Black"> % 64QAM: 97.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 85</font></p>
+ <p><font color="Black"> Resource Blocks Max: 100</font></p>
+ <p><font color="Black"> Resource Blocks Min: 17</font></p>
+ <p><font color="Black"> RBs When Allocated: 97</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.8%</font></p>
+ <p><font color="Black"> CQI: 11</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110158595</font></p>
+ <p><font color="Black"> Celda final: 110158595</font></p>
+ <p><font color="Black"> PCI inicial: 473</font></p>
+ <p><font color="Black"> PCI final: 473</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.51638,40.8043516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50578</font></p>
+ <p><font color="Black"> Throughput: 42491Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:11:34.536</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:11:34.536</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.5</font></p>
+ <p><font color="Black"> RSRQ: -11.3</font></p>
+ <p><font color="Black"> SINR: 13.6</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 98.8%</font></p>
+ <p><font color="Black"> % 64QAM: 1.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 95</font></p>
+ <p><font color="Black"> Resource Blocks Max: 100</font></p>
+ <p><font color="Black"> Resource Blocks Min: 87</font></p>
+ <p><font color="Black"> RBs When Allocated: 99</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.9%</font></p>
+ <p><font color="Black"> CQI: 9.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 23.8%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 76.2%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 76.2%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110158593</font></p>
+ <p><font color="Black"> Celda final: 110158593</font></p>
+ <p><font color="Black"> PCI inicial: 471</font></p>
+ <p><font color="Black"> PCI final: 471</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.520063333333333,40.806575</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50618</font></p>
+ <p><font color="Black"> Throughput: 42982Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:19:11.283</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:19:11.283</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -82.5</font></p>
+ <p><font color="Black"> RSRQ: -10.9</font></p>
+ <p><font color="Black"> SINR: 17.7</font></p>
+ <p><font color="Black"> % QPSK: 5.3%</font></p>
+ <p><font color="Black"> % 16QAM: 32.1%</font></p>
+ <p><font color="Black"> % 64QAM: 62.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 84</font></p>
+ <p><font color="Black"> Resource Blocks Max: 100</font></p>
+ <p><font color="Black"> Resource Blocks Min: 51</font></p>
+ <p><font color="Black"> RBs When Allocated: 93</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.8%</font></p>
+ <p><font color="Black"> CQI: 11.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 13.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 86.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 86.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110158593</font></p>
+ <p><font color="Black"> Celda final: 110158593</font></p>
+ <p><font color="Black"> PCI inicial: 471</font></p>
+ <p><font color="Black"> PCI final: 471</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.520828333333333,40.804095</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50658</font></p>
+ <p><font color="Black"> Throughput: 51770Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:26:47.306</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:26:47.306</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -88.4</font></p>
+ <p><font color="Black"> RSRQ: -10.6</font></p>
+ <p><font color="Black"> SINR: 21.1</font></p>
+ <p><font color="Black"> % QPSK: 0.9%</font></p>
+ <p><font color="Black"> % 16QAM: 31.7%</font></p>
+ <p><font color="Black"> % 64QAM: 67.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 95</font></p>
+ <p><font color="Black"> Resource Blocks Max: 100</font></p>
+ <p><font color="Black"> Resource Blocks Min: 80</font></p>
+ <p><font color="Black"> RBs When Allocated: 99</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.9%</font></p>
+ <p><font color="Black"> CQI: 13</font></p>
+ <p><font color="Black"> Rank Indicator 1: 8%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 92%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 92%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362886</font></p>
+ <p><font color="Black"> Celda final: 110362886</font></p>
+ <p><font color="Black"> PCI inicial: 467</font></p>
+ <p><font color="Black"> PCI final: 467</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.520706666666667,40.810805</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50676</font></p>
+ <p><font color="Black"> Throughput: 61254Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:30:09.876</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:30:09.876</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -91.6</font></p>
+ <p><font color="Black"> RSRQ: -10.8</font></p>
+ <p><font color="Black"> SINR: 20.9</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 1.1%</font></p>
+ <p><font color="Black"> % 64QAM: 98.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 94</font></p>
+ <p><font color="Black"> Resource Blocks Max: 100</font></p>
+ <p><font color="Black"> Resource Blocks Min: 55</font></p>
+ <p><font color="Black"> RBs When Allocated: 99</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.9%</font></p>
+ <p><font color="Black"> CQI: 14.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362884</font></p>
+ <p><font color="Black"> Celda final: 110362884</font></p>
+ <p><font color="Black"> PCI inicial: 465</font></p>
+ <p><font color="Black"> PCI final: 465</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.521403333333333,40.81045</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50698</font></p>
+ <p><font color="Black"> Throughput: 64158Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:34:20.052</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:34:20.052</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -102.2</font></p>
+ <p><font color="Black"> RSRQ: -10</font></p>
+ <p><font color="Black"> SINR: 19.3</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 5.9%</font></p>
+ <p><font color="Black"> % 64QAM: 94%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 95</font></p>
+ <p><font color="Black"> Resource Blocks Max: 100</font></p>
+ <p><font color="Black"> Resource Blocks Min: 85</font></p>
+ <p><font color="Black"> RBs When Allocated: 99</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.9%</font></p>
+ <p><font color="Black"> CQI: 11.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 20.7%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 79.3%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 79.3%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362885</font></p>
+ <p><font color="Black"> Celda final: 110362885</font></p>
+ <p><font color="Black"> PCI inicial: 466</font></p>
+ <p><font color="Black"> PCI final: 466</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.52013,40.8090933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50716</font></p>
+ <p><font color="Black"> Throughput: 69627Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:37:41.811</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:37:41.811</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.4</font></p>
+ <p><font color="Black"> RSRQ: -9.7</font></p>
+ <p><font color="Black"> SINR: 27.5</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 0%</font></p>
+ <p><font color="Black"> % 64QAM: 99.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 51</font></p>
+ <p><font color="Black"> Resource Blocks Max: 64</font></p>
+ <p><font color="Black"> Resource Blocks Min: 32</font></p>
+ <p><font color="Black"> RBs When Allocated: 99</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 12.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 61.6%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 38.4%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 38.4%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362884</font></p>
+ <p><font color="Black"> Celda final: 110362884</font></p>
+ <p><font color="Black"> PCI inicial: 465</font></p>
+ <p><font color="Black"> PCI final: 465</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.521251666666667,40.809245</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50738</font></p>
+ <p><font color="Black"> Throughput: 65686Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:41:52.510</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:41:52.510</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -87.1</font></p>
+ <p><font color="Black"> RSRQ: -9.8</font></p>
+ <p><font color="Black"> SINR: 22.8</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 6.6%</font></p>
+ <p><font color="Black"> % 64QAM: 93.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 92</font></p>
+ <p><font color="Black"> Resource Blocks Max: 100</font></p>
+ <p><font color="Black"> Resource Blocks Min: 75</font></p>
+ <p><font color="Black"> RBs When Allocated: 99</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.9%</font></p>
+ <p><font color="Black"> CQI: 12.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 6.1%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 93.9%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 93.9%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362881</font></p>
+ <p><font color="Black"> Celda final: 110362881</font></p>
+ <p><font color="Black"> PCI inicial: 465</font></p>
+ <p><font color="Black"> PCI final: 465</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.520933333333333,40.809425</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50756</font></p>
+ <p><font color="Black"> Throughput: 58451Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:45:17.093</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:45:17.093</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92.2</font></p>
+ <p><font color="Black"> RSRQ: -8.5</font></p>
+ <p><font color="Black"> SINR: 26.4</font></p>
+ <p><font color="Black"> % QPSK: 7.2%</font></p>
+ <p><font color="Black"> % 16QAM: 4.2%</font></p>
+ <p><font color="Black"> % 64QAM: 88.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 59</font></p>
+ <p><font color="Black"> Resource Blocks Max: 92</font></p>
+ <p><font color="Black"> Resource Blocks Min: 37</font></p>
+ <p><font color="Black"> RBs When Allocated: 93</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.6%</font></p>
+ <p><font color="Black"> CQI: 15</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362885</font></p>
+ <p><font color="Black"> Celda final: 110362885</font></p>
+ <p><font color="Black"> PCI inicial: 466</font></p>
+ <p><font color="Black"> PCI final: 466</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.519541666666667,40.8109083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50778</font></p>
+ <p><font color="Black"> Throughput: 33450Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:49:26.408</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:49:26.408</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -93.9</font></p>
+ <p><font color="Black"> RSRQ: -10.7</font></p>
+ <p><font color="Black"> SINR: 17.3</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 49.8%</font></p>
+ <p><font color="Black"> % 64QAM: 49.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 62</font></p>
+ <p><font color="Black"> Resource Blocks Max: 100</font></p>
+ <p><font color="Black"> Resource Blocks Min: 0</font></p>
+ <p><font color="Black"> RBs When Allocated: 72</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.6%</font></p>
+ <p><font color="Black"> CQI: 11.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 23.6%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 76.4%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 76.4%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362886</font></p>
+ <p><font color="Black"> Celda final: 238362889</font></p>
+ <p><font color="Black"> PCI inicial: 467</font></p>
+ <p><font color="Black"> PCI final: 467</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.52129,40.814235</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50796</font></p>
+ <p><font color="Black"> Throughput: 14927Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:52:55.090</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:52:55.090</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -98.5</font></p>
+ <p><font color="Black"> RSRQ: -10.6</font></p>
+ <p><font color="Black"> SINR: 12.4</font></p>
+ <p><font color="Black"> % QPSK: 12.4%</font></p>
+ <p><font color="Black"> % 16QAM: 40.3%</font></p>
+ <p><font color="Black"> % 64QAM: 47.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 27</font></p>
+ <p><font color="Black"> Resource Blocks Max: 37</font></p>
+ <p><font color="Black"> Resource Blocks Min: 18</font></p>
+ <p><font color="Black"> RBs When Allocated: 49</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 8.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 47.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 52.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 52.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110160391</font></p>
+ <p><font color="Black"> Celda final: 110160391</font></p>
+ <p><font color="Black"> PCI inicial: 84</font></p>
+ <p><font color="Black"> PCI final: 84</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.525623333333333,40.8190733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50818</font></p>
+ <p><font color="Black"> Throughput: 10557Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 08:57:15.517</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 08:57:15.517</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -109</font></p>
+ <p><font color="Black"> RSRQ: -11.5</font></p>
+ <p><font color="Black"> SINR: 6.8</font></p>
+ <p><font color="Black"> % QPSK: 11.6%</font></p>
+ <p><font color="Black"> % 16QAM: 33.4%</font></p>
+ <p><font color="Black"> % 64QAM: 55%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 21</font></p>
+ <p><font color="Black"> Resource Blocks Max: 36</font></p>
+ <p><font color="Black"> Resource Blocks Min: 15</font></p>
+ <p><font color="Black"> RBs When Allocated: 47</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 8.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 90.4%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 9.6%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 9.6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110135047</font></p>
+ <p><font color="Black"> Celda final: 110160391</font></p>
+ <p><font color="Black"> PCI inicial: 468</font></p>
+ <p><font color="Black"> PCI final: 84</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.524683333333333,40.8167</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50836</font></p>
+ <p><font color="Black"> Throughput: 22054Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:00:38.683</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:00:38.683</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -102.6</font></p>
+ <p><font color="Black"> RSRQ: -10.7</font></p>
+ <p><font color="Black"> SINR: 16.5</font></p>
+ <p><font color="Black"> % QPSK: 1.3%</font></p>
+ <p><font color="Black"> % 16QAM: 38.7%</font></p>
+ <p><font color="Black"> % 64QAM: 60%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 40</font></p>
+ <p><font color="Black"> Resource Blocks Max: 49</font></p>
+ <p><font color="Black"> Resource Blocks Min: 24</font></p>
+ <p><font color="Black"> RBs When Allocated: 46</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 11</font></p>
+ <p><font color="Black"> Rank Indicator 1: 57.1%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 42.9%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 42.9%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 238362889</font></p>
+ <p><font color="Black"> Celda final: 238362889</font></p>
+ <p><font color="Black"> PCI inicial: 467</font></p>
+ <p><font color="Black"> PCI final: 467</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.522096666666667,40.8128166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50858</font></p>
+ <p><font color="Black"> Throughput: 13240Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:04:48.966</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:04:48.966</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -100.9</font></p>
+ <p><font color="Black"> RSRQ: -10.7</font></p>
+ <p><font color="Black"> SINR: 8.8</font></p>
+ <p><font color="Black"> % QPSK: 23%</font></p>
+ <p><font color="Black"> % 16QAM: 30.4%</font></p>
+ <p><font color="Black"> % 64QAM: 46.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 28</font></p>
+ <p><font color="Black"> Resource Blocks Max: 37</font></p>
+ <p><font color="Black"> Resource Blocks Min: 19</font></p>
+ <p><font color="Black"> RBs When Allocated: 49</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 8.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 52.7%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 47.3%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 47.3%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110135047</font></p>
+ <p><font color="Black"> Celda final: 110160391</font></p>
+ <p><font color="Black"> PCI inicial: 468</font></p>
+ <p><font color="Black"> PCI final: 84</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.524678333333333,40.8167366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50876</font></p>
+ <p><font color="Black"> Throughput: 43627Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:08:14.925</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:08:14.925</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95.7</font></p>
+ <p><font color="Black"> RSRQ: -10.6</font></p>
+ <p><font color="Black"> SINR: 17.2</font></p>
+ <p><font color="Black"> % QPSK: 2.3%</font></p>
+ <p><font color="Black"> % 16QAM: 65.6%</font></p>
+ <p><font color="Black"> % 64QAM: 32.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 91</font></p>
+ <p><font color="Black"> Resource Blocks Max: 98</font></p>
+ <p><font color="Black"> Resource Blocks Min: 72</font></p>
+ <p><font color="Black"> RBs When Allocated: 99</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.9%</font></p>
+ <p><font color="Black"> CQI: 11.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 66.7%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 33.3%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 33.3%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362883</font></p>
+ <p><font color="Black"> Celda final: 110362883</font></p>
+ <p><font color="Black"> PCI inicial: 467</font></p>
+ <p><font color="Black"> PCI final: 467</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.520036666666667,40.811935</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50938</font></p>
+ <p><font color="Black"> Throughput: 74235Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:20:08.379</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:20:08.379</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -82.7</font></p>
+ <p><font color="Black"> RSRQ: -9.4</font></p>
+ <p><font color="Black"> SINR: 24.4</font></p>
+ <p><font color="Black"> % QPSK: 1.3%</font></p>
+ <p><font color="Black"> % 16QAM: 1.6%</font></p>
+ <p><font color="Black"> % 64QAM: 97%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 89</font></p>
+ <p><font color="Black"> Resource Blocks Max: 100</font></p>
+ <p><font color="Black"> Resource Blocks Min: 64</font></p>
+ <p><font color="Black"> RBs When Allocated: 98</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.9%</font></p>
+ <p><font color="Black"> CQI: 13.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 11.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 88.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 88.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110362882</font></p>
+ <p><font color="Black"> Celda final: 110362882</font></p>
+ <p><font color="Black"> PCI inicial: 466</font></p>
+ <p><font color="Black"> PCI final: 466</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.51631,40.810435</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50956</font></p>
+ <p><font color="Black"> Throughput: 22650Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:23:30.980</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:23:30.980</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.9</font></p>
+ <p><font color="Black"> RSRQ: -10.4</font></p>
+ <p><font color="Black"> SINR: 13.3</font></p>
+ <p><font color="Black"> % QPSK: 0.6%</font></p>
+ <p><font color="Black"> % 16QAM: 50%</font></p>
+ <p><font color="Black"> % 64QAM: 49.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 36</font></p>
+ <p><font color="Black"> Resource Blocks Max: 45</font></p>
+ <p><font color="Black"> Resource Blocks Min: 26</font></p>
+ <p><font color="Black"> RBs When Allocated: 49</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 10.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 49.6%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 50.4%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 50.4%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 238362889</font></p>
+ <p><font color="Black"> Celda final: 238362889</font></p>
+ <p><font color="Black"> PCI inicial: 467</font></p>
+ <p><font color="Black"> PCI final: 467</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.518396666666667,40.8155266666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50978</font></p>
+ <p><font color="Black"> Throughput: 25986Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:27:43.227</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:27:43.227</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -115.1</font></p>
+ <p><font color="Black"> RSRQ: -10.6</font></p>
+ <p><font color="Black"> SINR: 6.8</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 32.1%</font></p>
+ <p><font color="Black"> % 64QAM: 67.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 49</font></p>
+ <p><font color="Black"> Resource Blocks Max: 54</font></p>
+ <p><font color="Black"> Resource Blocks Min: 45</font></p>
+ <p><font color="Black"> RBs When Allocated: 98</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 9.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 91.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 8.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 8.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110415362</font></p>
+ <p><font color="Black"> Celda final: 110415362</font></p>
+ <p><font color="Black"> PCI inicial: 475</font></p>
+ <p><font color="Black"> PCI final: 475</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.51731,40.8152183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 51018</font></p>
+ <p><font color="Black"> Throughput: 11528Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:35:19.777</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:35:19.777</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -104.5</font></p>
+ <p><font color="Black"> RSRQ: -11.4</font></p>
+ <p><font color="Black"> SINR: 8.2</font></p>
+ <p><font color="Black"> % QPSK: 25.5%</font></p>
+ <p><font color="Black"> % 16QAM: 35.1%</font></p>
+ <p><font color="Black"> % 64QAM: 39.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 26</font></p>
+ <p><font color="Black"> Resource Blocks Max: 34</font></p>
+ <p><font color="Black"> Resource Blocks Min: 14</font></p>
+ <p><font color="Black"> RBs When Allocated: 49</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 8.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 47.8%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 52.2%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 52.2%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110832136</font></p>
+ <p><font color="Black"> Celda final: 238362889</font></p>
+ <p><font color="Black"> PCI inicial: 340</font></p>
+ <p><font color="Black"> PCI final: 467</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.516595,40.814335</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 48557</font></p>
+ <p><font color="Black"> Throughput: 29831Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 11:20:35.171</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 11:20:35.171</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -86.6</font></p>
+ <p><font color="Black"> RSRQ: -10.2</font></p>
+ <p><font color="Black"> SINR: 25.8</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 9.5%</font></p>
+ <p><font color="Black"> % 64QAM: 90.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 42</font></p>
+ <p><font color="Black"> Resource Blocks Max: 51</font></p>
+ <p><font color="Black"> Resource Blocks Min: 24</font></p>
+ <p><font color="Black"> RBs When Allocated: 46</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 110160392</font></p>
+ <p><font color="Black"> Celda final: 110160392</font></p>
+ <p><font color="Black"> PCI inicial: 85</font></p>
+ <p><font color="Black"> PCI final: 85</font></p>
+ <p><font color="Black"> TAC inicial: 543</font></p>
+ <p><font color="Black"> TAC final: 543</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.522155,40.8095116666667</coordinates>
+</Point>
+</Placemark>
+<name>354201062974478</name>
+</Folder>
+<name>muestras 4G</name>
+</Folder>
+<Folder>
+<name>muestras 3G</name>
+<Folder>
+<name>354201062974478</name>
+<Placemark>
+<styleUrl>#IconoAwful3G</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 50916</font></p>
+ <p><font color="Black"> Throughput: 1557Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-01 09:15:48.254</font></p>
+ <p><font color="Black"> Hora: 2017-02-01 09:15:48.254</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974478</font></p>
+ <p><font color="Black"> LogFile: 20170201_ADD_T_TORTOSA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 14.9</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> % DTX DSCH: 22%</font></p>
+ <p><font color="Black"> % BLER: 14.1%</font></p>
+ <p><font color="Black"> % NACKs: 11.2%</font></p>
+ <p><font color="Black"> % SCCH: 74.7%</font></p>
+ <p><font color="Black"> % QPSK: 93.3%</font></p>
+ <p><font color="Black"> % 16QAM: 6.7%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.4262223021906</font></p>
+ <p><font color="Black"> EcIo AVG: -9.16167966560582</font></p>
+ <p><font color="Black"> CellId inicial: 24732</font></p>
+ <p><font color="Black"> CellId final: 24732</font></p>
+ <p><font color="Black"> SC inicial: 100</font></p>
+ <p><font color="Black"> SC final: 69</font></p>
+ <p><font color="Black"> LAC inicial: 29103</font></p>
+ <p><font color="Black"> LAC final: 29103</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>0.516673333333333,40.8153583333333</coordinates>
+</Point>
+</Placemark>
+<name>354201062974478</name>
+</Folder>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_FTP_DL_2x2_LTE.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

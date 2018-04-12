@@ -1,0 +1,10 @@
+!table
+!version 1000
+!charset WindowsLatin1
+
+Definition Table
+  File "carreno_contorno vdf.xlsx"
+  Type XLS Titles Range "Hoja1!A2:B387"
+  Fields 2
+    longitude Float ;
+    latitude Float ;

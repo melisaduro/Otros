@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoBlockCall">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoDropCall">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoEndCall">
+<IconStyle>
+  <color>ffff0000</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Folder>
+<name>Completed Call</name>
+<Placemark>
+<name> Sessionid: 223</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:32:41</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:33:44</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 4.19</font></p>
+ <p><font color="Black"> CST Alerting: 4.33</font></p>
+ <p><font color="Black"> CST Connect: 4.41</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8484,38.0021</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 225</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:34:32</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:35:34</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 4.03</font></p>
+ <p><font color="Black"> CST Alerting: 4.46</font></p>
+ <p><font color="Black"> CST Connect: 4.29</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8484,38.0021</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 227</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:36:22</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:37:24</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 3.98</font></p>
+ <p><font color="Black"> CST Alerting: 4.96</font></p>
+ <p><font color="Black"> CST Connect: 5.08</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8475,38.0038</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 229</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:38:11</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:39:14</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 3.02</font></p>
+ <p><font color="Black"> CST Alerting: 3.8</font></p>
+ <p><font color="Black"> CST Connect: 3.72</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8436,38.0124</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 231</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:40:03</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:41:04</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 3.96</font></p>
+ <p><font color="Black"> CST Alerting: 5.01</font></p>
+ <p><font color="Black"> CST Connect: 4.82</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8435,38.0124</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 233</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:41:52</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:42:54</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 3.63</font></p>
+ <p><font color="Black"> CST Alerting: 4.62</font></p>
+ <p><font color="Black"> CST Connect: 4.77</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8464,38.0203</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 235</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:43:44</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:44:44</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/GSM</font></p>
+ <p><font color="Black"> MOS: 3.76</font></p>
+ <p><font color="Black"> CST Alerting: 5.43</font></p>
+ <p><font color="Black"> CST Connect: 5.37</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8499,38.0257</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 237</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:45:32</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:46:34</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 3.91</font></p>
+ <p><font color="Black"> CST Alerting: 4.15</font></p>
+ <p><font color="Black"> CST Connect: 4.22</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8500,38.0257</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 239</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:47:22</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:48:24</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 4.17</font></p>
+ <p><font color="Black"> CST Alerting: 4.39</font></p>
+ <p><font color="Black"> CST Connect: 4.36</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8544,38.0248</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 241</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:49:11</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:50:14</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 3.48</font></p>
+ <p><font color="Black"> CST Alerting: 3.59</font></p>
+ <p><font color="Black"> CST Connect: 3.52</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8558,38.0140</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 243</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:51:03</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:52:04</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/GSM</font></p>
+ <p><font color="Black"> MOS: 3.79</font></p>
+ <p><font color="Black"> CST Alerting: 4.7</font></p>
+ <p><font color="Black"> CST Connect: 4.83</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8555,38.0085</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 245</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:52:53</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:53:54</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 3.35</font></p>
+ <p><font color="Black"> CST Alerting: 4.49</font></p>
+ <p><font color="Black"> CST Connect: 4.44</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8443,38.0105</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 247</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:54:42</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:55:44</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 4.02</font></p>
+ <p><font color="Black"> CST Alerting: 4.24</font></p>
+ <p><font color="Black"> CST Connect: 4.22</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8533,38.0088</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 249</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:56:33</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:57:34</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 4.04</font></p>
+ <p><font color="Black"> CST Alerting: 5.1</font></p>
+ <p><font color="Black"> CST Connect: 4.99</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8512,37.9986</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 251</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 15:58:22</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 15:59:24</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 3.9</font></p>
+ <p><font color="Black"> CST Alerting: 4.41</font></p>
+ <p><font color="Black"> CST Connect: 4.42</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8477,37.9960</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Sessionid: 253</name>
+<styleUrl>#IconoEndCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Hora inicio: 16/03/2018 16:00:12</font></p>
+ <p><font color="Black"> Hora fin: 16/03/2018 16:01:14</font></p>
+ <p><font color="Black"> Tecnología: VOLTE/UMTS</font></p>
+ <p><font color="Black"> MOS: 3.73</font></p>
+ <p><font color="Black"> CST Alerting: 4.7</font></p>
+ <p><font color="Black"> CST Connect: 4.49</font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8485,38.0021</coordinates>
+</Point>
+</Placemark>
+<name>Completed Call</name>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_Llamadas.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

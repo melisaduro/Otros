@@ -1,0 +1,10 @@
+!table
+!version 1000
+!charset WindowsLatin1
+
+Definition Table
+  File "grid atenas.xlsx"
+  Type XLS Titles Range "Hoja1!A2:B16233"
+  Fields 2
+    latitude Float ;
+    longitude Float ;

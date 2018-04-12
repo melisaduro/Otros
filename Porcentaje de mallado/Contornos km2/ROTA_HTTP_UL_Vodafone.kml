@@ -1,0 +1,3869 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>358672057556627</name>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1044Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 15:48:28.434</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 15:48:28.434</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31</font></p>
+ <p><font color="Black"> DTX: 3.8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 14%</font></p>
+ <p><font color="Black"> Transport Blocks: 13685</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.65</font></p>
+ <p><font color="Black"> EcIo AVG: -6.01</font></p>
+ <p><font color="Black"> CellId inicial: 41089</font></p>
+ <p><font color="Black"> CellId final: 41089</font></p>
+ <p><font color="Black"> SC inicial: 190</font></p>
+ <p><font color="Black"> SC final: 190</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35814666666667,36.6281983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2836Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 15:53:33.115</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 15:53:33.115</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.6</font></p>
+ <p><font color="Black"> DTX: 14.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 19%</font></p>
+ <p><font color="Black"> Transport Blocks: 7721</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.96</font></p>
+ <p><font color="Black"> EcIo AVG: -8.84</font></p>
+ <p><font color="Black"> CellId inicial: 25267</font></p>
+ <p><font color="Black"> CellId final: 25267</font></p>
+ <p><font color="Black"> SC inicial: 110</font></p>
+ <p><font color="Black"> SC final: 110</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.357375,36.6212533333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3814Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 15:57:09.624</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 15:57:09.624</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.9</font></p>
+ <p><font color="Black"> DTX: 15.5%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 23%</font></p>
+ <p><font color="Black"> Transport Blocks: 9023</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -68.74</font></p>
+ <p><font color="Black"> EcIo AVG: -5.21</font></p>
+ <p><font color="Black"> CellId inicial: 25405</font></p>
+ <p><font color="Black"> CellId final: 25405</font></p>
+ <p><font color="Black"> SC inicial: 434</font></p>
+ <p><font color="Black"> SC final: 434</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35741833333333,36.616035</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3646Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:02:18.628</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:02:18.628</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.9</font></p>
+ <p><font color="Black"> DTX: 12.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 23%</font></p>
+ <p><font color="Black"> Transport Blocks: 9401</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.79</font></p>
+ <p><font color="Black"> EcIo AVG: -10.73</font></p>
+ <p><font color="Black"> CellId inicial: 4800</font></p>
+ <p><font color="Black"> CellId final: 4800</font></p>
+ <p><font color="Black"> SC inicial: 201</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35703666666667,36.619505</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2841Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:06:01.659</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:06:01.659</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.1</font></p>
+ <p><font color="Black"> DTX: 11.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 47%</font></p>
+ <p><font color="Black"> Transport Blocks: 7448</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.85</font></p>
+ <p><font color="Black"> EcIo AVG: -8.17</font></p>
+ <p><font color="Black"> CellId inicial: 42279</font></p>
+ <p><font color="Black"> CellId final: 42279</font></p>
+ <p><font color="Black"> SC inicial: 260</font></p>
+ <p><font color="Black"> SC final: 260</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.3538,36.623975</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3341Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:10:54.258</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:10:54.258</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.1</font></p>
+ <p><font color="Black"> DTX: 9.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 15%</font></p>
+ <p><font color="Black"> Transport Blocks: 8425</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.36</font></p>
+ <p><font color="Black"> EcIo AVG: -5.84</font></p>
+ <p><font color="Black"> CellId inicial: 4731</font></p>
+ <p><font color="Black"> CellId final: 4731</font></p>
+ <p><font color="Black"> SC inicial: 260</font></p>
+ <p><font color="Black"> SC final: 260</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35295166666667,36.6259533333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3836Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:14:28.676</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:14:28.676</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.9</font></p>
+ <p><font color="Black"> DTX: 11.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 19%</font></p>
+ <p><font color="Black"> Transport Blocks: 9515</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.22</font></p>
+ <p><font color="Black"> EcIo AVG: -5.21</font></p>
+ <p><font color="Black"> CellId inicial: 11452</font></p>
+ <p><font color="Black"> CellId final: 11452</font></p>
+ <p><font color="Black"> SC inicial: 433</font></p>
+ <p><font color="Black"> SC final: 433</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.354865,36.6232133333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1873Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:19:10.411</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:19:10.411</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.7</font></p>
+ <p><font color="Black"> DTX: 7.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 97%</font></p>
+ <p><font color="Black"> Transport Blocks: 4332</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.55</font></p>
+ <p><font color="Black"> EcIo AVG: -7.4</font></p>
+ <p><font color="Black"> CellId inicial: 11452</font></p>
+ <p><font color="Black"> CellId final: 11452</font></p>
+ <p><font color="Black"> SC inicial: 201</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.358715,36.62519</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2128Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:22:25.713</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:22:25.713</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.5</font></p>
+ <p><font color="Black"> DTX: 5.9%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 8%</font></p>
+ <p><font color="Black"> Transport Blocks: 5268</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -66.48</font></p>
+ <p><font color="Black"> EcIo AVG: -4.79</font></p>
+ <p><font color="Black"> CellId inicial: 4949</font></p>
+ <p><font color="Black"> CellId final: 4949</font></p>
+ <p><font color="Black"> SC inicial: 190</font></p>
+ <p><font color="Black"> SC final: 190</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.358325,36.6270916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2309Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:27:11.123</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:27:11.123</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.2</font></p>
+ <p><font color="Black"> DTX: 8.9%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 61%</font></p>
+ <p><font color="Black"> Transport Blocks: 5592</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.59</font></p>
+ <p><font color="Black"> EcIo AVG: -6.55</font></p>
+ <p><font color="Black"> CellId inicial: 8767</font></p>
+ <p><font color="Black"> CellId final: 8767</font></p>
+ <p><font color="Black"> SC inicial: 195</font></p>
+ <p><font color="Black"> SC final: 195</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36096,36.62846</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2313Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:30:52.511</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:30:52.511</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.7</font></p>
+ <p><font color="Black"> DTX: 9.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 80%</font></p>
+ <p><font color="Black"> Transport Blocks: 5587</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.51</font></p>
+ <p><font color="Black"> EcIo AVG: -6.35</font></p>
+ <p><font color="Black"> CellId inicial: 8766</font></p>
+ <p><font color="Black"> CellId final: 8766</font></p>
+ <p><font color="Black"> SC inicial: 194</font></p>
+ <p><font color="Black"> SC final: 194</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36215833333333,36.62919</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3404Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:39:37.295</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:39:37.295</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.7</font></p>
+ <p><font color="Black"> DTX: 12.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 48%</font></p>
+ <p><font color="Black"> Transport Blocks: 8357</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.61</font></p>
+ <p><font color="Black"> EcIo AVG: -5.06</font></p>
+ <p><font color="Black"> CellId inicial: 8766</font></p>
+ <p><font color="Black"> CellId final: 8766</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36289166666667,36.6312383333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3347Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:44:23.340</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:44:23.340</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.4</font></p>
+ <p><font color="Black"> DTX: 8.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 17%</font></p>
+ <p><font color="Black"> Transport Blocks: 8211</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.95</font></p>
+ <p><font color="Black"> EcIo AVG: -5.93</font></p>
+ <p><font color="Black"> CellId inicial: 14635</font></p>
+ <p><font color="Black"> CellId final: 14635</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36825666666667,36.6274516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1042Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:48:09.368</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:48:09.368</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.8</font></p>
+ <p><font color="Black"> DTX: 2.7%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 6%</font></p>
+ <p><font color="Black"> Transport Blocks: 13489</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.03</font></p>
+ <p><font color="Black"> EcIo AVG: -6.98</font></p>
+ <p><font color="Black"> CellId inicial: 523</font></p>
+ <p><font color="Black"> CellId final: 523</font></p>
+ <p><font color="Black"> SC inicial: 195</font></p>
+ <p><font color="Black"> SC final: 195</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36063666666667,36.6235016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 820Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:53:29.815</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:53:29.815</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.2</font></p>
+ <p><font color="Black"> DTX: 64.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 72%</font></p>
+ <p><font color="Black"> Transport Blocks: 5346</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.13</font></p>
+ <p><font color="Black"> EcIo AVG: -5.44</font></p>
+ <p><font color="Black"> CellId inicial: 8767</font></p>
+ <p><font color="Black"> CellId final: 8767</font></p>
+ <p><font color="Black"> SC inicial: 195</font></p>
+ <p><font color="Black"> SC final: 195</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36164833333333,36.6247933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2367Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:57:16.062</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:57:16.062</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.6</font></p>
+ <p><font color="Black"> DTX: 4.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 8%</font></p>
+ <p><font color="Black"> Transport Blocks: 6705</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -65.1</font></p>
+ <p><font color="Black"> EcIo AVG: -5.9</font></p>
+ <p><font color="Black"> CellId inicial: 25276</font></p>
+ <p><font color="Black"> CellId final: 25276</font></p>
+ <p><font color="Black"> SC inicial: 196</font></p>
+ <p><font color="Black"> SC final: 196</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36679166666667,36.6245216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2180Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:02:03.488</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:02:03.488</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.3</font></p>
+ <p><font color="Black"> DTX: 12.8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 82%</font></p>
+ <p><font color="Black"> Transport Blocks: 5358</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.85</font></p>
+ <p><font color="Black"> EcIo AVG: -6.79</font></p>
+ <p><font color="Black"> CellId inicial: 8767</font></p>
+ <p><font color="Black"> CellId final: 8767</font></p>
+ <p><font color="Black"> SC inicial: 195</font></p>
+ <p><font color="Black"> SC final: 195</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.364285,36.62414</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1473Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:05:52.402</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:05:52.402</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.1</font></p>
+ <p><font color="Black"> DTX: 27.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 7%</font></p>
+ <p><font color="Black"> Transport Blocks: 4388</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.84</font></p>
+ <p><font color="Black"> EcIo AVG: -6.24</font></p>
+ <p><font color="Black"> CellId inicial: 4949</font></p>
+ <p><font color="Black"> CellId final: 4949</font></p>
+ <p><font color="Black"> SC inicial: 190</font></p>
+ <p><font color="Black"> SC final: 190</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35496333333333,36.6283816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3524Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:10:58.992</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:10:58.992</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.9</font></p>
+ <p><font color="Black"> DTX: 17.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 24%</font></p>
+ <p><font color="Black"> Transport Blocks: 8901</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -73.21</font></p>
+ <p><font color="Black"> EcIo AVG: -4.91</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37265833333333,36.6260666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3333Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:14:34.238</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:14:34.238</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.3</font></p>
+ <p><font color="Black"> DTX: 15%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 19%</font></p>
+ <p><font color="Black"> Transport Blocks: 8931</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -74.02</font></p>
+ <p><font color="Black"> EcIo AVG: -6.37</font></p>
+ <p><font color="Black"> CellId inicial: 523</font></p>
+ <p><font color="Black"> CellId final: 523</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.369215,36.6239966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1094Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:20:05.118</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:20:05.118</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31</font></p>
+ <p><font color="Black"> DTX: 4.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 6%</font></p>
+ <p><font color="Black"> Transport Blocks: 13747</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.85</font></p>
+ <p><font color="Black"> EcIo AVG: -6.26</font></p>
+ <p><font color="Black"> CellId inicial: 523</font></p>
+ <p><font color="Black"> CellId final: 523</font></p>
+ <p><font color="Black"> SC inicial: 112</font></p>
+ <p><font color="Black"> SC final: 112</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36344333333333,36.6210883333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3344Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:23:43.448</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:23:43.448</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.2</font></p>
+ <p><font color="Black"> DTX: 12.7%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 12%</font></p>
+ <p><font color="Black"> Transport Blocks: 8742</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.84</font></p>
+ <p><font color="Black"> EcIo AVG: -6.72</font></p>
+ <p><font color="Black"> CellId inicial: 9656</font></p>
+ <p><font color="Black"> CellId final: 9656</font></p>
+ <p><font color="Black"> SC inicial: 110</font></p>
+ <p><font color="Black"> SC final: 110</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36104333333333,36.6217933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2404Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:28:50.973</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:28:50.973</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.9</font></p>
+ <p><font color="Black"> DTX: 8.8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 18%</font></p>
+ <p><font color="Black"> Transport Blocks: 7147</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.92</font></p>
+ <p><font color="Black"> EcIo AVG: -5.37</font></p>
+ <p><font color="Black"> CellId inicial: 52330</font></p>
+ <p><font color="Black"> CellId final: 52330</font></p>
+ <p><font color="Black"> SC inicial: 260</font></p>
+ <p><font color="Black"> SC final: 260</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35496333333333,36.6242266666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 981Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:32:31.489</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:32:31.489</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31</font></p>
+ <p><font color="Black"> DTX: 5.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 8%</font></p>
+ <p><font color="Black"> Transport Blocks: 13053</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.55</font></p>
+ <p><font color="Black"> EcIo AVG: -13.12</font></p>
+ <p><font color="Black"> CellId inicial: 11452</font></p>
+ <p><font color="Black"> CellId final: 11452</font></p>
+ <p><font color="Black"> SC inicial: 201</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35738833333333,36.6218866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3558Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:37:21.256</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:37:21.256</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 32</font></p>
+ <p><font color="Black"> DTX: 16.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 22%</font></p>
+ <p><font color="Black"> Transport Blocks: 9075</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.66</font></p>
+ <p><font color="Black"> EcIo AVG: -4.92</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36991166666667,36.6248816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 827Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:41:09.914</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:41:09.914</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 25.7</font></p>
+ <p><font color="Black"> DTX: 34.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 3%</font></p>
+ <p><font color="Black"> Transport Blocks: 3009</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.77</font></p>
+ <p><font color="Black"> EcIo AVG: -6.92</font></p>
+ <p><font color="Black"> CellId inicial: 8767</font></p>
+ <p><font color="Black"> CellId final: 8767</font></p>
+ <p><font color="Black"> SC inicial: 195</font></p>
+ <p><font color="Black"> SC final: 195</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36318166666667,36.6269666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3236Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:57:48.570</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:57:48.570</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.2</font></p>
+ <p><font color="Black"> DTX: 16.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 19%</font></p>
+ <p><font color="Black"> Transport Blocks: 8156</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -68.95</font></p>
+ <p><font color="Black"> EcIo AVG: -7.33</font></p>
+ <p><font color="Black"> CellId inicial: 25274</font></p>
+ <p><font color="Black"> CellId final: 25274</font></p>
+ <p><font color="Black"> SC inicial: 194</font></p>
+ <p><font color="Black"> SC final: 194</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36448166666667,36.6283316666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2707Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:01:24.609</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:01:24.609</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.9</font></p>
+ <p><font color="Black"> DTX: 6.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 9%</font></p>
+ <p><font color="Black"> Transport Blocks: 6999</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -68.28</font></p>
+ <p><font color="Black"> EcIo AVG: -5.75</font></p>
+ <p><font color="Black"> CellId inicial: 41090</font></p>
+ <p><font color="Black"> CellId final: 41090</font></p>
+ <p><font color="Black"> SC inicial: 195</font></p>
+ <p><font color="Black"> SC final: 195</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36359,36.6248483333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2899Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:06:08.511</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:06:08.511</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.7</font></p>
+ <p><font color="Black"> DTX: 8.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 89%</font></p>
+ <p><font color="Black"> Transport Blocks: 7617</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.27</font></p>
+ <p><font color="Black"> EcIo AVG: -6.6</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37141333333333,36.6270166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3412Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:09:49.619</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:09:49.619</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.3</font></p>
+ <p><font color="Black"> DTX: 14%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 21%</font></p>
+ <p><font color="Black"> Transport Blocks: 8642</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.5</font></p>
+ <p><font color="Black"> EcIo AVG: -4.79</font></p>
+ <p><font color="Black"> CellId inicial: 522</font></p>
+ <p><font color="Black"> CellId final: 522</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36964166666667,36.6249983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1393Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:14:40.446</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:14:40.446</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.7</font></p>
+ <p><font color="Black"> DTX: 6.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 85%</font></p>
+ <p><font color="Black"> Transport Blocks: 3509</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.63</font></p>
+ <p><font color="Black"> EcIo AVG: -6.17</font></p>
+ <p><font color="Black"> CellId inicial: 16123</font></p>
+ <p><font color="Black"> CellId final: 16123</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37440166666667,36.6293616666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2646Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:18:15.833</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:18:15.833</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.9</font></p>
+ <p><font color="Black"> DTX: 13.7%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 16%</font></p>
+ <p><font color="Black"> Transport Blocks: 6560</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.78</font></p>
+ <p><font color="Black"> EcIo AVG: -4.96</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37407333333333,36.6255933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1067Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:23:11.413</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:23:11.413</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31</font></p>
+ <p><font color="Black"> DTX: 4.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 7%</font></p>
+ <p><font color="Black"> Transport Blocks: 13793</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.56</font></p>
+ <p><font color="Black"> EcIo AVG: -5.87</font></p>
+ <p><font color="Black"> CellId inicial: 51326</font></p>
+ <p><font color="Black"> CellId final: 51326</font></p>
+ <p><font color="Black"> SC inicial: 435</font></p>
+ <p><font color="Black"> SC final: 435</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.38885166666667,36.63905</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1022Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:27:11.474</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:27:11.474</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.8</font></p>
+ <p><font color="Black"> DTX: 3.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 5%</font></p>
+ <p><font color="Black"> Transport Blocks: 13683</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.94</font></p>
+ <p><font color="Black"> EcIo AVG: -6.47</font></p>
+ <p><font color="Black"> CellId inicial: 41091</font></p>
+ <p><font color="Black"> CellId final: 41091</font></p>
+ <p><font color="Black"> SC inicial: 435</font></p>
+ <p><font color="Black"> SC final: 435</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37815333333333,36.6359566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1001Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:32:11.497</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:32:11.497</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.8</font></p>
+ <p><font color="Black"> DTX: 1.9%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 4%</font></p>
+ <p><font color="Black"> Transport Blocks: 13346</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.37</font></p>
+ <p><font color="Black"> EcIo AVG: -5.81</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 194</font></p>
+ <p><font color="Black"> SC final: 194</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.374275,36.63411</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:36:26.649</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:36:26.649</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.7</font></p>
+ <p><font color="Black"> DTX: 1.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 49%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 51%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 27%</font></p>
+ <p><font color="Black"> Transport Blocks: 6940</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.25</font></p>
+ <p><font color="Black"> EcIo AVG: -7.87</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 166</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.38088666666667,36.6339966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3418Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:41:44.166</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:41:44.166</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.6</font></p>
+ <p><font color="Black"> DTX: 18.9%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 23%</font></p>
+ <p><font color="Black"> Transport Blocks: 8800</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.8</font></p>
+ <p><font color="Black"> EcIo AVG: -5.67</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 214</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.38203333333333,36.627985</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1553Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:45:33.904</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:45:33.904</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.1</font></p>
+ <p><font color="Black"> DTX: 8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 67%</font></p>
+ <p><font color="Black"> Transport Blocks: 3627</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.16</font></p>
+ <p><font color="Black"> EcIo AVG: -7.7</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37866166666667,36.6284016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3553Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:50:34.840</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:50:34.840</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.5</font></p>
+ <p><font color="Black"> DTX: 15.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 23%</font></p>
+ <p><font color="Black"> Transport Blocks: 9227</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.42</font></p>
+ <p><font color="Black"> EcIo AVG: -4.92</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37748166666667,36.6292166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2102Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:54:19.969</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:54:19.969</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.3</font></p>
+ <p><font color="Black"> DTX: 8.9%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 72%</font></p>
+ <p><font color="Black"> Transport Blocks: 5365</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.39</font></p>
+ <p><font color="Black"> EcIo AVG: -6.66</font></p>
+ <p><font color="Black"> CellId inicial: 45620</font></p>
+ <p><font color="Black"> CellId final: 45620</font></p>
+ <p><font color="Black"> SC inicial: 166</font></p>
+ <p><font color="Black"> SC final: 166</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.38133666666667,36.631285</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1039Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 19:00:09.441</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 19:00:09.441</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.8</font></p>
+ <p><font color="Black"> DTX: 2.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 4%</font></p>
+ <p><font color="Black"> Transport Blocks: 13492</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.12</font></p>
+ <p><font color="Black"> EcIo AVG: -5.01</font></p>
+ <p><font color="Black"> CellId inicial: 635</font></p>
+ <p><font color="Black"> CellId final: 635</font></p>
+ <p><font color="Black"> SC inicial: 435</font></p>
+ <p><font color="Black"> SC final: 435</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.38413666666667,36.6359933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 19:04:17.433</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 19:04:17.433</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.2</font></p>
+ <p><font color="Black"> DTX: 3.9%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 39%</font></p>
+ <p><font color="Black"> Transport Blocks: 6944</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.67</font></p>
+ <p><font color="Black"> EcIo AVG: -6.28</font></p>
+ <p><font color="Black"> CellId inicial: 38135</font></p>
+ <p><font color="Black"> CellId final: 38135</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37190666666667,36.6270333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3764Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 19:25:06.212</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 19:25:06.212</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 32</font></p>
+ <p><font color="Black"> DTX: 14.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 18%</font></p>
+ <p><font color="Black"> Transport Blocks: 9379</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.48</font></p>
+ <p><font color="Black"> EcIo AVG: -4.05</font></p>
+ <p><font color="Black"> CellId inicial: 15933</font></p>
+ <p><font color="Black"> CellId final: 15933</font></p>
+ <p><font color="Black"> SC inicial: 355</font></p>
+ <p><font color="Black"> SC final: 355</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.40153833333333,36.6774</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1395Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 19:28:51.269</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 19:28:51.269</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.3</font></p>
+ <p><font color="Black"> DTX: 6.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 97%</font></p>
+ <p><font color="Black"> Transport Blocks: 3011</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.52</font></p>
+ <p><font color="Black"> EcIo AVG: -5.36</font></p>
+ <p><font color="Black"> CellId inicial: 15933</font></p>
+ <p><font color="Black"> CellId final: 15933</font></p>
+ <p><font color="Black"> SC inicial: 355</font></p>
+ <p><font color="Black"> SC final: 355</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.41057833333333,36.6780233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 802Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 19:33:53.930</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 19:33:53.930</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.6</font></p>
+ <p><font color="Black"> DTX: 2.5%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 5%</font></p>
+ <p><font color="Black"> Transport Blocks: 12542</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.64</font></p>
+ <p><font color="Black"> EcIo AVG: -4.11</font></p>
+ <p><font color="Black"> CellId inicial: 520</font></p>
+ <p><font color="Black"> CellId final: 520</font></p>
+ <p><font color="Black"> SC inicial: 355</font></p>
+ <p><font color="Black"> SC final: 355</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.41036833333333,36.6850083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 878Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 19:37:47.240</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 19:37:47.240</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.9</font></p>
+ <p><font color="Black"> DTX: 1.7%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 23%</font></p>
+ <p><font color="Black"> Transport Blocks: 13058</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.03</font></p>
+ <p><font color="Black"> EcIo AVG: -5.33</font></p>
+ <p><font color="Black"> CellId inicial: 520</font></p>
+ <p><font color="Black"> CellId final: 520</font></p>
+ <p><font color="Black"> SC inicial: 197</font></p>
+ <p><font color="Black"> SC final: 197</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.41461166666667,36.6909333333333</coordinates>
+</Point>
+</Placemark>
+<name>358672057556627</name>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>358672057556627</name>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3218Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 15:46:56.653</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 15:46:56.653</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.8</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 62%</font></p>
+ <p><font color="Black"> Transport Blocks: 7141</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.84</font></p>
+ <p><font color="Black"> EcIo AVG: -6.23</font></p>
+ <p><font color="Black"> CellId inicial: 41089</font></p>
+ <p><font color="Black"> CellId final: 41089</font></p>
+ <p><font color="Black"> SC inicial: 194</font></p>
+ <p><font color="Black"> SC final: 194</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36432,36.6334183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4184Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 15:51:13.894</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 15:51:13.894</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.6</font></p>
+ <p><font color="Black"> DTX: 0.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 9939</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -59.92</font></p>
+ <p><font color="Black"> EcIo AVG: -6.07</font></p>
+ <p><font color="Black"> CellId inicial: 25267</font></p>
+ <p><font color="Black"> CellId final: 25267</font></p>
+ <p><font color="Black"> SC inicial: 110</font></p>
+ <p><font color="Black"> SC final: 110</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.359345,36.622085</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4719Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 15:56:01.960</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 15:56:01.960</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 32</font></p>
+ <p><font color="Black"> DTX: 0.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 10614</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -43.13</font></p>
+ <p><font color="Black"> EcIo AVG: -4.11</font></p>
+ <p><font color="Black"> CellId inicial: 25405</font></p>
+ <p><font color="Black"> CellId final: 25405</font></p>
+ <p><font color="Black"> SC inicial: 434</font></p>
+ <p><font color="Black"> SC final: 434</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35892833333333,36.6171566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3522Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 15:59:41.724</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 15:59:41.724</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 32</font></p>
+ <p><font color="Black"> DTX: 0.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 47%</font></p>
+ <p><font color="Black"> Transport Blocks: 8171</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.98</font></p>
+ <p><font color="Black"> EcIo AVG: -8.13</font></p>
+ <p><font color="Black"> CellId inicial: 9657</font></p>
+ <p><font color="Black"> CellId final: 9657</font></p>
+ <p><font color="Black"> SC inicial: 111</font></p>
+ <p><font color="Black"> SC final: 111</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35793166666667,36.6185133333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2826Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:04:49.391</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:04:49.391</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.8</font></p>
+ <p><font color="Black"> DTX: 0.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 17%</font></p>
+ <p><font color="Black"> Transport Blocks: 6632</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.06</font></p>
+ <p><font color="Black"> EcIo AVG: -7.06</font></p>
+ <p><font color="Black"> CellId inicial: 4731</font></p>
+ <p><font color="Black"> CellId final: 4731</font></p>
+ <p><font color="Black"> SC inicial: 260</font></p>
+ <p><font color="Black"> SC final: 260</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35243166666667,36.6242783333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1329Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:13:18.958</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:13:18.958</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.5</font></p>
+ <p><font color="Black"> DTX: 0.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 46%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 54%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 32%</font></p>
+ <p><font color="Black"> Transport Blocks: 8869</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.2</font></p>
+ <p><font color="Black"> EcIo AVG: -8.67</font></p>
+ <p><font color="Black"> CellId inicial: 11452</font></p>
+ <p><font color="Black"> CellId final: 11452</font></p>
+ <p><font color="Black"> SC inicial: 201</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.356275,36.6230216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3165Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:16:56.379</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:16:56.379</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.9</font></p>
+ <p><font color="Black"> DTX: 0.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 61%</font></p>
+ <p><font color="Black"> Transport Blocks: 7330</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.91</font></p>
+ <p><font color="Black"> EcIo AVG: -9.62</font></p>
+ <p><font color="Black"> CellId inicial: 11452</font></p>
+ <p><font color="Black"> CellId final: 11452</font></p>
+ <p><font color="Black"> SC inicial: 201</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.357405,36.62221</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2892Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:21:14.632</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:21:14.632</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.7</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 78%</font></p>
+ <p><font color="Black"> Transport Blocks: 6152</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.59</font></p>
+ <p><font color="Black"> EcIo AVG: -6.32</font></p>
+ <p><font color="Black"> CellId inicial: 11452</font></p>
+ <p><font color="Black"> CellId final: 11452</font></p>
+ <p><font color="Black"> SC inicial: 201</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35835833333333,36.62499</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2588Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:25:03.728</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:25:03.728</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.6</font></p>
+ <p><font color="Black"> DTX: 1.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 80%</font></p>
+ <p><font color="Black"> Transport Blocks: 5757</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.79</font></p>
+ <p><font color="Black"> EcIo AVG: -6.29</font></p>
+ <p><font color="Black"> CellId inicial: 8767</font></p>
+ <p><font color="Black"> CellId final: 8767</font></p>
+ <p><font color="Black"> SC inicial: 195</font></p>
+ <p><font color="Black"> SC final: 195</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36096,36.62846</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2932Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:29:40.198</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:29:40.198</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.2</font></p>
+ <p><font color="Black"> DTX: 3.7%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 26%</font></p>
+ <p><font color="Black"> Transport Blocks: 6829</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.91</font></p>
+ <p><font color="Black"> EcIo AVG: -6.65</font></p>
+ <p><font color="Black"> CellId inicial: 8766</font></p>
+ <p><font color="Black"> CellId final: 8766</font></p>
+ <p><font color="Black"> SC inicial: 194</font></p>
+ <p><font color="Black"> SC final: 194</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36315833333333,36.6292516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3936Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:33:22.853</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:33:22.853</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.8</font></p>
+ <p><font color="Black"> DTX: 0.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 9%</font></p>
+ <p><font color="Black"> Transport Blocks: 8881</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.03</font></p>
+ <p><font color="Black"> EcIo AVG: -6.05</font></p>
+ <p><font color="Black"> CellId inicial: 8766</font></p>
+ <p><font color="Black"> CellId final: 8766</font></p>
+ <p><font color="Black"> SC inicial: 194</font></p>
+ <p><font color="Black"> SC final: 190</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36079,36.6306</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1146Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:42:11.184</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:42:11.184</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.9</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 13517</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.72</font></p>
+ <p><font color="Black"> EcIo AVG: -5.78</font></p>
+ <p><font color="Black"> CellId inicial: 636</font></p>
+ <p><font color="Black"> CellId final: 636</font></p>
+ <p><font color="Black"> SC inicial: 436</font></p>
+ <p><font color="Black"> SC final: 194</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10763</font></p>
+ <p><font color="Black"> UARFCN final: 10763</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36387166666667,36.6300916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4452Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:46:50.647</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:46:50.647</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.5</font></p>
+ <p><font color="Black"> DTX: 0.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 10053</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.18</font></p>
+ <p><font color="Black"> EcIo AVG: -4.71</font></p>
+ <p><font color="Black"> CellId inicial: 523</font></p>
+ <p><font color="Black"> CellId final: 523</font></p>
+ <p><font color="Black"> SC inicial: 198</font></p>
+ <p><font color="Black"> SC final: 198</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.366905,36.6232833333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 940Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:50:45.574</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:50:45.574</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.9</font></p>
+ <p><font color="Black"> DTX: 2.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 79%</font></p>
+ <p><font color="Black"> Transport Blocks: 3105</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.16</font></p>
+ <p><font color="Black"> EcIo AVG: -5.96</font></p>
+ <p><font color="Black"> CellId inicial: 8767</font></p>
+ <p><font color="Black"> CellId final: 8767</font></p>
+ <p><font color="Black"> SC inicial: 195</font></p>
+ <p><font color="Black"> SC final: 190</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35920833333333,36.62757</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 779Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:55:57.048</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:55:57.048</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.9</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 8983</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.86</font></p>
+ <p><font color="Black"> EcIo AVG: -5.62</font></p>
+ <p><font color="Black"> CellId inicial: 25276</font></p>
+ <p><font color="Black"> CellId final: 25276</font></p>
+ <p><font color="Black"> SC inicial: 196</font></p>
+ <p><font color="Black"> SC final: 196</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36684333333333,36.623615</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4181Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 16:59:50.213</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 16:59:50.213</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.4</font></p>
+ <p><font color="Black"> DTX: 1.8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 9709</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.8</font></p>
+ <p><font color="Black"> EcIo AVG: -4.4</font></p>
+ <p><font color="Black"> CellId inicial: 522</font></p>
+ <p><font color="Black"> CellId final: 522</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.3654,36.62559</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 545Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:04:33.294</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:04:33.294</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.4</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 21%</font></p>
+ <p><font color="Black"> Transport Blocks: 8461</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.89</font></p>
+ <p><font color="Black"> EcIo AVG: -5.33</font></p>
+ <p><font color="Black"> CellId inicial: 59367</font></p>
+ <p><font color="Black"> CellId final: 59367</font></p>
+ <p><font color="Black"> SC inicial: 190</font></p>
+ <p><font color="Black"> SC final: 190</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35601,36.6270316666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4317Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:13:23.492</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:13:23.492</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31</font></p>
+ <p><font color="Black"> DTX: 1.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 1%</font></p>
+ <p><font color="Black"> Transport Blocks: 9689</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.47</font></p>
+ <p><font color="Black"> EcIo AVG: -4.75</font></p>
+ <p><font color="Black"> CellId inicial: 523</font></p>
+ <p><font color="Black"> CellId final: 523</font></p>
+ <p><font color="Black"> SC inicial: 198</font></p>
+ <p><font color="Black"> SC final: 198</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36708666666667,36.6232916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2326Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:17:05.647</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:17:05.647</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.4</font></p>
+ <p><font color="Black"> DTX: 1.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 41%</font></p>
+ <p><font color="Black"> Transport Blocks: 5492</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.53</font></p>
+ <p><font color="Black"> EcIo AVG: -7.47</font></p>
+ <p><font color="Black"> CellId inicial: 523</font></p>
+ <p><font color="Black"> CellId final: 523</font></p>
+ <p><font color="Black"> SC inicial: 198</font></p>
+ <p><font color="Black"> SC final: 198</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36347166666667,36.62205</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2292Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:22:34.570</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:22:34.570</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.7</font></p>
+ <p><font color="Black"> DTX: 6.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 4%</font></p>
+ <p><font color="Black"> Transport Blocks: 6574</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.97</font></p>
+ <p><font color="Black"> EcIo AVG: -5.95</font></p>
+ <p><font color="Black"> CellId inicial: 9656</font></p>
+ <p><font color="Black"> CellId final: 9656</font></p>
+ <p><font color="Black"> SC inicial: 110</font></p>
+ <p><font color="Black"> SC final: 110</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.360705,36.6214516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3948Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:26:31.577</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:26:31.577</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.8</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 12%</font></p>
+ <p><font color="Black"> Transport Blocks: 8938</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.63</font></p>
+ <p><font color="Black"> EcIo AVG: -6.35</font></p>
+ <p><font color="Black"> CellId inicial: 59367</font></p>
+ <p><font color="Black"> CellId final: 59367</font></p>
+ <p><font color="Black"> SC inicial: 190</font></p>
+ <p><font color="Black"> SC final: 190</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35502166666667,36.6277066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3842Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:31:13.079</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:31:13.079</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.1</font></p>
+ <p><font color="Black"> DTX: 3.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 9213</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -65.37</font></p>
+ <p><font color="Black"> EcIo AVG: -4.58</font></p>
+ <p><font color="Black"> CellId inicial: 11452</font></p>
+ <p><font color="Black"> CellId final: 11452</font></p>
+ <p><font color="Black"> SC inicial: 201</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.35586833333333,36.624805</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3450Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:35:09.098</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:35:09.098</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.5</font></p>
+ <p><font color="Black"> DTX: 1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 46%</font></p>
+ <p><font color="Black"> Transport Blocks: 8244</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.71</font></p>
+ <p><font color="Black"> EcIo AVG: -6.33</font></p>
+ <p><font color="Black"> CellId inicial: 9658</font></p>
+ <p><font color="Black"> CellId final: 9658</font></p>
+ <p><font color="Black"> SC inicial: 112</font></p>
+ <p><font color="Black"> SC final: 112</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36235333333333,36.6202666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3332Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:39:52.898</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:39:52.898</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 11%</font></p>
+ <p><font color="Black"> Transport Blocks: 7802</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.91</font></p>
+ <p><font color="Black"> EcIo AVG: -6.31</font></p>
+ <p><font color="Black"> CellId inicial: 8766</font></p>
+ <p><font color="Black"> CellId final: 8766</font></p>
+ <p><font color="Black"> SC inicial: 194</font></p>
+ <p><font color="Black"> SC final: 195</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36364166666667,36.6268333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2845Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 17:43:41.933</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 17:43:41.933</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.1</font></p>
+ <p><font color="Black"> DTX: 0.8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 2%</font></p>
+ <p><font color="Black"> Transport Blocks: 7775</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.6</font></p>
+ <p><font color="Black"> EcIo AVG: -6.6</font></p>
+ <p><font color="Black"> CellId inicial: 41089</font></p>
+ <p><font color="Black"> CellId final: 41089</font></p>
+ <p><font color="Black"> SC inicial: 194</font></p>
+ <p><font color="Black"> SC final: 194</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36492666666667,36.6294366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2004Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:00:17.000</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:00:17.000</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.6</font></p>
+ <p><font color="Black"> DTX: 11.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 2%</font></p>
+ <p><font color="Black"> Transport Blocks: 6519</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.26</font></p>
+ <p><font color="Black"> EcIo AVG: -6.08</font></p>
+ <p><font color="Black"> CellId inicial: 8766</font></p>
+ <p><font color="Black"> CellId final: 8766</font></p>
+ <p><font color="Black"> SC inicial: 194</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36437,36.6273883333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3639Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:03:56.110</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:03:56.110</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.8</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 90%</font></p>
+ <p><font color="Black"> Transport Blocks: 8158</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.78</font></p>
+ <p><font color="Black"> EcIo AVG: -5.84</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37141333333333,36.6270166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3088Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:08:40.646</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:08:40.646</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.3</font></p>
+ <p><font color="Black"> DTX: 3.7%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 1%</font></p>
+ <p><font color="Black"> Transport Blocks: 8118</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -73.7</font></p>
+ <p><font color="Black"> EcIo AVG: -5.12</font></p>
+ <p><font color="Black"> CellId inicial: 522</font></p>
+ <p><font color="Black"> CellId final: 522</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.36760166666667,36.625465</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3956Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:12:21.866</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:12:21.866</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.2</font></p>
+ <p><font color="Black"> DTX: 6.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 9370</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.41</font></p>
+ <p><font color="Black"> EcIo AVG: -5.68</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37268333333333,36.6260233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3430Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:17:08.242</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:17:08.242</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.5</font></p>
+ <p><font color="Black"> DTX: 1.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 7%</font></p>
+ <p><font color="Black"> Transport Blocks: 7986</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.5</font></p>
+ <p><font color="Black"> EcIo AVG: -5.53</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37562166666667,36.6263416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2404Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:20:52.977</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:20:52.977</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.8</font></p>
+ <p><font color="Black"> DTX: 0.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 66%</font></p>
+ <p><font color="Black"> Transport Blocks: 5638</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.73</font></p>
+ <p><font color="Black"> EcIo AVG: -5.76</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 166</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.38089833333333,36.630965</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1040Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:25:46.737</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:25:46.737</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.7</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 5%</font></p>
+ <p><font color="Black"> Transport Blocks: 13568</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.14</font></p>
+ <p><font color="Black"> EcIo AVG: -6.59</font></p>
+ <p><font color="Black"> CellId inicial: 49520</font></p>
+ <p><font color="Black"> CellId final: 49520</font></p>
+ <p><font color="Black"> SC inicial: 436</font></p>
+ <p><font color="Black"> SC final: 436</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37870333333333,36.6346666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2813Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:29:50.171</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:29:50.171</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.1</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 5%</font></p>
+ <p><font color="Black"> Transport Blocks: 7834</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.42</font></p>
+ <p><font color="Black"> EcIo AVG: -5.94</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.376595,36.6327383333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 383Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:34:42.994</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:34:42.994</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.1</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 33%</font></p>
+ <p><font color="Black"> Transport Blocks: 5615</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.19</font></p>
+ <p><font color="Black"> EcIo AVG: -6.56</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.3777,36.6297733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4670Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:39:01.468</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:39:01.468</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.9</font></p>
+ <p><font color="Black"> DTX: 0.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 10391</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.83</font></p>
+ <p><font color="Black"> EcIo AVG: -4.82</font></p>
+ <p><font color="Black"> CellId inicial: 45620</font></p>
+ <p><font color="Black"> CellId final: 45620</font></p>
+ <p><font color="Black"> SC inicial: 166</font></p>
+ <p><font color="Black"> SC final: 166</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.383755,36.62975</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 696Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:44:16.128</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:44:16.128</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 25.6</font></p>
+ <p><font color="Black"> DTX: 0.8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 64%</font></p>
+ <p><font color="Black"> Transport Blocks: 1361</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.95</font></p>
+ <p><font color="Black"> EcIo AVG: -6.84</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37847333333333,36.6291133333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1155Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:48:09.864</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:48:09.864</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 17%</font></p>
+ <p><font color="Black"> Transport Blocks: 13845</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.76</font></p>
+ <p><font color="Black"> EcIo AVG: -5.29</font></p>
+ <p><font color="Black"> CellId inicial: 636</font></p>
+ <p><font color="Black"> CellId final: 636</font></p>
+ <p><font color="Black"> SC inicial: 436</font></p>
+ <p><font color="Black"> SC final: 436</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10763</font></p>
+ <p><font color="Black"> UARFCN final: 10763</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37859666666667,36.6277716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2116Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:53:06.257</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:53:06.257</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.2</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 4760</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.01</font></p>
+ <p><font color="Black"> EcIo AVG: -5.41</font></p>
+ <p><font color="Black"> CellId inicial: 524</font></p>
+ <p><font color="Black"> CellId final: 524</font></p>
+ <p><font color="Black"> SC inicial: 280</font></p>
+ <p><font color="Black"> SC final: 280</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37755666666667,36.631905</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1183Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 18:56:53.707</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 18:56:53.707</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.7</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 13889</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -70.45</font></p>
+ <p><font color="Black"> EcIo AVG: -5.16</font></p>
+ <p><font color="Black"> CellId inicial: 49520</font></p>
+ <p><font color="Black"> CellId final: 49520</font></p>
+ <p><font color="Black"> SC inicial: 436</font></p>
+ <p><font color="Black"> SC final: 436</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.38577,36.6326116666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 971Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 19:02:42.130</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 19:02:42.130</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.9</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 3%</font></p>
+ <p><font color="Black"> Transport Blocks: 11998</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.6</font></p>
+ <p><font color="Black"> EcIo AVG: -9.36</font></p>
+ <p><font color="Black"> CellId inicial: 49520</font></p>
+ <p><font color="Black"> CellId final: 49520</font></p>
+ <p><font color="Black"> SC inicial: 436</font></p>
+ <p><font color="Black"> SC final: 436</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37916166666667,36.6328083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1049Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 19:06:51.098</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 19:06:51.098</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.8</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 13523</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.68</font></p>
+ <p><font color="Black"> EcIo AVG: -5.7</font></p>
+ <p><font color="Black"> CellId inicial: 636</font></p>
+ <p><font color="Black"> CellId final: 636</font></p>
+ <p><font color="Black"> SC inicial: 436</font></p>
+ <p><font color="Black"> SC final: 436</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.37001666666667,36.6294933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2281Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 19:27:36.620</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 19:27:36.620</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.8</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 49%</font></p>
+ <p><font color="Black"> Transport Blocks: 4839</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.35</font></p>
+ <p><font color="Black"> EcIo AVG: -5.19</font></p>
+ <p><font color="Black"> CellId inicial: 15933</font></p>
+ <p><font color="Black"> CellId final: 15933</font></p>
+ <p><font color="Black"> SC inicial: 355</font></p>
+ <p><font color="Black"> SC final: 355</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.40466333333333,36.6761083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3000Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 19:31:24.510</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 19:31:24.510</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.9</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 87%</font></p>
+ <p><font color="Black"> Transport Blocks: 6324</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.52</font></p>
+ <p><font color="Black"> EcIo AVG: -5.14</font></p>
+ <p><font color="Black"> CellId inicial: 15934</font></p>
+ <p><font color="Black"> CellId final: 15934</font></p>
+ <p><font color="Black"> SC inicial: 356</font></p>
+ <p><font color="Black"> SC final: 356</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.41000166666667,36.6855</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2000Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 19:36:23.819</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 19:36:23.819</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.6</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 87%</font></p>
+ <p><font color="Black"> Transport Blocks: 3906</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -93.48</font></p>
+ <p><font color="Black"> EcIo AVG: -5.54</font></p>
+ <p><font color="Black"> CellId inicial: 45880</font></p>
+ <p><font color="Black"> CellId final: 45880</font></p>
+ <p><font color="Black"> SC inicial: 329</font></p>
+ <p><font color="Black"> SC final: 333</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.41234333333333,36.691835</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2160Kbps</font></p>
+ <p><font color="Black"> Fecha: 2016-12-13 19:40:47.386</font></p>
+ <p><font color="Black"> Hora: 2016-12-13 19:40:47.386</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057556627</font></p>
+ <p><font color="Black"> LogFile: 20161213_ADD_CA_ROTA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.6</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 77%</font></p>
+ <p><font color="Black"> Transport Blocks: 4845</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.68</font></p>
+ <p><font color="Black"> EcIo AVG: -5.6</font></p>
+ <p><font color="Black"> CellId inicial: 38084</font></p>
+ <p><font color="Black"> CellId final: 38084</font></p>
+ <p><font color="Black"> SC inicial: 24</font></p>
+ <p><font color="Black"> SC final: 333</font></p>
+ <p><font color="Black"> LAC inicial: 53861</font></p>
+ <p><font color="Black"> LAC final: 53861</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-6.41198333333333,36.6918166666667</coordinates>
+</Point>
+</Placemark>
+<name>358672057556627</name>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_FTP_UL_2x2.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

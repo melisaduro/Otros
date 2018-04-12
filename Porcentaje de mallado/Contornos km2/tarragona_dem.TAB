@@ -1,0 +1,10 @@
+!table
+!version 1000
+!charset WindowsLatin1
+
+Definition Table
+  File "tarragona_dem.xlsx"
+  Type XLS Titles Range "Hoja1!A2:B195"
+  Fields 2
+    longitud Char (16) ;
+    latitud Char (16) ;

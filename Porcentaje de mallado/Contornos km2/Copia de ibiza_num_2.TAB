@@ -1,0 +1,10 @@
+!table
+!version 1000
+!charset WindowsLatin1
+
+Definition Table
+  File "copia de ibiza_num_2.xlsx"
+  Type XLS Titles Range "Hoja1!A2:B35"
+  Fields 2
+    longitude Char (16) ;
+    latitude Char (18) ;

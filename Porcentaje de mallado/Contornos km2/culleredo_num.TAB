@@ -1,0 +1,10 @@
+!table
+!version 1000
+!charset WindowsLatin1
+
+Definition Table
+  File "culleredo_num.xlsx"
+  Type XLS Titles Range "Hoja1!A2:B37"
+  Fields 2
+    longitud Char (16) ;
+    latitud Char (16) ;

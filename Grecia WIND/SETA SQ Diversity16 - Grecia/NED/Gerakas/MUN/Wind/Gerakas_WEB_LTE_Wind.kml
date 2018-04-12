@@ -1,0 +1,4038 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoAwful3G">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoVeryBad3G">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoBad3G">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoSoSo3G">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoGood3G">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Style id="IconoVeryGood3G">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+<LabelStyle>
+<color>00ffffff</color>
+</LabelStyle>
+</Style>
+<Folder>
+<name>352632087061648</name>
+<Placemark>
+<name>Testid: 83</name>
+<styleUrl>#IconoSoSoM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:31:51.627</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:31:54.504</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.1</font></p>
+ <p><font color="Black"> Session Time: 2.3</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -107</font></p>
+ <p><font color="Black"> RSRQ: -8.3</font></p>
+ <p><font color="Black"> SINR: 7.4</font></p>
+ <p><font color="Black"> % QPSK: 65.7%</font></p>
+ <p><font color="Black"> % 16QAM: 28.9%</font></p>
+ <p><font color="Black"> % 64QAM: 5.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848387,38.002108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 84</name>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:31:56.055</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:31:59.747</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 3.3</font></p>
+ <p><font color="Black"> Session Time: 3.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -107.3</font></p>
+ <p><font color="Black"> RSRQ: -8.8</font></p>
+ <p><font color="Black"> SINR: 8.3</font></p>
+ <p><font color="Black"> % QPSK: 5.5%</font></p>
+ <p><font color="Black"> % 16QAM: 80.6%</font></p>
+ <p><font color="Black"> % 64QAM: 13.9%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848387,38.002108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 85</name>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:32:01.298</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:32:10.227</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 8.5</font></p>
+ <p><font color="Black"> Session Time: 8.8</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -107.5</font></p>
+ <p><font color="Black"> RSRQ: -8.8</font></p>
+ <p><font color="Black"> SINR: 7.4</font></p>
+ <p><font color="Black"> % QPSK: 62.2%</font></p>
+ <p><font color="Black"> % 16QAM: 37.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848387,38.002108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 86</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:32:11.777</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:32:14.779</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.6</font></p>
+ <p><font color="Black"> Session Time: 2.9</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -107.3</font></p>
+ <p><font color="Black"> RSRQ: -8</font></p>
+ <p><font color="Black"> SINR: 8.6</font></p>
+ <p><font color="Black"> % QPSK: 47%</font></p>
+ <p><font color="Black"> % 16QAM: 52.4%</font></p>
+ <p><font color="Black"> % 64QAM: 0.6%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848387,38.002108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 93</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:34:35.750</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:34:36.923</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 0.8</font></p>
+ <p><font color="Black"> Session Time: 0.9</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.5</font></p>
+ <p><font color="Black"> RSRQ: -9.2</font></p>
+ <p><font color="Black"> SINR: 6.4</font></p>
+ <p><font color="Black"> % QPSK: 37.7%</font></p>
+ <p><font color="Black"> % 16QAM: 62.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848387,38.002108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 94</name>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:34:38.474</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:34:41.506</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.4</font></p>
+ <p><font color="Black"> Transfer Time: 2.6</font></p>
+ <p><font color="Black"> Session Time: 3</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.6</font></p>
+ <p><font color="Black"> RSRQ: -9</font></p>
+ <p><font color="Black"> SINR: 7.9</font></p>
+ <p><font color="Black"> % QPSK: 13.9%</font></p>
+ <p><font color="Black"> % 16QAM: 86.1%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848387,38.002108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 95</name>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:34:43.057</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:34:48.216</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 4.7</font></p>
+ <p><font color="Black"> Session Time: 5</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.8</font></p>
+ <p><font color="Black"> RSRQ: -8.6</font></p>
+ <p><font color="Black"> SINR: 7.7</font></p>
+ <p><font color="Black"> % QPSK: 35.6%</font></p>
+ <p><font color="Black"> % 16QAM: 62.9%</font></p>
+ <p><font color="Black"> % 64QAM: 1.5%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848387,38.002108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 96</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:34:49.767</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:34:52.677</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.4</font></p>
+ <p><font color="Black"> Transfer Time: 2.5</font></p>
+ <p><font color="Black"> Session Time: 2.9</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.8</font></p>
+ <p><font color="Black"> RSRQ: -8.4</font></p>
+ <p><font color="Black"> SINR: 8.2</font></p>
+ <p><font color="Black"> % QPSK: 61.1%</font></p>
+ <p><font color="Black"> % 16QAM: 38.9%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848387,38.002108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 103</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:36:59.204</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:37:00.327</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.8</font></p>
+ <p><font color="Black"> Session Time: 0.9</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -99.6</font></p>
+ <p><font color="Black"> RSRQ: -8</font></p>
+ <p><font color="Black"> SINR: 11</font></p>
+ <p><font color="Black"> % QPSK: 89.1%</font></p>
+ <p><font color="Black"> % 16QAM: 10.9%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8484,38.002007</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 104</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:37:01.879</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:37:04.334</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.5</font></p>
+ <p><font color="Black"> Transfer Time: 1.8</font></p>
+ <p><font color="Black"> Session Time: 2.4</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -99.7</font></p>
+ <p><font color="Black"> RSRQ: -7.8</font></p>
+ <p><font color="Black"> SINR: 11.6</font></p>
+ <p><font color="Black"> % QPSK: 57.4%</font></p>
+ <p><font color="Black"> % 16QAM: 42.6%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848398,38.001995</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 105</name>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:37:05.885</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:37:09.142</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.8</font></p>
+ <p><font color="Black"> Session Time: 3</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -99.6</font></p>
+ <p><font color="Black"> RSRQ: -7.9</font></p>
+ <p><font color="Black"> SINR: 10.1</font></p>
+ <p><font color="Black"> % QPSK: 51.2%</font></p>
+ <p><font color="Black"> % 16QAM: 31.6%</font></p>
+ <p><font color="Black"> % 64QAM: 17.2%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848383,38.001987</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 106</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:37:10.693</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:37:12.947</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2</font></p>
+ <p><font color="Black"> Session Time: 2.2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95.5</font></p>
+ <p><font color="Black"> RSRQ: -8</font></p>
+ <p><font color="Black"> SINR: 11.6</font></p>
+ <p><font color="Black"> % QPSK: 32.4%</font></p>
+ <p><font color="Black"> % 16QAM: 54.4%</font></p>
+ <p><font color="Black"> % 64QAM: 13.2%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848327,38.001978</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 113</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:39:06.527</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:39:07.455</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.6</font></p>
+ <p><font color="Black"> Session Time: 0.7</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -99.5</font></p>
+ <p><font color="Black"> RSRQ: -10.9</font></p>
+ <p><font color="Black"> SINR: 2.6</font></p>
+ <p><font color="Black"> % QPSK: 2.1%</font></p>
+ <p><font color="Black"> % 16QAM: 83.4%</font></p>
+ <p><font color="Black"> % 64QAM: 14.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 457</font></p>
+ <p><font color="Black"> PCI final: 457</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.846332,38.006121</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 114</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:39:09.006</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:39:11.748</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.4</font></p>
+ <p><font color="Black"> Session Time: 2.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -98.9</font></p>
+ <p><font color="Black"> RSRQ: -10.6</font></p>
+ <p><font color="Black"> SINR: 4.9</font></p>
+ <p><font color="Black"> % QPSK: 49.6%</font></p>
+ <p><font color="Black"> % 16QAM: 50.2%</font></p>
+ <p><font color="Black"> % 64QAM: 0.2%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 457</font></p>
+ <p><font color="Black"> PCI final: 457</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.846058,38.006548</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 115</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:39:13.299</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:39:16.222</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.6</font></p>
+ <p><font color="Black"> Session Time: 2.8</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -97.9</font></p>
+ <p><font color="Black"> RSRQ: -11.1</font></p>
+ <p><font color="Black"> SINR: 5.6</font></p>
+ <p><font color="Black"> % QPSK: 63.9%</font></p>
+ <p><font color="Black"> % 16QAM: 35.7%</font></p>
+ <p><font color="Black"> % 64QAM: 0.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 457</font></p>
+ <p><font color="Black"> PCI final: 457</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.845722,38.007067</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 116</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:39:17.773</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:39:20.250</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.2</font></p>
+ <p><font color="Black"> Session Time: 2.5</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -99</font></p>
+ <p><font color="Black"> RSRQ: -11.1</font></p>
+ <p><font color="Black"> SINR: 4.3</font></p>
+ <p><font color="Black"> % QPSK: 65.9%</font></p>
+ <p><font color="Black"> % 16QAM: 31.2%</font></p>
+ <p><font color="Black"> % 64QAM: 2.9%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 457</font></p>
+ <p><font color="Black"> PCI final: 457</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.845452,38.007512</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 123</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:41:12.551</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:41:13.399</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.5</font></p>
+ <p><font color="Black"> Session Time: 0.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -78.9</font></p>
+ <p><font color="Black"> RSRQ: -9</font></p>
+ <p><font color="Black"> SINR: 23</font></p>
+ <p><font color="Black"> % QPSK: 4.9%</font></p>
+ <p><font color="Black"> % 16QAM: 1.2%</font></p>
+ <p><font color="Black"> % 64QAM: 93.9%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.84406,38.010198</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 124</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:41:14.950</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:41:17.321</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 2.1</font></p>
+ <p><font color="Black"> Session Time: 2.4</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -78.5</font></p>
+ <p><font color="Black"> RSRQ: -8.7</font></p>
+ <p><font color="Black"> SINR: 23.1</font></p>
+ <p><font color="Black"> % QPSK: 18.2%</font></p>
+ <p><font color="Black"> % 16QAM: 2%</font></p>
+ <p><font color="Black"> % 64QAM: 79.9%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.84406,38.010198</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 125</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:41:18.872</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:41:21.294</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2</font></p>
+ <p><font color="Black"> Session Time: 2.2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -78.9</font></p>
+ <p><font color="Black"> RSRQ: -9.7</font></p>
+ <p><font color="Black"> SINR: 23.4</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 0%</font></p>
+ <p><font color="Black"> % 64QAM: 99.7%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.84406,38.010198</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 126</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:41:22.844</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:41:24.922</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 1.8</font></p>
+ <p><font color="Black"> Session Time: 2.1</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -79.4</font></p>
+ <p><font color="Black"> RSRQ: -8.9</font></p>
+ <p><font color="Black"> SINR: 23.6</font></p>
+ <p><font color="Black"> % QPSK: 4%</font></p>
+ <p><font color="Black"> % 16QAM: 1.2%</font></p>
+ <p><font color="Black"> % 64QAM: 94.8%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.84406,38.010198</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 133</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:43:17.462</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:43:18.435</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.6</font></p>
+ <p><font color="Black"> Session Time: 0.7</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -90.2</font></p>
+ <p><font color="Black"> RSRQ: -8.6</font></p>
+ <p><font color="Black"> SINR: 11.6</font></p>
+ <p><font color="Black"> % QPSK: 51.7%</font></p>
+ <p><font color="Black"> % 16QAM: 48.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 278</font></p>
+ <p><font color="Black"> PCI final: 278</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.846445,38.020357</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 134</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:43:19.986</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:43:22.586</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.3</font></p>
+ <p><font color="Black"> Session Time: 2.5</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -90.6</font></p>
+ <p><font color="Black"> RSRQ: -9.6</font></p>
+ <p><font color="Black"> SINR: 10.5</font></p>
+ <p><font color="Black"> % QPSK: 96%</font></p>
+ <p><font color="Black"> % 16QAM: 3.9%</font></p>
+ <p><font color="Black"> % 64QAM: 0.1%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 278</font></p>
+ <p><font color="Black"> PCI final: 278</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.846713,38.02073</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 135</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:43:24.138</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:43:26.851</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 2.3</font></p>
+ <p><font color="Black"> Session Time: 2.5</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95.4</font></p>
+ <p><font color="Black"> RSRQ: -10.1</font></p>
+ <p><font color="Black"> SINR: 7.4</font></p>
+ <p><font color="Black"> % QPSK: 98.7%</font></p>
+ <p><font color="Black"> % 16QAM: 1.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 278</font></p>
+ <p><font color="Black"> PCI final: 278</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.847017,38.02111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 136</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:43:28.403</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:43:31.381</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 2.6</font></p>
+ <p><font color="Black"> Session Time: 2.9</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -93.8</font></p>
+ <p><font color="Black"> RSRQ: -10.5</font></p>
+ <p><font color="Black"> SINR: 8</font></p>
+ <p><font color="Black"> % QPSK: 91.4%</font></p>
+ <p><font color="Black"> % 16QAM: 7.3%</font></p>
+ <p><font color="Black"> % 64QAM: 1.3%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 278</font></p>
+ <p><font color="Black"> PCI final: 278</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.847225,38.021408</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 143</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:45:23.135</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:45:23.952</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.5</font></p>
+ <p><font color="Black"> Session Time: 0.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -84.5</font></p>
+ <p><font color="Black"> RSRQ: -9.2</font></p>
+ <p><font color="Black"> SINR: 17.8</font></p>
+ <p><font color="Black"> % QPSK: 46.4%</font></p>
+ <p><font color="Black"> % 16QAM: 44.6%</font></p>
+ <p><font color="Black"> % 64QAM: 8.9%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849845,38.025753</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 144</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:45:25.503</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:45:28.025</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 2.2</font></p>
+ <p><font color="Black"> Session Time: 2.4</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -84.2</font></p>
+ <p><font color="Black"> RSRQ: -9.4</font></p>
+ <p><font color="Black"> SINR: 14.3</font></p>
+ <p><font color="Black"> % QPSK: 4.7%</font></p>
+ <p><font color="Black"> % 16QAM: 77.9%</font></p>
+ <p><font color="Black"> % 64QAM: 17.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849842,38.025772</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 145</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:45:29.576</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:45:31.992</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 2.2</font></p>
+ <p><font color="Black"> Session Time: 2.3</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.3</font></p>
+ <p><font color="Black"> RSRQ: -7.8</font></p>
+ <p><font color="Black"> SINR: 14.5</font></p>
+ <p><font color="Black"> % QPSK: 43.5%</font></p>
+ <p><font color="Black"> % 16QAM: 46.2%</font></p>
+ <p><font color="Black"> % 64QAM: 10.3%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849843,38.025773</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 146</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:45:33.544</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:45:35.602</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 1.7</font></p>
+ <p><font color="Black"> Session Time: 2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -86.1</font></p>
+ <p><font color="Black"> RSRQ: -7.6</font></p>
+ <p><font color="Black"> SINR: 11.9</font></p>
+ <p><font color="Black"> % QPSK: 31.3%</font></p>
+ <p><font color="Black"> % 16QAM: 55.6%</font></p>
+ <p><font color="Black"> % 64QAM: 13%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849855,38.025768</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 153</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:47:29.887</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:47:30.758</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.5</font></p>
+ <p><font color="Black"> Session Time: 0.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -83.9</font></p>
+ <p><font color="Black"> RSRQ: -8</font></p>
+ <p><font color="Black"> SINR: 15</font></p>
+ <p><font color="Black"> % QPSK: 35.6%</font></p>
+ <p><font color="Black"> % 16QAM: 64.4%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.84989,38.025758</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 154</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:47:32.309</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:47:34.804</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.3</font></p>
+ <p><font color="Black"> Session Time: 2.5</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -82.3</font></p>
+ <p><font color="Black"> RSRQ: -7.7</font></p>
+ <p><font color="Black"> SINR: 17.2</font></p>
+ <p><font color="Black"> % QPSK: 2.2%</font></p>
+ <p><font color="Black"> % 16QAM: 78.9%</font></p>
+ <p><font color="Black"> % 64QAM: 19%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849902,38.025763</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 155</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:47:36.352</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:47:38.777</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 2.2</font></p>
+ <p><font color="Black"> Session Time: 2.4</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -81</font></p>
+ <p><font color="Black"> RSRQ: -7.1</font></p>
+ <p><font color="Black"> SINR: 18.6</font></p>
+ <p><font color="Black"> % QPSK: 32.5%</font></p>
+ <p><font color="Black"> % 16QAM: 14.8%</font></p>
+ <p><font color="Black"> % 64QAM: 52.7%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849907,38.025777</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 156</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:47:40.327</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:47:42.577</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2</font></p>
+ <p><font color="Black"> Session Time: 2.2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -81.5</font></p>
+ <p><font color="Black"> RSRQ: -8.1</font></p>
+ <p><font color="Black"> SINR: 16.8</font></p>
+ <p><font color="Black"> % QPSK: 11.9%</font></p>
+ <p><font color="Black"> % 16QAM: 74.6%</font></p>
+ <p><font color="Black"> % 64QAM: 13.5%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849907,38.025758</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 163</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:49:40.334</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:49:41.334</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.6</font></p>
+ <p><font color="Black"> Session Time: 0.8</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -108.7</font></p>
+ <p><font color="Black"> RSRQ: -12.2</font></p>
+ <p><font color="Black"> SINR: 2.1</font></p>
+ <p><font color="Black"> % QPSK: 97%</font></p>
+ <p><font color="Black"> % 16QAM: 3%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8544,38.018147</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 164</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:49:42.886</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:49:45.667</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.4</font></p>
+ <p><font color="Black"> Session Time: 2.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -104.1</font></p>
+ <p><font color="Black"> RSRQ: -10.3</font></p>
+ <p><font color="Black"> SINR: 2.4</font></p>
+ <p><font color="Black"> % QPSK: 34.1%</font></p>
+ <p><font color="Black"> % 16QAM: 65%</font></p>
+ <p><font color="Black"> % 64QAM: 0.9%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.854265,38.017675</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 165</name>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:49:47.218</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:49:50.583</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 3</font></p>
+ <p><font color="Black"> Session Time: 3.2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -105</font></p>
+ <p><font color="Black"> RSRQ: -10.9</font></p>
+ <p><font color="Black"> SINR: 1.9</font></p>
+ <p><font color="Black"> % QPSK: 88.8%</font></p>
+ <p><font color="Black"> % 16QAM: 11.2%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 457</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.854115,38.017122</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 166</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:49:52.134</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:49:54.454</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.1</font></p>
+ <p><font color="Black"> Session Time: 2.3</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.1</font></p>
+ <p><font color="Black"> RSRQ: -9.9</font></p>
+ <p><font color="Black"> SINR: 3.1</font></p>
+ <p><font color="Black"> % QPSK: 100%</font></p>
+ <p><font color="Black"> % 16QAM: 0%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 457</font></p>
+ <p><font color="Black"> PCI final: 457</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.854102,38.016673</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 173</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:51:50.267</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:51:51.414</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.8</font></p>
+ <p><font color="Black"> Session Time: 0.9</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -103.3</font></p>
+ <p><font color="Black"> RSRQ: -11</font></p>
+ <p><font color="Black"> SINR: 3.5</font></p>
+ <p><font color="Black"> % QPSK: 100%</font></p>
+ <p><font color="Black"> % 16QAM: 0%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.856305,38.008696</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 174</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:51:52.965</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:51:55.573</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 2.2</font></p>
+ <p><font color="Black"> Session Time: 2.5</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -104.9</font></p>
+ <p><font color="Black"> RSRQ: -12.6</font></p>
+ <p><font color="Black"> SINR: 0</font></p>
+ <p><font color="Black"> % QPSK: 100%</font></p>
+ <p><font color="Black"> % 16QAM: 0%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.856217,38.008628</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 175</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:51:57.125</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:52:00.178</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 2.7</font></p>
+ <p><font color="Black"> Session Time: 2.8</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -102.8</font></p>
+ <p><font color="Black"> RSRQ: -10.3</font></p>
+ <p><font color="Black"> SINR: 5</font></p>
+ <p><font color="Black"> % QPSK: 72.1%</font></p>
+ <p><font color="Black"> % 16QAM: 25.7%</font></p>
+ <p><font color="Black"> % 64QAM: 2.2%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.85616,38.008577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 176</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:52:01.729</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:52:03.872</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 1.8</font></p>
+ <p><font color="Black"> Session Time: 2.1</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -89.9</font></p>
+ <p><font color="Black"> RSRQ: -7.3</font></p>
+ <p><font color="Black"> SINR: 11.8</font></p>
+ <p><font color="Black"> % QPSK: 7.5%</font></p>
+ <p><font color="Black"> % 16QAM: 92.5%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.856008,38.008455</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 183</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:53:55.596</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:53:56.438</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.5</font></p>
+ <p><font color="Black"> Session Time: 0.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -86.2</font></p>
+ <p><font color="Black"> RSRQ: -8.7</font></p>
+ <p><font color="Black"> SINR: 19</font></p>
+ <p><font color="Black"> % QPSK: 1.5%</font></p>
+ <p><font color="Black"> % 16QAM: 0%</font></p>
+ <p><font color="Black"> % 64QAM: 98.5%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.844388,38.010545</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 184</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:53:57.989</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:54:00.716</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 2.4</font></p>
+ <p><font color="Black"> Session Time: 2.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.5</font></p>
+ <p><font color="Black"> RSRQ: -9.2</font></p>
+ <p><font color="Black"> SINR: 16.5</font></p>
+ <p><font color="Black"> % QPSK: 3.5%</font></p>
+ <p><font color="Black"> % 16QAM: 41.6%</font></p>
+ <p><font color="Black"> % 64QAM: 54.9%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.844388,38.010545</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 185</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:54:02.267</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:54:04.639</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2</font></p>
+ <p><font color="Black"> Session Time: 2.2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.4</font></p>
+ <p><font color="Black"> RSRQ: -8.7</font></p>
+ <p><font color="Black"> SINR: 16.6</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 28.9%</font></p>
+ <p><font color="Black"> % 64QAM: 70.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.844388,38.010545</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 186</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:54:06.191</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:54:08.303</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 1.8</font></p>
+ <p><font color="Black"> Session Time: 2.1</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -86.5</font></p>
+ <p><font color="Black"> RSRQ: -7.3</font></p>
+ <p><font color="Black"> SINR: 16.2</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 48.4%</font></p>
+ <p><font color="Black"> % 64QAM: 51.6%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.844388,38.010545</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 193</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:56:10.049</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:56:11.183</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.8</font></p>
+ <p><font color="Black"> Session Time: 0.9</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.8</font></p>
+ <p><font color="Black"> RSRQ: -10.9</font></p>
+ <p><font color="Black"> SINR: 5.2</font></p>
+ <p><font color="Black"> % QPSK: 91.7%</font></p>
+ <p><font color="Black"> % 16QAM: 8.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.853603,38.006682</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 194</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:56:12.734</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:56:15.008</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 1.9</font></p>
+ <p><font color="Black"> Session Time: 2.2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.4</font></p>
+ <p><font color="Black"> RSRQ: -11.1</font></p>
+ <p><font color="Black"> SINR: 4.6</font></p>
+ <p><font color="Black"> % QPSK: 72.9%</font></p>
+ <p><font color="Black"> % 16QAM: 27.1%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.853765,38.006295</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 195</name>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:56:16.558</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:56:20.054</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 3.3</font></p>
+ <p><font color="Black"> Session Time: 3.4</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -105.5</font></p>
+ <p><font color="Black"> RSRQ: -11.6</font></p>
+ <p><font color="Black"> SINR: 3.3</font></p>
+ <p><font color="Black"> % QPSK: 82.6%</font></p>
+ <p><font color="Black"> % 16QAM: 17.4%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.853949,38.005855</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 196</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:56:21.604</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:56:24.413</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.4</font></p>
+ <p><font color="Black"> Transfer Time: 2.4</font></p>
+ <p><font color="Black"> Session Time: 2.8</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -104.1</font></p>
+ <p><font color="Black"> RSRQ: -10</font></p>
+ <p><font color="Black"> SINR: 4.3</font></p>
+ <p><font color="Black"> % QPSK: 80.1%</font></p>
+ <p><font color="Black"> % 16QAM: 19.2%</font></p>
+ <p><font color="Black"> % 64QAM: 0.7%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.854165,38.005338</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 203</name>
+<styleUrl>#IconoBadM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:59:03.707</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:59:07.645</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 3.5</font></p>
+ <p><font color="Black"> Session Time: 3.7</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95.5</font></p>
+ <p><font color="Black"> RSRQ: -9</font></p>
+ <p><font color="Black"> SINR: 7.4</font></p>
+ <p><font color="Black"> % QPSK: 77.7%</font></p>
+ <p><font color="Black"> % 16QAM: 16.2%</font></p>
+ <p><font color="Black"> % 64QAM: 6.1%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 387</font></p>
+ <p><font color="Black"> PCI final: 387</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848583,37.993112</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo-Testid: 204</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:59:09.197</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:59:19.208</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0</font></p>
+ <p><font color="Black"> Transfer Time: 0</font></p>
+ <p><font color="Black"> Session Time: 0</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 13.2%</font></p>
+ <p><font color="Black"> Uso CA: 86.8%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95.1</font></p>
+ <p><font color="Black"> RSRQ: -9.6</font></p>
+ <p><font color="Black"> SINR: 6.5</font></p>
+ <p><font color="Black"> % QPSK: 32.5%</font></p>
+ <p><font color="Black"> % 16QAM: 53.9%</font></p>
+ <p><font color="Black"> % 64QAM: 13.6%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 387</font></p>
+ <p><font color="Black"> PCI final: 387</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848053,37.994727</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 205</name>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:59:20.758</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:59:28.575</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 7.4</font></p>
+ <p><font color="Black"> Session Time: 7.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -91.4</font></p>
+ <p><font color="Black"> RSRQ: -8.2</font></p>
+ <p><font color="Black"> SINR: 10.4</font></p>
+ <p><font color="Black"> % QPSK: 84.2%</font></p>
+ <p><font color="Black"> % 16QAM: 15.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 387</font></p>
+ <p><font color="Black"> PCI final: 387</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.847649,37.996053</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 206</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:59:30.127</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:59:32.233</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087061648</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 1.7</font></p>
+ <p><font color="Black"> Session Time: 2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -90.4</font></p>
+ <p><font color="Black"> RSRQ: -7.6</font></p>
+ <p><font color="Black"> SINR: 14.1</font></p>
+ <p><font color="Black"> % QPSK: 0.8%</font></p>
+ <p><font color="Black"> % 16QAM: 99.2%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 387</font></p>
+ <p><font color="Black"> PCI final: 387</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.847485,37.996555</coordinates>
+</Point>
+</Placemark>
+<name>352632087061648</name>
+</Folder>
+<Folder>
+<name>352632087628420</name>
+<Placemark>
+<name>Testid: 936</name>
+<styleUrl>#IconoSoSoM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:31:31.167</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:31:33.016</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 1.4</font></p>
+ <p><font color="Black"> Session Time: 1.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -93.3</font></p>
+ <p><font color="Black"> RSRQ: -8.4</font></p>
+ <p><font color="Black"> SINR: 10.7</font></p>
+ <p><font color="Black"> % QPSK: 83.3%</font></p>
+ <p><font color="Black"> % 16QAM: 11.4%</font></p>
+ <p><font color="Black"> % 64QAM: 5.2%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848428,38.002075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 937</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:31:34.569</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:31:37.214</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 2.2</font></p>
+ <p><font color="Black"> Session Time: 2.5</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92.9</font></p>
+ <p><font color="Black"> RSRQ: -7.9</font></p>
+ <p><font color="Black"> SINR: 12.1</font></p>
+ <p><font color="Black"> % QPSK: 50%</font></p>
+ <p><font color="Black"> % 16QAM: 50%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848428,38.002075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 938</name>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:31:38.765</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:31:43.070</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 4.1</font></p>
+ <p><font color="Black"> Session Time: 4.2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -93.5</font></p>
+ <p><font color="Black"> RSRQ: -8</font></p>
+ <p><font color="Black"> SINR: 10.5</font></p>
+ <p><font color="Black"> % QPSK: 74.1%</font></p>
+ <p><font color="Black"> % 16QAM: 25.7%</font></p>
+ <p><font color="Black"> % 64QAM: 0.2%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848428,38.002075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 939</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:31:44.621</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:31:47.188</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.2</font></p>
+ <p><font color="Black"> Session Time: 2.5</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -93.5</font></p>
+ <p><font color="Black"> RSRQ: -7.8</font></p>
+ <p><font color="Black"> SINR: 11.5</font></p>
+ <p><font color="Black"> % QPSK: 44.1%</font></p>
+ <p><font color="Black"> % 16QAM: 55.9%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848428,38.002075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 946</name>
+<styleUrl>#IconoSoSoM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:34:15.146</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:34:17.323</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 1.7</font></p>
+ <p><font color="Black"> Session Time: 1.9</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -93.1</font></p>
+ <p><font color="Black"> RSRQ: -7.9</font></p>
+ <p><font color="Black"> SINR: 10.8</font></p>
+ <p><font color="Black"> % QPSK: 50.8%</font></p>
+ <p><font color="Black"> % 16QAM: 48%</font></p>
+ <p><font color="Black"> % 64QAM: 1.2%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848428,38.002075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 947</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:34:18.875</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:34:21.676</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.5</font></p>
+ <p><font color="Black"> Session Time: 2.8</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -93</font></p>
+ <p><font color="Black"> RSRQ: -7.8</font></p>
+ <p><font color="Black"> SINR: 10.3</font></p>
+ <p><font color="Black"> % QPSK: 71.9%</font></p>
+ <p><font color="Black"> % 16QAM: 28.1%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848428,38.002075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 948</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:34:23.227</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:34:25.779</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.2</font></p>
+ <p><font color="Black"> Session Time: 2.4</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92.8</font></p>
+ <p><font color="Black"> RSRQ: -7.9</font></p>
+ <p><font color="Black"> SINR: 10.7</font></p>
+ <p><font color="Black"> % QPSK: 48.2%</font></p>
+ <p><font color="Black"> % 16QAM: 50.4%</font></p>
+ <p><font color="Black"> % 64QAM: 1.5%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848428,38.002075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 949</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:34:27.330</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:34:29.945</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 2.2</font></p>
+ <p><font color="Black"> Session Time: 2.5</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92.7</font></p>
+ <p><font color="Black"> RSRQ: -8</font></p>
+ <p><font color="Black"> SINR: 12.6</font></p>
+ <p><font color="Black"> % QPSK: 13.5%</font></p>
+ <p><font color="Black"> % 16QAM: 85.3%</font></p>
+ <p><font color="Black"> % 64QAM: 1.2%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848428,38.002075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 956</name>
+<styleUrl>#IconoBadM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:36:45.744</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:36:48.546</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 1.1</font></p>
+ <p><font color="Black"> Transfer Time: 1.4</font></p>
+ <p><font color="Black"> Session Time: 2.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -81.9</font></p>
+ <p><font color="Black"> RSRQ: -7</font></p>
+ <p><font color="Black"> SINR: 15.1</font></p>
+ <p><font color="Black"> % QPSK: 4%</font></p>
+ <p><font color="Black"> % 16QAM: 77.4%</font></p>
+ <p><font color="Black"> % 64QAM: 18.6%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.847781,38.000422</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 957</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:36:50.097</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:36:52.647</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.3</font></p>
+ <p><font color="Black"> Session Time: 2.5</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -84.5</font></p>
+ <p><font color="Black"> RSRQ: -7</font></p>
+ <p><font color="Black"> SINR: 14.9</font></p>
+ <p><font color="Black"> % QPSK: 62.5%</font></p>
+ <p><font color="Black"> % 16QAM: 30.1%</font></p>
+ <p><font color="Black"> % 64QAM: 7.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.847792,38.000823</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 958</name>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:36:54.198</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:36:58.150</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 3.6</font></p>
+ <p><font color="Black"> Session Time: 3.7</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 72.7%</font></p>
+ <p><font color="Black"> Uso CA: 27.3%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -86.6</font></p>
+ <p><font color="Black"> RSRQ: -6.9</font></p>
+ <p><font color="Black"> SINR: 14.9</font></p>
+ <p><font color="Black"> % QPSK: 38.3%</font></p>
+ <p><font color="Black"> % 16QAM: 45.3%</font></p>
+ <p><font color="Black"> % 64QAM: 16.3%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.847807,38.001365</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 959</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:36:59.701</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:37:01.713</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 1.8</font></p>
+ <p><font color="Black"> Session Time: 1.9</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -89.6</font></p>
+ <p><font color="Black"> RSRQ: -6.7</font></p>
+ <p><font color="Black"> SINR: 13.3</font></p>
+ <p><font color="Black"> % QPSK: 25.1%</font></p>
+ <p><font color="Black"> % 16QAM: 74.9%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 388</font></p>
+ <p><font color="Black"> PCI final: 388</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.847824,38.001789</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 966</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:39:03.931</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:39:04.784</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.5</font></p>
+ <p><font color="Black"> Session Time: 0.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.6</font></p>
+ <p><font color="Black"> RSRQ: -10.3</font></p>
+ <p><font color="Black"> SINR: 15.9</font></p>
+ <p><font color="Black"> % QPSK: 3.3%</font></p>
+ <p><font color="Black"> % 16QAM: 40.8%</font></p>
+ <p><font color="Black"> % 64QAM: 55.8%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.843553,38.012397</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 967</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:39:06.335</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:39:08.955</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 2.3</font></p>
+ <p><font color="Black"> Session Time: 2.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -84.7</font></p>
+ <p><font color="Black"> RSRQ: -8.1</font></p>
+ <p><font color="Black"> SINR: 17.6</font></p>
+ <p><font color="Black"> % QPSK: 8%</font></p>
+ <p><font color="Black"> % 16QAM: 35.9%</font></p>
+ <p><font color="Black"> % 64QAM: 56.1%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.843552,38.012433</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 968</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:39:10.505</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:39:13.025</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.1</font></p>
+ <p><font color="Black"> Session Time: 2.3</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -86.1</font></p>
+ <p><font color="Black"> RSRQ: -9.5</font></p>
+ <p><font color="Black"> SINR: 13.5</font></p>
+ <p><font color="Black"> % QPSK: 29.1%</font></p>
+ <p><font color="Black"> % 16QAM: 61.6%</font></p>
+ <p><font color="Black"> % 64QAM: 9.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.843557,38.012428</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 969</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:39:14.575</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:39:16.793</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 1.9</font></p>
+ <p><font color="Black"> Session Time: 2.1</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.6</font></p>
+ <p><font color="Black"> RSRQ: -9.9</font></p>
+ <p><font color="Black"> SINR: 17.1</font></p>
+ <p><font color="Black"> % QPSK: 1.5%</font></p>
+ <p><font color="Black"> % 16QAM: 23%</font></p>
+ <p><font color="Black"> % 64QAM: 75.5%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.84354,38.012428</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 976</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:41:18.065</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:41:18.849</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.5</font></p>
+ <p><font color="Black"> Session Time: 0.5</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -88.3</font></p>
+ <p><font color="Black"> RSRQ: -9.6</font></p>
+ <p><font color="Black"> SINR: 7.2</font></p>
+ <p><font color="Black"> % QPSK: 66.8%</font></p>
+ <p><font color="Black"> % 16QAM: 33.2%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 166</font></p>
+ <p><font color="Black"> PCI final: 166</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.843722,38.014225</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 977</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:41:20.400</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:41:23.248</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.4</font></p>
+ <p><font color="Black"> Transfer Time: 2.4</font></p>
+ <p><font color="Black"> Session Time: 2.7</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -90.6</font></p>
+ <p><font color="Black"> RSRQ: -9.1</font></p>
+ <p><font color="Black"> SINR: 8.1</font></p>
+ <p><font color="Black"> % QPSK: 22.7%</font></p>
+ <p><font color="Black"> % 16QAM: 74%</font></p>
+ <p><font color="Black"> % 64QAM: 3.3%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 166</font></p>
+ <p><font color="Black"> PCI final: 166</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.843865,38.01469</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 978</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:41:24.799</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:41:29.123</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 2.7</font></p>
+ <p><font color="Black"> Session Time: 2.8</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -91.8</font></p>
+ <p><font color="Black"> RSRQ: -8.3</font></p>
+ <p><font color="Black"> SINR: 10.3</font></p>
+ <p><font color="Black"> % QPSK: 48.9%</font></p>
+ <p><font color="Black"> % 16QAM: 28.1%</font></p>
+ <p><font color="Black"> % 64QAM: 23%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 166</font></p>
+ <p><font color="Black"> PCI final: 166</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.844068,38.015348</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 979</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:41:30.674</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:41:32.937</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2</font></p>
+ <p><font color="Black"> Session Time: 2.2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -90.1</font></p>
+ <p><font color="Black"> RSRQ: -7.5</font></p>
+ <p><font color="Black"> SINR: 11.9</font></p>
+ <p><font color="Black"> % QPSK: 7.5%</font></p>
+ <p><font color="Black"> % 16QAM: 76.8%</font></p>
+ <p><font color="Black"> % 64QAM: 15.7%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 166</font></p>
+ <p><font color="Black"> PCI final: 166</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.844168,38.015681</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 986</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:43:36.588</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:43:37.536</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 0.6</font></p>
+ <p><font color="Black"> Session Time: 0.7</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95.2</font></p>
+ <p><font color="Black"> RSRQ: -11.4</font></p>
+ <p><font color="Black"> SINR: 0.6</font></p>
+ <p><font color="Black"> % QPSK: 97.2%</font></p>
+ <p><font color="Black"> % 16QAM: 2.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 166</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848658,38.023602</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 987</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:43:39.089</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:43:42.150</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.8</font></p>
+ <p><font color="Black"> Session Time: 3</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -94.6</font></p>
+ <p><font color="Black"> RSRQ: -10</font></p>
+ <p><font color="Black"> SINR: 5</font></p>
+ <p><font color="Black"> % QPSK: 96.7%</font></p>
+ <p><font color="Black"> % 16QAM: 3.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 166</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848807,38.023888</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 988</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:43:43.700</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:43:46.286</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.3</font></p>
+ <p><font color="Black"> Session Time: 2.5</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -91.3</font></p>
+ <p><font color="Black"> RSRQ: -8.1</font></p>
+ <p><font color="Black"> SINR: 9.5</font></p>
+ <p><font color="Black"> % QPSK: 56.1%</font></p>
+ <p><font color="Black"> % 16QAM: 42.5%</font></p>
+ <p><font color="Black"> % 64QAM: 1.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.848928,38.024153</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 989</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:43:47.837</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:43:50.047</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2</font></p>
+ <p><font color="Black"> Session Time: 2.1</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92.1</font></p>
+ <p><font color="Black"> RSRQ: -8.2</font></p>
+ <p><font color="Black"> SINR: 11.6</font></p>
+ <p><font color="Black"> % QPSK: 52.8%</font></p>
+ <p><font color="Black"> % 16QAM: 32.2%</font></p>
+ <p><font color="Black"> % 64QAM: 15%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849028,38.024385</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 996</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:45:48.486</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:45:49.334</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.5</font></p>
+ <p><font color="Black"> Session Time: 0.6</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -79.1</font></p>
+ <p><font color="Black"> RSRQ: -7.9</font></p>
+ <p><font color="Black"> SINR: 21.3</font></p>
+ <p><font color="Black"> % QPSK: 15.6%</font></p>
+ <p><font color="Black"> % 16QAM: 15.6%</font></p>
+ <p><font color="Black"> % 64QAM: 68.8%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849958,38.025683</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 997</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:45:50.884</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:45:53.353</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 2</font></p>
+ <p><font color="Black"> Session Time: 2.3</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -82.6</font></p>
+ <p><font color="Black"> RSRQ: -7.4</font></p>
+ <p><font color="Black"> SINR: 18.6</font></p>
+ <p><font color="Black"> % QPSK: 44%</font></p>
+ <p><font color="Black"> % 16QAM: 21.5%</font></p>
+ <p><font color="Black"> % 64QAM: 34.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849958,38.025683</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 998</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:45:54.904</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:45:57.396</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.3</font></p>
+ <p><font color="Black"> Session Time: 2.4</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -84.1</font></p>
+ <p><font color="Black"> RSRQ: -7.4</font></p>
+ <p><font color="Black"> SINR: 18.1</font></p>
+ <p><font color="Black"> % QPSK: 31.9%</font></p>
+ <p><font color="Black"> % 16QAM: 21.8%</font></p>
+ <p><font color="Black"> % 64QAM: 46.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849958,38.025683</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 999</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:45:58.947</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:46:00.943</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 1.7</font></p>
+ <p><font color="Black"> Session Time: 2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -80.6</font></p>
+ <p><font color="Black"> RSRQ: -7.3</font></p>
+ <p><font color="Black"> SINR: 18.4</font></p>
+ <p><font color="Black"> % QPSK: 11.5%</font></p>
+ <p><font color="Black"> % 16QAM: 7.2%</font></p>
+ <p><font color="Black"> % 64QAM: 81.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.849958,38.025683</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1006</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:48:02.201</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:48:03.125</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.6</font></p>
+ <p><font color="Black"> Session Time: 0.7</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -98.7</font></p>
+ <p><font color="Black"> RSRQ: -9</font></p>
+ <p><font color="Black"> SINR: 10</font></p>
+ <p><font color="Black"> % QPSK: 55.1%</font></p>
+ <p><font color="Black"> % 16QAM: 44.9%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.852513,38.02548</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1007</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:48:04.676</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:48:07.606</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2.7</font></p>
+ <p><font color="Black"> Session Time: 2.8</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -98.5</font></p>
+ <p><font color="Black"> RSRQ: -9.2</font></p>
+ <p><font color="Black"> SINR: 8.3</font></p>
+ <p><font color="Black"> % QPSK: 47.4%</font></p>
+ <p><font color="Black"> % 16QAM: 50.1%</font></p>
+ <p><font color="Black"> % 64QAM: 2.5%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8531,38.025287</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1008</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:48:09.158</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:48:11.550</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2</font></p>
+ <p><font color="Black"> Session Time: 2.2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -100.7</font></p>
+ <p><font color="Black"> RSRQ: -8.8</font></p>
+ <p><font color="Black"> SINR: 9.1</font></p>
+ <p><font color="Black"> % QPSK: 74.3%</font></p>
+ <p><font color="Black"> % 16QAM: 24.6%</font></p>
+ <p><font color="Black"> % 64QAM: 1.1%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.853641,38.0251</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1009</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:48:13.100</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:48:15.369</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2</font></p>
+ <p><font color="Black"> Session Time: 2.2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -101</font></p>
+ <p><font color="Black"> RSRQ: -10.9</font></p>
+ <p><font color="Black"> SINR: 6.7</font></p>
+ <p><font color="Black"> % QPSK: 57%</font></p>
+ <p><font color="Black"> % 16QAM: 42.6%</font></p>
+ <p><font color="Black"> % 64QAM: 0.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 277</font></p>
+ <p><font color="Black"> PCI final: 277</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.854122,38.024926</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1016</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:50:21.825</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:50:22.840</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.7</font></p>
+ <p><font color="Black"> Session Time: 0.8</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -105.7</font></p>
+ <p><font color="Black"> RSRQ: -11</font></p>
+ <p><font color="Black"> SINR: 4.7</font></p>
+ <p><font color="Black"> % QPSK: 46.1%</font></p>
+ <p><font color="Black"> % 16QAM: 53.9%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.857278,38.012792</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1017</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:50:24.390</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:50:26.696</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2</font></p>
+ <p><font color="Black"> Session Time: 2.2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -105.8</font></p>
+ <p><font color="Black"> RSRQ: -11.4</font></p>
+ <p><font color="Black"> SINR: 4.5</font></p>
+ <p><font color="Black"> % QPSK: 77.2%</font></p>
+ <p><font color="Black"> % 16QAM: 21%</font></p>
+ <p><font color="Black"> % 64QAM: 1.8%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.857563,38.012441</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1018</name>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:50:28.248</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:50:31.749</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 3.1</font></p>
+ <p><font color="Black"> Session Time: 3.3</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -107.4</font></p>
+ <p><font color="Black"> RSRQ: -11.5</font></p>
+ <p><font color="Black"> SINR: 4.8</font></p>
+ <p><font color="Black"> % QPSK: 70.5%</font></p>
+ <p><font color="Black"> % 16QAM: 29.5%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.8577,38.012142</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1019</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:50:33.300</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:50:35.702</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 2.1</font></p>
+ <p><font color="Black"> Session Time: 2.4</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.6</font></p>
+ <p><font color="Black"> RSRQ: -12</font></p>
+ <p><font color="Black"> SINR: 3.3</font></p>
+ <p><font color="Black"> % QPSK: 100%</font></p>
+ <p><font color="Black"> % 16QAM: 0%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.857702,38.01207</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1026</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:52:34.312</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:52:35.222</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.6</font></p>
+ <p><font color="Black"> Session Time: 0.7</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -89.6</font></p>
+ <p><font color="Black"> RSRQ: -9.9</font></p>
+ <p><font color="Black"> SINR: 13.1</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 76.2%</font></p>
+ <p><font color="Black"> % 64QAM: 23.8%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.853193,38.009044</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1027</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:52:36.773</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:52:39.244</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 2.1</font></p>
+ <p><font color="Black"> Session Time: 2.4</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -88.9</font></p>
+ <p><font color="Black"> RSRQ: -9.3</font></p>
+ <p><font color="Black"> SINR: 15</font></p>
+ <p><font color="Black"> % QPSK: 6.6%</font></p>
+ <p><font color="Black"> % 16QAM: 21.2%</font></p>
+ <p><font color="Black"> % 64QAM: 72.3%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.852625,38.009165</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1028</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:52:40.796</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:52:43.220</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 2.2</font></p>
+ <p><font color="Black"> Session Time: 2.3</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -93.4</font></p>
+ <p><font color="Black"> RSRQ: -9.5</font></p>
+ <p><font color="Black"> SINR: 12.6</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 98.9%</font></p>
+ <p><font color="Black"> % 64QAM: 0.7%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.851967,38.009293</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1029</name>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:52:44.771</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:52:46.836</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 1.7</font></p>
+ <p><font color="Black"> Session Time: 2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -90.8</font></p>
+ <p><font color="Black"> RSRQ: -9.5</font></p>
+ <p><font color="Black"> SINR: 15.1</font></p>
+ <p><font color="Black"> % QPSK: 1.3%</font></p>
+ <p><font color="Black"> % 16QAM: 42.4%</font></p>
+ <p><font color="Black"> % 64QAM: 56.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.851305,38.00942</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1036</name>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:54:45.755</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:54:46.798</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.7</font></p>
+ <p><font color="Black"> Session Time: 0.8</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -83.8</font></p>
+ <p><font color="Black"> RSRQ: -9.4</font></p>
+ <p><font color="Black"> SINR: 15.5</font></p>
+ <p><font color="Black"> % QPSK: 1.9%</font></p>
+ <p><font color="Black"> % 16QAM: 91.6%</font></p>
+ <p><font color="Black"> % 64QAM: 6.5%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.84433,38.010362</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1037</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:54:48.349</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:54:50.569</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 2</font></p>
+ <p><font color="Black"> Session Time: 2.2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -82.9</font></p>
+ <p><font color="Black"> RSRQ: -8.5</font></p>
+ <p><font color="Black"> SINR: 14.4</font></p>
+ <p><font color="Black"> % QPSK: 2.5%</font></p>
+ <p><font color="Black"> % 16QAM: 60.7%</font></p>
+ <p><font color="Black"> % 64QAM: 36.8%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.844874,38.010294</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1038</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:54:52.120</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:54:54.428</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 1.9</font></p>
+ <p><font color="Black"> Session Time: 2.1</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -80.5</font></p>
+ <p><font color="Black"> RSRQ: -7.2</font></p>
+ <p><font color="Black"> SINR: 15.3</font></p>
+ <p><font color="Black"> % QPSK: 0.8%</font></p>
+ <p><font color="Black"> % 16QAM: 48.1%</font></p>
+ <p><font color="Black"> % 64QAM: 51.1%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.845635,38.010186</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1039</name>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:54:55.980</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:54:58.048</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 1.8</font></p>
+ <p><font color="Black"> Session Time: 2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 100%</font></p>
+ <p><font color="Black"> Uso CA: 0%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -80.5</font></p>
+ <p><font color="Black"> RSRQ: -8.4</font></p>
+ <p><font color="Black"> SINR: 15.5</font></p>
+ <p><font color="Black"> % QPSK: 21.5%</font></p>
+ <p><font color="Black"> % 16QAM: 14.2%</font></p>
+ <p><font color="Black"> % 64QAM: 64.3%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 167</font></p>
+ <p><font color="Black"> PCI final: 167</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.846268,38.010083</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1046</name>
+<styleUrl>#IconoGoodM</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Mobile Kepler</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:57:39.375</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:57:40.833</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.2</font></p>
+ <p><font color="Black"> Transfer Time: 1</font></p>
+ <p><font color="Black"> Session Time: 1.2</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -81.9</font></p>
+ <p><font color="Black"> RSRQ: -8.5</font></p>
+ <p><font color="Black"> SINR: 11.2</font></p>
+ <p><font color="Black"> % QPSK: 73%</font></p>
+ <p><font color="Black"> % 16QAM: 27%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 387</font></p>
+ <p><font color="Black"> PCI final: 387</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.850238,37.997758</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1047</name>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Google</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:57:42.384</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:57:47.815</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.3</font></p>
+ <p><font color="Black"> Transfer Time: 5.1</font></p>
+ <p><font color="Black"> Session Time: 5.4</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -82.9</font></p>
+ <p><font color="Black"> RSRQ: -8.5</font></p>
+ <p><font color="Black"> SINR: 10.8</font></p>
+ <p><font color="Black"> % QPSK: 48.1%</font></p>
+ <p><font color="Black"> % 16QAM: 46.1%</font></p>
+ <p><font color="Black"> % 64QAM: 5.8%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 387</font></p>
+ <p><font color="Black"> PCI final: 387</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.850228,37.99776</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo-Testid: 1048</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Facebook</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:57:49.367</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:57:59.382</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0</font></p>
+ <p><font color="Black"> Transfer Time: 0</font></p>
+ <p><font color="Black"> Session Time: 0</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -83.1</font></p>
+ <p><font color="Black"> RSRQ: -8.6</font></p>
+ <p><font color="Black"> SINR: 10.6</font></p>
+ <p><font color="Black"> % QPSK: 63%</font></p>
+ <p><font color="Black"> % 16QAM: 36.6%</font></p>
+ <p><font color="Black"> % 64QAM: 0.4%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 387</font></p>
+ <p><font color="Black"> PCI final: 387</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.850228,37.99776</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Testid: 1049</name>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Tipo de Test: Youtube</font></p>
+ <p><font color="Black"> Hora inicio: 2018-03-16 15:58:00.934</font></p>
+ <p><font color="Black"> Hora fin: 2018-03-16 15:58:05.729</font></p>
+ <p><font color="Black"> Equipo de Medidas: 352632087628420</font></p>
+ <p><font color="Black"> DNS Time: 0</font></p>
+ <p><font color="Black"> IP Service Setup Time: 0.1</font></p>
+ <p><font color="Black"> Transfer Time: 4.6</font></p>
+ <p><font color="Black"> Session Time: 4.7</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso SC: 0%</font></p>
+ <p><font color="Black"> Uso CA: 100%</font></p>
+ <p><font color="Black"> Uso 3C: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -84.1</font></p>
+ <p><font color="Black"> RSRQ: -9.3</font></p>
+ <p><font color="Black"> SINR: 9.9</font></p>
+ <p><font color="Black"> % QPSK: 66.7%</font></p>
+ <p><font color="Black"> % 16QAM: 28.6%</font></p>
+ <p><font color="Black"> % 64QAM: 4.7%</font></p>
+ <p><font color="Black"> % 256QAM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> PCI inicial: 387</font></p>
+ <p><font color="Black"> PCI final: 387</font></p>
+ <p><font color="Black"> EARFCN inicial: 6200</font></p>
+ <p><font color="Black"> EARFCN final: 6200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>23.850215,37.997752</coordinates>
+</Point>
+</Placemark>
+<name>352632087628420</name>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_WEB_2x2_LTE.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

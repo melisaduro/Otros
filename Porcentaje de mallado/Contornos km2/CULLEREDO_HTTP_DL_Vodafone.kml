@@ -1,0 +1,2028 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>358672057558474</name>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5845Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:20:12.170</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:20:12.170</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.9</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 40%</font></p>
+ <p><font color="Black"> % BLER: 11.3%</font></p>
+ <p><font color="Black"> % NACKs: 7.2%</font></p>
+ <p><font color="Black"> % SCCH: 65.2%</font></p>
+ <p><font color="Black"> % QPSK: 1.2%</font></p>
+ <p><font color="Black"> % 16QAM: 98.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.48</font></p>
+ <p><font color="Black"> EcIo AVG: -8.38</font></p>
+ <p><font color="Black"> CellId inicial: 15649</font></p>
+ <p><font color="Black"> CellId final: 15649</font></p>
+ <p><font color="Black"> SC inicial: 220</font></p>
+ <p><font color="Black"> SC final: 220</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.37816,43.28912</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3018Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:23:58.621</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:23:58.621</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.8</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 55%</font></p>
+ <p><font color="Black"> % BLER: 10.3%</font></p>
+ <p><font color="Black"> % NACKs: 4.3%</font></p>
+ <p><font color="Black"> % SCCH: 47.6%</font></p>
+ <p><font color="Black"> % QPSK: 25.1%</font></p>
+ <p><font color="Black"> % 16QAM: 74.6%</font></p>
+ <p><font color="Black"> % 64QAM: 0.3%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.67</font></p>
+ <p><font color="Black"> EcIo AVG: -11.43</font></p>
+ <p><font color="Black"> CellId inicial: 15649</font></p>
+ <p><font color="Black"> CellId final: 15649</font></p>
+ <p><font color="Black"> SC inicial: 220</font></p>
+ <p><font color="Black"> SC final: 220</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.37816,43.28912</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6456Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:32:47.786</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:32:47.786</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.2</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 86%</font></p>
+ <p><font color="Black"> % BLER: 23.5%</font></p>
+ <p><font color="Black"> % NACKs: 31.4%</font></p>
+ <p><font color="Black"> % SCCH: 54.9%</font></p>
+ <p><font color="Black"> % QPSK: 56.8%</font></p>
+ <p><font color="Black"> % 16QAM: 42.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.95</font></p>
+ <p><font color="Black"> EcIo AVG: -7.45</font></p>
+ <p><font color="Black"> CellId inicial: 40545</font></p>
+ <p><font color="Black"> CellId final: 40545</font></p>
+ <p><font color="Black"> SC inicial: 344</font></p>
+ <p><font color="Black"> SC final: 344</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.387535,43.2960116666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 17803Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:42:23.985</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:42:23.985</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.2</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 145%</font></p>
+ <p><font color="Black"> % BLER: 15.7%</font></p>
+ <p><font color="Black"> % NACKs: 10.3%</font></p>
+ <p><font color="Black"> % SCCH: 42.4%</font></p>
+ <p><font color="Black"> % QPSK: 2.6%</font></p>
+ <p><font color="Black"> % 16QAM: 12.7%</font></p>
+ <p><font color="Black"> % 64QAM: 84.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77</font></p>
+ <p><font color="Black"> EcIo AVG: -4.52</font></p>
+ <p><font color="Black"> CellId inicial: 1254</font></p>
+ <p><font color="Black"> CellId final: 1254</font></p>
+ <p><font color="Black"> SC inicial: 263</font></p>
+ <p><font color="Black"> SC final: 263</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38276333333333,43.30603</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6886Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:47:24.387</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:47:24.387</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.2</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 100%</font></p>
+ <p><font color="Black"> % BLER: 18.6%</font></p>
+ <p><font color="Black"> % NACKs: 20.6%</font></p>
+ <p><font color="Black"> % SCCH: 61.2%</font></p>
+ <p><font color="Black"> % QPSK: 68.4%</font></p>
+ <p><font color="Black"> % 16QAM: 30.9%</font></p>
+ <p><font color="Black"> % 64QAM: 0.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.55</font></p>
+ <p><font color="Black"> EcIo AVG: -5.83</font></p>
+ <p><font color="Black"> CellId inicial: 41016</font></p>
+ <p><font color="Black"> CellId final: 41016</font></p>
+ <p><font color="Black"> SC inicial: 207</font></p>
+ <p><font color="Black"> SC final: 223</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.36976333333333,43.30882</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8626Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:51:26.672</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:51:26.672</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.1</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 48%</font></p>
+ <p><font color="Black"> % BLER: 21%</font></p>
+ <p><font color="Black"> % NACKs: 10.7%</font></p>
+ <p><font color="Black"> % SCCH: 44.5%</font></p>
+ <p><font color="Black"> % QPSK: 0.8%</font></p>
+ <p><font color="Black"> % 16QAM: 15.1%</font></p>
+ <p><font color="Black"> % 64QAM: 84.1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -58.11</font></p>
+ <p><font color="Black"> EcIo AVG: -6.15</font></p>
+ <p><font color="Black"> CellId inicial: 15648</font></p>
+ <p><font color="Black"> CellId final: 15648</font></p>
+ <p><font color="Black"> SC inicial: 223</font></p>
+ <p><font color="Black"> SC final: 223</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.37227,43.3042266666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8670Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:56:14.013</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:56:14.013</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.9</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 57%</font></p>
+ <p><font color="Black"> % BLER: 17.1%</font></p>
+ <p><font color="Black"> % NACKs: 7.7%</font></p>
+ <p><font color="Black"> % SCCH: 44.6%</font></p>
+ <p><font color="Black"> % QPSK: 1.8%</font></p>
+ <p><font color="Black"> % 16QAM: 42.6%</font></p>
+ <p><font color="Black"> % 64QAM: 55.7%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -59.99</font></p>
+ <p><font color="Black"> EcIo AVG: -5.69</font></p>
+ <p><font color="Black"> CellId inicial: 15650</font></p>
+ <p><font color="Black"> CellId final: 15650</font></p>
+ <p><font color="Black"> SC inicial: 223</font></p>
+ <p><font color="Black"> SC final: 223</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.37163833333333,43.3010633333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2031Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:59:59.348</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:59:59.348</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 14.9</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 28%</font></p>
+ <p><font color="Black"> % BLER: 19.1%</font></p>
+ <p><font color="Black"> % NACKs: 12.9%</font></p>
+ <p><font color="Black"> % SCCH: 71.8%</font></p>
+ <p><font color="Black"> % QPSK: 83.7%</font></p>
+ <p><font color="Black"> % 16QAM: 15.5%</font></p>
+ <p><font color="Black"> % 64QAM: 0.8%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.19</font></p>
+ <p><font color="Black"> EcIo AVG: -7.35</font></p>
+ <p><font color="Black"> CellId inicial: 27995</font></p>
+ <p><font color="Black"> CellId final: 27995</font></p>
+ <p><font color="Black"> SC inicial: 207</font></p>
+ <p><font color="Black"> SC final: 122</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.36712166666667,43.3078183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9108Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:05:35.922</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:05:35.922</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.1</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 127%</font></p>
+ <p><font color="Black"> % BLER: 13.2%</font></p>
+ <p><font color="Black"> % NACKs: 10%</font></p>
+ <p><font color="Black"> % SCCH: 43.1%</font></p>
+ <p><font color="Black"> % QPSK: 2.6%</font></p>
+ <p><font color="Black"> % 16QAM: 93.2%</font></p>
+ <p><font color="Black"> % 64QAM: 4.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.82</font></p>
+ <p><font color="Black"> EcIo AVG: -6.7</font></p>
+ <p><font color="Black"> CellId inicial: 1496</font></p>
+ <p><font color="Black"> CellId final: 1496</font></p>
+ <p><font color="Black"> SC inicial: 482</font></p>
+ <p><font color="Black"> SC final: 482</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.35900666666667,43.315725</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 14936Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:09:15.093</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:09:15.093</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.4</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 151%</font></p>
+ <p><font color="Black"> % BLER: 11.8%</font></p>
+ <p><font color="Black"> % NACKs: 5.6%</font></p>
+ <p><font color="Black"> % SCCH: 34.9%</font></p>
+ <p><font color="Black"> % QPSK: 4.1%</font></p>
+ <p><font color="Black"> % 16QAM: 44.9%</font></p>
+ <p><font color="Black"> % 64QAM: 51.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.59</font></p>
+ <p><font color="Black"> EcIo AVG: -6.81</font></p>
+ <p><font color="Black"> CellId inicial: 1496</font></p>
+ <p><font color="Black"> CellId final: 1496</font></p>
+ <p><font color="Black"> SC inicial: 482</font></p>
+ <p><font color="Black"> SC final: 482</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.36507666666667,43.316095</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 13622Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:14:03.994</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:14:03.994</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.5</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 149%</font></p>
+ <p><font color="Black"> % BLER: 13.8%</font></p>
+ <p><font color="Black"> % NACKs: 8.8%</font></p>
+ <p><font color="Black"> % SCCH: 38.9%</font></p>
+ <p><font color="Black"> % QPSK: 3.2%</font></p>
+ <p><font color="Black"> % 16QAM: 66.6%</font></p>
+ <p><font color="Black"> % 64QAM: 30.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.3</font></p>
+ <p><font color="Black"> EcIo AVG: -5.98</font></p>
+ <p><font color="Black"> CellId inicial: 11511</font></p>
+ <p><font color="Black"> CellId final: 11511</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.36762,43.3167983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8410Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:17:49.613</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:17:49.613</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.3</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 114%</font></p>
+ <p><font color="Black"> % BLER: 23.9%</font></p>
+ <p><font color="Black"> % NACKs: 18.9%</font></p>
+ <p><font color="Black"> % SCCH: 60.8%</font></p>
+ <p><font color="Black"> % QPSK: 27.3%</font></p>
+ <p><font color="Black"> % 16QAM: 72.4%</font></p>
+ <p><font color="Black"> % 64QAM: 0.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.28</font></p>
+ <p><font color="Black"> EcIo AVG: -6.33</font></p>
+ <p><font color="Black"> CellId inicial: 1470</font></p>
+ <p><font color="Black"> CellId final: 1470</font></p>
+ <p><font color="Black"> SC inicial: 498</font></p>
+ <p><font color="Black"> SC final: 498</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.37456166666667,43.31521</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 12488Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:22:51.360</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:22:51.360</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.8</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 138%</font></p>
+ <p><font color="Black"> % BLER: 5.4%</font></p>
+ <p><font color="Black"> % NACKs: 3%</font></p>
+ <p><font color="Black"> % SCCH: 38.1%</font></p>
+ <p><font color="Black"> % QPSK: 31.2%</font></p>
+ <p><font color="Black"> % 16QAM: 54.1%</font></p>
+ <p><font color="Black"> % 64QAM: 14.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88</font></p>
+ <p><font color="Black"> EcIo AVG: -6.17</font></p>
+ <p><font color="Black"> CellId inicial: 11513</font></p>
+ <p><font color="Black"> CellId final: 11513</font></p>
+ <p><font color="Black"> SC inicial: 498</font></p>
+ <p><font color="Black"> SC final: 498</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38106833333333,43.3111316666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11051Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:26:36.145</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:26:36.145</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.7</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 125%</font></p>
+ <p><font color="Black"> % BLER: 17.3%</font></p>
+ <p><font color="Black"> % NACKs: 14.6%</font></p>
+ <p><font color="Black"> % SCCH: 49.9%</font></p>
+ <p><font color="Black"> % QPSK: 16.6%</font></p>
+ <p><font color="Black"> % 16QAM: 80.8%</font></p>
+ <p><font color="Black"> % 64QAM: 2.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -100.82</font></p>
+ <p><font color="Black"> EcIo AVG: -7.82</font></p>
+ <p><font color="Black"> CellId inicial: 1254</font></p>
+ <p><font color="Black"> CellId final: 1254</font></p>
+ <p><font color="Black"> SC inicial: 263</font></p>
+ <p><font color="Black"> SC final: 263</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.37900833333333,43.3090033333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 19561Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:31:29.665</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:31:29.665</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.6</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 146%</font></p>
+ <p><font color="Black"> % BLER: 6.5%</font></p>
+ <p><font color="Black"> % NACKs: 4.2%</font></p>
+ <p><font color="Black"> % SCCH: 59.4%</font></p>
+ <p><font color="Black"> % QPSK: 2.4%</font></p>
+ <p><font color="Black"> % 16QAM: 8.1%</font></p>
+ <p><font color="Black"> % 64QAM: 89.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.8</font></p>
+ <p><font color="Black"> EcIo AVG: -4.9</font></p>
+ <p><font color="Black"> CellId inicial: 1254</font></p>
+ <p><font color="Black"> CellId final: 1254</font></p>
+ <p><font color="Black"> SC inicial: 263</font></p>
+ <p><font color="Black"> SC final: 263</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.384345,43.3065366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 14700Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:35:09.751</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:35:09.751</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.6</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 148%</font></p>
+ <p><font color="Black"> % BLER: 15.5%</font></p>
+ <p><font color="Black"> % NACKs: 9%</font></p>
+ <p><font color="Black"> % SCCH: 37.8%</font></p>
+ <p><font color="Black"> % QPSK: 3.8%</font></p>
+ <p><font color="Black"> % 16QAM: 66.4%</font></p>
+ <p><font color="Black"> % 64QAM: 29.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -93.01</font></p>
+ <p><font color="Black"> EcIo AVG: -6.35</font></p>
+ <p><font color="Black"> CellId inicial: 1254</font></p>
+ <p><font color="Black"> CellId final: 1254</font></p>
+ <p><font color="Black"> SC inicial: 263</font></p>
+ <p><font color="Black"> SC final: 263</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38305166666667,43.3130416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 17182Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:39:57.770</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:39:57.770</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.7</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 140%</font></p>
+ <p><font color="Black"> % BLER: 28.2%</font></p>
+ <p><font color="Black"> % NACKs: 12.8%</font></p>
+ <p><font color="Black"> % SCCH: 43.2%</font></p>
+ <p><font color="Black"> % QPSK: 3.4%</font></p>
+ <p><font color="Black"> % 16QAM: 11%</font></p>
+ <p><font color="Black"> % 64QAM: 85.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.49</font></p>
+ <p><font color="Black"> EcIo AVG: -4.59</font></p>
+ <p><font color="Black"> CellId inicial: 1246</font></p>
+ <p><font color="Black"> CellId final: 1246</font></p>
+ <p><font color="Black"> SC inicial: 279</font></p>
+ <p><font color="Black"> SC final: 279</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.385835,43.315235</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2691Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:43:49.837</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:43:49.837</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.4</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 44%</font></p>
+ <p><font color="Black"> % BLER: 21.5%</font></p>
+ <p><font color="Black"> % NACKs: 11.7%</font></p>
+ <p><font color="Black"> % SCCH: 51.5%</font></p>
+ <p><font color="Black"> % QPSK: 67.8%</font></p>
+ <p><font color="Black"> % 16QAM: 32.1%</font></p>
+ <p><font color="Black"> % 64QAM: 0.1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.58</font></p>
+ <p><font color="Black"> EcIo AVG: -6.12</font></p>
+ <p><font color="Black"> CellId inicial: 1470</font></p>
+ <p><font color="Black"> CellId final: 1470</font></p>
+ <p><font color="Black"> SC inicial: 498</font></p>
+ <p><font color="Black"> SC final: 498</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38269333333333,43.316355</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7232Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:48:47.173</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:48:47.173</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.7</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 117%</font></p>
+ <p><font color="Black"> % BLER: 22.6%</font></p>
+ <p><font color="Black"> % NACKs: 18.9%</font></p>
+ <p><font color="Black"> % SCCH: 62%</font></p>
+ <p><font color="Black"> % QPSK: 45.6%</font></p>
+ <p><font color="Black"> % 16QAM: 53.2%</font></p>
+ <p><font color="Black"> % 64QAM: 1.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.32</font></p>
+ <p><font color="Black"> EcIo AVG: -6.57</font></p>
+ <p><font color="Black"> CellId inicial: 47789</font></p>
+ <p><font color="Black"> CellId final: 47789</font></p>
+ <p><font color="Black"> SC inicial: 147</font></p>
+ <p><font color="Black"> SC final: 147</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38316,43.3248766666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 4850Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:52:54.257</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:52:54.257</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18.8</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 126%</font></p>
+ <p><font color="Black"> % BLER: 23.9%</font></p>
+ <p><font color="Black"> % NACKs: 18.9%</font></p>
+ <p><font color="Black"> % SCCH: 41.9%</font></p>
+ <p><font color="Black"> % QPSK: 34.5%</font></p>
+ <p><font color="Black"> % 16QAM: 65.1%</font></p>
+ <p><font color="Black"> % 64QAM: 0.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -99.82</font></p>
+ <p><font color="Black"> EcIo AVG: -8.71</font></p>
+ <p><font color="Black"> CellId inicial: 1470</font></p>
+ <p><font color="Black"> CellId final: 1470</font></p>
+ <p><font color="Black"> SC inicial: 498</font></p>
+ <p><font color="Black"> SC final: 498</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38121833333333,43.31884</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2979Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:58:01.755</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:58:01.755</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 13.8</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 78%</font></p>
+ <p><font color="Black"> % BLER: 27.5%</font></p>
+ <p><font color="Black"> % NACKs: 30.7%</font></p>
+ <p><font color="Black"> % SCCH: 70.4%</font></p>
+ <p><font color="Black"> % QPSK: 89.9%</font></p>
+ <p><font color="Black"> % 16QAM: 9.7%</font></p>
+ <p><font color="Black"> % 64QAM: 0.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.83</font></p>
+ <p><font color="Black"> EcIo AVG: -7.09</font></p>
+ <p><font color="Black"> CellId inicial: 38590</font></p>
+ <p><font color="Black"> CellId final: 38590</font></p>
+ <p><font color="Black"> SC inicial: 310</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.385765,43.3207566666667</coordinates>
+</Point>
+</Placemark>
+<name>358672057558474</name>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>358672057558474</name>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5509Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:21:37.871</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:21:37.871</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.2</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 16%</font></p>
+ <p><font color="Black"> % BLER: 9.9%</font></p>
+ <p><font color="Black"> % NACKs: 8%</font></p>
+ <p><font color="Black"> % SCCH: 86.9%</font></p>
+ <p><font color="Black"> % QPSK: 4.5%</font></p>
+ <p><font color="Black"> % 16QAM: 95.5%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.24</font></p>
+ <p><font color="Black"> EcIo AVG: -10.13</font></p>
+ <p><font color="Black"> CellId inicial: 15649</font></p>
+ <p><font color="Black"> CellId final: 15649</font></p>
+ <p><font color="Black"> SC inicial: 220</font></p>
+ <p><font color="Black"> SC final: 220</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.37816,43.28912</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5118Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:25:23.339</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:25:23.339</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.2</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 15%</font></p>
+ <p><font color="Black"> % BLER: 11.9%</font></p>
+ <p><font color="Black"> % NACKs: 10%</font></p>
+ <p><font color="Black"> % SCCH: 75.1%</font></p>
+ <p><font color="Black"> % QPSK: 2.9%</font></p>
+ <p><font color="Black"> % 16QAM: 97.1%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.06</font></p>
+ <p><font color="Black"> EcIo AVG: -10.1</font></p>
+ <p><font color="Black"> CellId inicial: 15649</font></p>
+ <p><font color="Black"> CellId final: 15649</font></p>
+ <p><font color="Black"> SC inicial: 220</font></p>
+ <p><font color="Black"> SC final: 220</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.37816,43.28912</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2564Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:30:21.411</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:30:21.411</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 13.2</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 68%</font></p>
+ <p><font color="Black"> % BLER: 21.8%</font></p>
+ <p><font color="Black"> % NACKs: 32%</font></p>
+ <p><font color="Black"> % SCCH: 69.2%</font></p>
+ <p><font color="Black"> % QPSK: 89.9%</font></p>
+ <p><font color="Black"> % 16QAM: 9.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -97.04</font></p>
+ <p><font color="Black"> EcIo AVG: -6.79</font></p>
+ <p><font color="Black"> CellId inicial: 41059</font></p>
+ <p><font color="Black"> CellId final: 41059</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38421333333333,43.2894016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4032Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:35:00.263</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:35:00.263</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 13.7</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 61%</font></p>
+ <p><font color="Black"> % BLER: 12.5%</font></p>
+ <p><font color="Black"> % NACKs: 17.6%</font></p>
+ <p><font color="Black"> % SCCH: 73.1%</font></p>
+ <p><font color="Black"> % QPSK: 84.9%</font></p>
+ <p><font color="Black"> % 16QAM: 15%</font></p>
+ <p><font color="Black"> % 64QAM: 0.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -97.94</font></p>
+ <p><font color="Black"> EcIo AVG: -7.85</font></p>
+ <p><font color="Black"> CellId inicial: 1567</font></p>
+ <p><font color="Black"> CellId final: 1567</font></p>
+ <p><font color="Black"> SC inicial: 14</font></p>
+ <p><font color="Black"> SC final: 223</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38835333333333,43.29584</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 15507Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:40:10.614</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:40:10.614</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.2</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 36%</font></p>
+ <p><font color="Black"> % BLER: 19.3%</font></p>
+ <p><font color="Black"> % NACKs: 32.8%</font></p>
+ <p><font color="Black"> % SCCH: 91.7%</font></p>
+ <p><font color="Black"> % QPSK: 2.3%</font></p>
+ <p><font color="Black"> % 16QAM: 59.7%</font></p>
+ <p><font color="Black"> % 64QAM: 37.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.41</font></p>
+ <p><font color="Black"> EcIo AVG: -8.53</font></p>
+ <p><font color="Black"> CellId inicial: 1254</font></p>
+ <p><font color="Black"> CellId final: 1254</font></p>
+ <p><font color="Black"> SC inicial: 263</font></p>
+ <p><font color="Black"> SC final: 263</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38419833333333,43.3041566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3191Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:43:55.947</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:43:55.947</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 13.5</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 43%</font></p>
+ <p><font color="Black"> % BLER: 20.8%</font></p>
+ <p><font color="Black"> % NACKs: 32.6%</font></p>
+ <p><font color="Black"> % SCCH: 85.4%</font></p>
+ <p><font color="Black"> % QPSK: 97.4%</font></p>
+ <p><font color="Black"> % 16QAM: 2.6%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -93.41</font></p>
+ <p><font color="Black"> EcIo AVG: -7.84</font></p>
+ <p><font color="Black"> CellId inicial: 38589</font></p>
+ <p><font color="Black"> CellId final: 38589</font></p>
+ <p><font color="Black"> SC inicial: 482</font></p>
+ <p><font color="Black"> SC final: 5</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.37217833333333,43.3103683333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 6525Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:52:53.504</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:52:53.504</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 20%</font></p>
+ <p><font color="Black"> % BLER: 20.4%</font></p>
+ <p><font color="Black"> % NACKs: 16.7%</font></p>
+ <p><font color="Black"> % SCCH: 75.6%</font></p>
+ <p><font color="Black"> % QPSK: 3.3%</font></p>
+ <p><font color="Black"> % 16QAM: 59.6%</font></p>
+ <p><font color="Black"> % 64QAM: 37.1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -66.06</font></p>
+ <p><font color="Black"> EcIo AVG: -7.39</font></p>
+ <p><font color="Black"> CellId inicial: 15649</font></p>
+ <p><font color="Black"> CellId final: 15649</font></p>
+ <p><font color="Black"> SC inicial: 220</font></p>
+ <p><font color="Black"> SC final: 220</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.372955,43.3012916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7033Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 08:57:34.836</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 08:57:34.836</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.7</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 41%</font></p>
+ <p><font color="Black"> % BLER: 17.4%</font></p>
+ <p><font color="Black"> % NACKs: 10.5%</font></p>
+ <p><font color="Black"> % SCCH: 66.8%</font></p>
+ <p><font color="Black"> % QPSK: 0.6%</font></p>
+ <p><font color="Black"> % 16QAM: 25.9%</font></p>
+ <p><font color="Black"> % 64QAM: 73.4%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.31</font></p>
+ <p><font color="Black"> EcIo AVG: -8.24</font></p>
+ <p><font color="Black"> CellId inicial: 15650</font></p>
+ <p><font color="Black"> CellId final: 15650</font></p>
+ <p><font color="Black"> SC inicial: 223</font></p>
+ <p><font color="Black"> SC final: 207</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.37097666666667,43.3065166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8709Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:01:53.797</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:01:53.797</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 127%</font></p>
+ <p><font color="Black"> % BLER: 17.5%</font></p>
+ <p><font color="Black"> % NACKs: 13.2%</font></p>
+ <p><font color="Black"> % SCCH: 43.6%</font></p>
+ <p><font color="Black"> % QPSK: 1.2%</font></p>
+ <p><font color="Black"> % 16QAM: 32.4%</font></p>
+ <p><font color="Black"> % 64QAM: 66.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.37</font></p>
+ <p><font color="Black"> EcIo AVG: -5.92</font></p>
+ <p><font color="Black"> CellId inicial: 906</font></p>
+ <p><font color="Black"> CellId final: 906</font></p>
+ <p><font color="Black"> SC inicial: 482</font></p>
+ <p><font color="Black"> SC final: 482</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.36506,43.31504</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11867Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:06:59.498</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:06:59.498</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 53%</font></p>
+ <p><font color="Black"> % BLER: 19.6%</font></p>
+ <p><font color="Black"> % NACKs: 28.6%</font></p>
+ <p><font color="Black"> % SCCH: 78.7%</font></p>
+ <p><font color="Black"> % QPSK: 1.1%</font></p>
+ <p><font color="Black"> % 16QAM: 83.1%</font></p>
+ <p><font color="Black"> % 64QAM: 15.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.76</font></p>
+ <p><font color="Black"> EcIo AVG: -9.47</font></p>
+ <p><font color="Black"> CellId inicial: 1496</font></p>
+ <p><font color="Black"> CellId final: 1496</font></p>
+ <p><font color="Black"> SC inicial: 482</font></p>
+ <p><font color="Black"> SC final: 482</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.364385,43.3159333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 19653Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:10:41.413</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:10:41.413</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.1</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 42%</font></p>
+ <p><font color="Black"> % BLER: 14.3%</font></p>
+ <p><font color="Black"> % NACKs: 22.9%</font></p>
+ <p><font color="Black"> % SCCH: 90.9%</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 16.4%</font></p>
+ <p><font color="Black"> % 64QAM: 83.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.39</font></p>
+ <p><font color="Black"> EcIo AVG: -8.34</font></p>
+ <p><font color="Black"> CellId inicial: 1435</font></p>
+ <p><font color="Black"> CellId final: 1435</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.36870333333333,43.317325</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 12005Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:15:31.096</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:15:31.096</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.4</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 51%</font></p>
+ <p><font color="Black"> % BLER: 20.1%</font></p>
+ <p><font color="Black"> % NACKs: 29.9%</font></p>
+ <p><font color="Black"> % SCCH: 81%</font></p>
+ <p><font color="Black"> % QPSK: 6.7%</font></p>
+ <p><font color="Black"> % 16QAM: 77.2%</font></p>
+ <p><font color="Black"> % 64QAM: 16.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -72.32</font></p>
+ <p><font color="Black"> EcIo AVG: -7.95</font></p>
+ <p><font color="Black"> CellId inicial: 11511</font></p>
+ <p><font color="Black"> CellId final: 11511</font></p>
+ <p><font color="Black"> SC inicial: 498</font></p>
+ <p><font color="Black"> SC final: 498</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.37039833333333,43.31452</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9331Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:19:21.142</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:19:21.142</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.7</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 76%</font></p>
+ <p><font color="Black"> % BLER: 25%</font></p>
+ <p><font color="Black"> % NACKs: 32.6%</font></p>
+ <p><font color="Black"> % SCCH: 67.1%</font></p>
+ <p><font color="Black"> % QPSK: 7.5%</font></p>
+ <p><font color="Black"> % 16QAM: 47%</font></p>
+ <p><font color="Black"> % 64QAM: 45.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.56</font></p>
+ <p><font color="Black"> EcIo AVG: -7.78</font></p>
+ <p><font color="Black"> CellId inicial: 1470</font></p>
+ <p><font color="Black"> CellId final: 1470</font></p>
+ <p><font color="Black"> SC inicial: 498</font></p>
+ <p><font color="Black"> SC final: 498</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.3705,43.31659</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10386Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:24:18.808</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:24:18.808</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.3</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 41%</font></p>
+ <p><font color="Black"> % BLER: 20.9%</font></p>
+ <p><font color="Black"> % NACKs: 33%</font></p>
+ <p><font color="Black"> % SCCH: 82.3%</font></p>
+ <p><font color="Black"> % QPSK: 21.3%</font></p>
+ <p><font color="Black"> % 16QAM: 75%</font></p>
+ <p><font color="Black"> % 64QAM: 3.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.04</font></p>
+ <p><font color="Black"> EcIo AVG: -8.63</font></p>
+ <p><font color="Black"> CellId inicial: 1470</font></p>
+ <p><font color="Black"> CellId final: 1470</font></p>
+ <p><font color="Black"> SC inicial: 498</font></p>
+ <p><font color="Black"> SC final: 498</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38056333333333,43.3106466666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10900Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:28:07.638</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:28:07.638</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.2</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 40%</font></p>
+ <p><font color="Black"> % BLER: 23.6%</font></p>
+ <p><font color="Black"> % NACKs: 37.9%</font></p>
+ <p><font color="Black"> % SCCH: 83.9%</font></p>
+ <p><font color="Black"> % QPSK: 6.8%</font></p>
+ <p><font color="Black"> % 16QAM: 85.1%</font></p>
+ <p><font color="Black"> % 64QAM: 8.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -98.63</font></p>
+ <p><font color="Black"> EcIo AVG: -9.63</font></p>
+ <p><font color="Black"> CellId inicial: 1254</font></p>
+ <p><font color="Black"> CellId final: 1254</font></p>
+ <p><font color="Black"> SC inicial: 263</font></p>
+ <p><font color="Black"> SC final: 263</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.37848166666667,43.3060866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4740Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:32:53.855</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:32:53.855</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.2</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 86%</font></p>
+ <p><font color="Black"> % BLER: 21.8%</font></p>
+ <p><font color="Black"> % NACKs: 25.2%</font></p>
+ <p><font color="Black"> % SCCH: 68.5%</font></p>
+ <p><font color="Black"> % QPSK: 50.1%</font></p>
+ <p><font color="Black"> % 16QAM: 49.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -101.61</font></p>
+ <p><font color="Black"> EcIo AVG: -7.83</font></p>
+ <p><font color="Black"> CellId inicial: 1254</font></p>
+ <p><font color="Black"> CellId final: 1254</font></p>
+ <p><font color="Black"> SC inicial: 263</font></p>
+ <p><font color="Black"> SC final: 263</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38168666666667,43.308475</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 21105Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:36:33.175</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:36:33.175</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 45%</font></p>
+ <p><font color="Black"> % BLER: 18.7%</font></p>
+ <p><font color="Black"> % NACKs: 29.5%</font></p>
+ <p><font color="Black"> % SCCH: 89.9%</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 7.6%</font></p>
+ <p><font color="Black"> % 64QAM: 92.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -73.71</font></p>
+ <p><font color="Black"> EcIo AVG: -7.3</font></p>
+ <p><font color="Black"> CellId inicial: 1246</font></p>
+ <p><font color="Black"> CellId final: 1246</font></p>
+ <p><font color="Black"> SC inicial: 279</font></p>
+ <p><font color="Black"> SC final: 279</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38533833333333,43.315525</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 13091Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:41:23.251</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:41:23.251</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.4</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 47%</font></p>
+ <p><font color="Black"> % BLER: 18.7%</font></p>
+ <p><font color="Black"> % NACKs: 30.1%</font></p>
+ <p><font color="Black"> % SCCH: 81.4%</font></p>
+ <p><font color="Black"> % QPSK: 2.4%</font></p>
+ <p><font color="Black"> % 16QAM: 84.4%</font></p>
+ <p><font color="Black"> % 64QAM: 13.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.03</font></p>
+ <p><font color="Black"> EcIo AVG: -8.76</font></p>
+ <p><font color="Black"> CellId inicial: 1246</font></p>
+ <p><font color="Black"> CellId final: 1246</font></p>
+ <p><font color="Black"> SC inicial: 279</font></p>
+ <p><font color="Black"> SC final: 263</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.384355,43.3138433333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2206Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:45:21.552</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:45:21.552</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 23%</font></p>
+ <p><font color="Black"> % BLER: 23.3%</font></p>
+ <p><font color="Black"> % NACKs: 19.1%</font></p>
+ <p><font color="Black"> % SCCH: 75.8%</font></p>
+ <p><font color="Black"> % QPSK: 78%</font></p>
+ <p><font color="Black"> % 16QAM: 21.9%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.08</font></p>
+ <p><font color="Black"> EcIo AVG: -7.66</font></p>
+ <p><font color="Black"> CellId inicial: 1470</font></p>
+ <p><font color="Black"> CellId final: 1470</font></p>
+ <p><font color="Black"> SC inicial: 239</font></p>
+ <p><font color="Black"> SC final: 498</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38003333333333,43.3215883333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3069Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:50:29.562</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:50:29.562</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 14.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 88%</font></p>
+ <p><font color="Black"> % BLER: 24.3%</font></p>
+ <p><font color="Black"> % NACKs: 24.6%</font></p>
+ <p><font color="Black"> % SCCH: 59.8%</font></p>
+ <p><font color="Black"> % QPSK: 77%</font></p>
+ <p><font color="Black"> % 16QAM: 21.8%</font></p>
+ <p><font color="Black"> % 64QAM: 1.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.55</font></p>
+ <p><font color="Black"> EcIo AVG: -6.62</font></p>
+ <p><font color="Black"> CellId inicial: 2006</font></p>
+ <p><font color="Black"> CellId final: 2006</font></p>
+ <p><font color="Black"> SC inicial: 207</font></p>
+ <p><font color="Black"> SC final: 498</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38123833333333,43.32023</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 19453Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 09:54:24.521</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 09:54:24.521</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 51%</font></p>
+ <p><font color="Black"> % BLER: 16.7%</font></p>
+ <p><font color="Black"> % NACKs: 25.6%</font></p>
+ <p><font color="Black"> % SCCH: 82.2%</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 21.5%</font></p>
+ <p><font color="Black"> % 64QAM: 78.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -61.36</font></p>
+ <p><font color="Black"> EcIo AVG: -7.01</font></p>
+ <p><font color="Black"> CellId inicial: 1360</font></p>
+ <p><font color="Black"> CellId final: 1360</font></p>
+ <p><font color="Black"> SC inicial: 239</font></p>
+ <p><font color="Black"> SC final: 239</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38331666666667,43.3158633333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10844Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 10:00:20.941</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 10:00:20.941</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.4</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 79%</font></p>
+ <p><font color="Black"> % BLER: 21%</font></p>
+ <p><font color="Black"> % NACKs: 26.9%</font></p>
+ <p><font color="Black"> % SCCH: 64.7%</font></p>
+ <p><font color="Black"> % QPSK: 7.3%</font></p>
+ <p><font color="Black"> % 16QAM: 55.4%</font></p>
+ <p><font color="Black"> % 64QAM: 37.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -73.65</font></p>
+ <p><font color="Black"> EcIo AVG: -6.58</font></p>
+ <p><font color="Black"> CellId inicial: 35176</font></p>
+ <p><font color="Black"> CellId final: 35176</font></p>
+ <p><font color="Black"> SC inicial: 38</font></p>
+ <p><font color="Black"> SC final: 147</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.385065,43.32472</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4894Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-02-14 10:04:22.057</font></p>
+ <p><font color="Black"> Hora: 2017-02-14 10:04:22.057</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057558474</font></p>
+ <p><font color="Black"> LogFile: 20170214_ADD_C_CULLEREDO_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 15.3</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 32%</font></p>
+ <p><font color="Black"> % BLER: 2%</font></p>
+ <p><font color="Black"> % NACKs: 3.1%</font></p>
+ <p><font color="Black"> % SCCH: 95%</font></p>
+ <p><font color="Black"> % QPSK: 99.9%</font></p>
+ <p><font color="Black"> % 16QAM: 0.1%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -100.66</font></p>
+ <p><font color="Black"> EcIo AVG: -8.64</font></p>
+ <p><font color="Black"> CellId inicial: 41162</font></p>
+ <p><font color="Black"> CellId final: 41162</font></p>
+ <p><font color="Black"> SC inicial: 38</font></p>
+ <p><font color="Black"> SC final: 38</font></p>
+ <p><font color="Black"> LAC inicial: 65000</font></p>
+ <p><font color="Black"> LAC final: 65000</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-8.38387,43.3227633333333</coordinates>
+</Point>
+</Placemark>
+<name>358672057558474</name>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_FTP_DL_2x2.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

@@ -1,0 +1,10 @@
+!table
+!version 1000
+!charset WindowsLatin1
+
+Definition Table
+  File "mogan_num.xlsx"
+  Type XLS Titles Range "Hoja2!A2:B65"
+  Fields 2
+    longitud Char (16) ;
+    latitud Char (16) ;

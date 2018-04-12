@@ -1,0 +1,1 @@
+update  Parcelas_Prueba2 set obj = mbr(createline(longitud, latitud, longitud + 0.00582, latitud + 0.00448))

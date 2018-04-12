@@ -1,0 +1,9 @@
+!table
+!version 1000
+!charset WindowsLatin1
+
+Definition Table
+  File "penafiel_num.xlsx"
+  Type XLS Titles Range "Hoja1!A2:A19"
+  Fields 1
+    parcel Char (54) ;

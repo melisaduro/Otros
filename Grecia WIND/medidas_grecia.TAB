@@ -1,0 +1,10 @@
+!table
+!version 1000
+!charset WindowsLatin1
+
+Definition Table
+  File "medidas_grecia.xlsx"
+  Type XLS Titles Range "Hoja1!A2:B33307"
+  Fields 2
+    latitude Float ;
+    longitude Float ;

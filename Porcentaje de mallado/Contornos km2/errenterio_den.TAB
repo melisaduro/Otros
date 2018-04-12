@@ -1,0 +1,10 @@
+!table
+!version 1000
+!charset WindowsLatin1
+
+Definition Table
+  File "errenterio_den.xlsx"
+  Type XLS Titles Range "Hoja1!A2:B36"
+  Fields 2
+    longitud Char (16) ;
+    latitud Char (16) ;
