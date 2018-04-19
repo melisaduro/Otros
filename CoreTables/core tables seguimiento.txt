@@ -11,10 +11,58 @@ Procedimientos VOICE:
 		-Variables KPIID fijo
 		-Variables KPIID dependiendo de la tabla Config
 
+KPIID Accessibility_CS (75001,10108,10109)
+KPIID Retainability_CS (75010,20103)
+KPIID Accessibility_VOLTE (75101,11011)
+KPIID Retainability_VOLTE (75110,21010)
+KPIID Accessibility_VOLTE_Cap (75201,11011)
+KPIID Retainability_VOLTE_Cap (75210,21010)
+
+KPIID CST_Voice_M2M_CS (75002,10108)
+KPIID CST_Voice_M2M_VOLTE (75102,11011)
+KPIID CST_Voice_M2M_VOLTE_Cap (75202,11011)
+
+KPIID CST_Alerting_M2F_CS (10100)
+KPIID CST_Alerting_M2F_VOLTE (11000)
+KPIID CST_Alerting_M2M_CS (10104)
+KPIID CST_Alerting_M2M_VOLTE ()
+
+KPIID CST_Connect_M2F_CS (10101)
+KPIID CST_Connect_M2F_VOLTE (11010)
+KPIID CST_Connect_M2M_CS (10109)
+KPIID CST_Connect_M2M_VOLTE ()
+
+		
+*M2F: 
+
 [sp_create_lcc_core_Voice_CST_Metrics_Table]-> dependiendo de la tabla Config
 
 Ideas:
-*Tabla Confir Markers_Rangos
+*Tabla Config Markers_Rangos
 *Procedimientos CST KPIID + CST Markers_Rangos
 *maxsessionid y maxtestid?
 *tablas intermedias? SI
+
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Invalidaciones
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+--Marcamos como fallidas las llamadas que en el CU de Vodafone marca como fallo 
+--KPIID: 75001->Voice CS
+--KPIID: 75101->Voice VOLTE Real
+--KPIID: 75201->Voice VOLTE Capable
+
+update lcc_calls_detailed
+set callstatus='Failed', codeDescription = 'LCC CST timeout, original status: ' + callstatus,disconcause = 'LCC CST timeout'
+from vresultskpi k, lcc_calls_detailed t
+where k.sessionid=t.sessionid
+and k.sessionid in (select sessionid 
+					  from lcc_calls_detailed
+					  where cst_till_connect > 15000
+					  and (callstatus='dropped' or callstatus='completed')
+					  and calltype = 'M2M') 
+and kpiid in (75001,75101,75201) --KPIID que identifica que la llamada tiene más de 15 segundos
+and errorcode <>0  --El cu de Vodafone lo marca como llamada Failed

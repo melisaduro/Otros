@@ -1,4 +1,4 @@
-~94000
+~98522
 DELETE [DASHBOARD].dbo.estudio_celdas_top12
 WHERE CELL IS NULL
 
