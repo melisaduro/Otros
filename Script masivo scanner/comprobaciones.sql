@@ -1,0 +1,24 @@
+use [FY1718_SCANNER_GSM]
+select count(1),[database]
+from [dbo].[Scanner_2G_08]
+where [database] in ('FY1718_VOICE_REST_4G_H1_45',
+'FY1718_VOICE_REST_4G_H1_46',
+'FY1718_VOICE_REST_4G_H1_47',
+'FY1718_VOICE_REST_4G_H1_51',
+'FY1718_VOICE_REST_4G_H1_52',
+'FY1718_VOICE_REST_4G_H1_53',
+'FY1718_VOICE_REST_4G_H1_54',
+'FY1718_VOICE_REST_4G_H1_55')
+group by [database]
+
+select sum(Count_Reg),[database]
+from tabla_control
+where [database] in ('FY1718_VOICE_REST_4G_H1_45',
+'FY1718_VOICE_REST_4G_H1_46',
+'FY1718_VOICE_REST_4G_H1_47',
+'FY1718_VOICE_REST_4G_H1_51',
+'FY1718_VOICE_REST_4G_H1_52',
+'FY1718_VOICE_REST_4G_H1_53',
+'FY1718_VOICE_REST_4G_H1_54',
+'FY1718_VOICE_REST_4G_H1_55')
+group by [database]

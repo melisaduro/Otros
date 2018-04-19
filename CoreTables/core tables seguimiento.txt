@@ -1,0 +1,20 @@
+Procedimientos VOICE:
+
+[sp_create_lcc_core_Voice_Metrics_TimeStamp_Table]-> se añade la variable @Config para las tablas propias de Spain_OSP ([sp_lcc_core_Voice_Metrics_TimeStamp_Table_PdteACT])
+													 se renombran tablas temporales
+													 
+[sp_create_lcc_core_Voice_Metrics_Table]-> se añade la variable @Config para las tablas propias de Spain_OSP ([sp_lcc_core_Voice_Metrics_Table_PdteACT])
+										   se renombran tablas temporales
+
+[sp_create_lcc_core_Voice_CST_KPIs_Table]->
+	Dos versiones:
+		-Variables KPIID fijo
+		-Variables KPIID dependiendo de la tabla Config
+
+[sp_create_lcc_core_Voice_CST_Metrics_Table]-> dependiendo de la tabla Config
+
+Ideas:
+*Tabla Confir Markers_Rangos
+*Procedimientos CST KPIID + CST Markers_Rangos
+*maxsessionid y maxtestid?
+*tablas intermedias? SI

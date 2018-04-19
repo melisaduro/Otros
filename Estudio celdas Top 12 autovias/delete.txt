@@ -1,0 +1,17 @@
+~94000
+DELETE [DASHBOARD].dbo.estudio_celdas_top12
+WHERE CELL IS NULL
+
+
+~15000
+DELETE [DASHBOARD].dbo.estudio_celdas_top12
+where technology='UMTS' AND CELL LIKE '%-%'
+
+~289
+DELETE [DASHBOARD].dbo.estudio_celdas_top12
+where technology='UMTS' AND CONVERT(INT,CELL) > 66000
+AND OPERATOR IN ('vODAFONE','ORANGE')
+
+~295
+DELETE [DASHBOARD].dbo.estudio_celdas_top12
+where technology='UMTS' AND CONVERT(INT,CELL) > 66000
