@@ -42,6 +42,9 @@ Ideas:
 *Procedimientos CST KPIID + CST Markers_Rangos
 *maxsessionid y maxtestid?
 *tablas intermedias? SI
+*Duplicados Serving RAW por idSdetest(duplicados en voz) e idSide
+*Paging en datos eliminado:
+CU->metido sin KPIID (¿cambiar?
 
 
 ------------------------------------------------------------------------------------------
