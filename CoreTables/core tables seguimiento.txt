@@ -1,10 +1,39 @@
 Procedimientos VOICE:
 
+
+-- VOZ:
+exec [dbo].[sp_lcc_core_Master_Table]
+exec [dbo].[sp_lcc_core_GRID_Table] 'AGRIDS_v2', 'lcc_G2K5Absolute_INDEX_new', 1
+exec [dbo].[sp_lcc_core_Voice_Create_Views]
+
+--exec [dbo].[sp_lcc_core_Voice_Metrics_TimeStamp_Table]
+--exec [dbo].[sp_lcc_core_Voice_Metrics_Table]
+exec [dbo].[sp_lcc_core_Voice_Metrics_TimeStamp_Table_PdteACT]
+exec [dbo].[sp_lcc_core_Voice_Metrics_Table_PdteACT]
+
+exec [dbo].[sp_lcc_core_Voice_CST_KPIs_Table]
+exec [dbo].[sp_lcc_core_Voice_CST_Markers_Table]->NEW
+
+exec [dbo].[sp_lcc_core_Voice_MOS_Table]
+exec [dbo].[sp_lcc_core_Voice_Radio_Session_Table]->NEW (dinamico)
+exec [dbo].[sp_lcc_core_Voice_ServingCell_Session_Table_Dial2Discon]->NEW (dinamico)
+
+exec [dbo].[sp_lcc_core_Voice_CEM_KPIs_Metrics_Table]->añadir vecinas 2G y 3G (están en [sp_create_lcc_core_Voice_Metrics_Table])
+exec [dbo].[sp_lcc_core_Voice_CR_Metrics_Table]
+exec [dbo].[sp_lcc_core_Voice_FR_Metrics_Table]
+
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
 [sp_create_lcc_core_Voice_Metrics_TimeStamp_Table]-> se añade la variable @Config para las tablas propias de Spain_OSP ([sp_lcc_core_Voice_Metrics_TimeStamp_Table_PdteACT])
 													 se renombran tablas temporales
 													 
 [sp_create_lcc_core_Voice_Metrics_Table]-> se añade la variable @Config para las tablas propias de Spain_OSP ([sp_lcc_core_Voice_Metrics_Table_PdteACT])
 										   se renombran tablas temporales
+										   Se deja el calculo del SRVCC porque está entre Markers (tenemos el KPIID en sp_lcc_core_Voice_CEM_KPIs_Metrics_Table)
+										   Se quita los HO porque ya están en sp_lcc_core_Voice_CEM_KPIs_Metrics_Table
 
 [sp_create_lcc_core_Voice_CST_KPIs_Table]->
 	Dos versiones:
@@ -32,6 +61,13 @@ KPIID CST_Connect_M2F_VOLTE (11010)
 KPIID CST_Connect_M2M_CS (10109)
 KPIID CST_Connect_M2M_VOLTE ()
 
+[sp_create_lcc_core_Voice_CST_Markers_Table]-> se hace una versión con los Markers dinamicos (modificar la parte del Receiving_Party para hacerla dinamica tambien!!)
+
+[sp_create_lcc_core_Voice_MOS_Table]-> se añade la variable @Config para las tablas propias de Spain_OSP 
+													 se renombran tablas temporales
+
+
+[sp_create_lcc_core_Voice_CEM_KPIs_Metrics_Table]-> se añaden los calculos de handovers y Neighbours 2G y 3G sin acotar por Metrics_Timestamp
 		
 *M2F: 
 

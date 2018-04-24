@@ -10,13 +10,16 @@ GO
 
 CREATE TABLE [dbo].[lcc_core_Voice_Configuration_Table](
 	[Config] [nvarchar](max) NULL,
-	[Marker_ini_duration] [varchar(256)] NULL,  --Dial
-	[Marker_end_duration] [varchar(256)] NULL,  --Disconnect
-	[Marker_ini_tech] [varchar(256)] NULL,     --
-	[Marker_end_tech] [varchar(256)] NULL,
-	[Marker_ini_CST] [varchar(256)] NULL,     --Dial? CMServiceRequest
-	[Marker_end_CST_Alerting] [varchar(256)] NULL,   --Alerting. Si VOLTE: Request
-	[Marker_end_CST_Connect] [varchar(256)] NULL,    --Connect.
+	[Marker_ini_duration] varchar(256) NULL,  --Dial
+	[Marker_end_duration] varchar(256) NULL,  --Disconnect
+	[Marker_ini_tech] varchar(256) NULL,     --
+	[Marker_end_tech] varchar(256) NULL,
+	[CS_Marker_ini_CST] varchar(256) NULL,     --Dial? CMServiceRequest
+	[CS_Marker_end_CST_Alerting] varchar(256) NULL,   --Alerting. Si VOLTE: Request
+	[CS_Marker_end_CST_Connect] varchar(256) NULL,    --Connect.
+	[VOLTE_Marker_ini_CST] varchar(256) NULL,     --Dial? CMServiceRequest
+	[VOLTE_Marker_end_CST_Alerting] varchar(256) NULL,   --Alerting. Si VOLTE: Request
+	[VOLTE_Marker_end_CST_Connect] varchar(256) NULL,    --Connect.
 	[Disconnect_VOLTE] [bigint] NULL,  --31101
 	[Disconnect_CSFB] [bigint] NULL    --20101
 
@@ -24,4 +27,10 @@ CREATE TABLE [dbo].[lcc_core_Voice_Configuration_Table](
 
 GO
 
+
+INSERT INTO 
+[lcc_core_Voice_Configuration_Table]
+SELECT 'SpainOSP',
+		NULL,NULL,NULL,NULL,'isnull(isnull(UMTS_RRCConnectionRequest_time,LTE_ExtendedServiceRequest_time),Dial)','Alerting_time','Connect_time',
+		'isnull(VoLTE_Invite_req_time,Dial)','VoLTE_Ringing_time','VoLTE_InviteOK_time',NULL,NULL
 
