@@ -34,6 +34,7 @@ exec [dbo].[sp_lcc_core_Voice_FR_Metrics_Table]
 										   se renombran tablas temporales
 										   Se deja el calculo del SRVCC porque está entre Markers (tenemos el KPIID en sp_lcc_core_Voice_CEM_KPIs_Metrics_Table)
 										   Se quita los HO porque ya están en sp_lcc_core_Voice_CEM_KPIs_Metrics_Table
+										   Se añade kpiid a SRVCC y variables configurables a los HOs, SRVCC.
 
 [sp_create_lcc_core_Voice_CST_KPIs_Table]->
 	Dos versiones:
